@@ -1,0 +1,191 @@
+[
+  {
+    "id": "chanel-classic-small-black",
+    "gender": "men",
+    "brand": "CHANEL",
+    "name": "Classic Flap Small Lambskin Black",
+    "price": "1500",
+    "tag": "Available",
+    "image": "product1.jpg",
+    "images": [
+      "product1-1.png",
+      "product1-2.png",
+      "product1-3.jpg"
+    ],
+    "size": "23 × 14 × 6 cm",
+    "year": "2019",
+    "color": "Black / Gold hardware",
+    "description": "香奈儿经典小号 Classic Flap，黑色羊皮配金色五金，整体成色良好，角位轻微使用痕迹，链条顺滑。",
+    "price_eur": "1500",
+    "price_huf": "133234"
+  },
+  {
+    "id": "lv-speedy-25-mono",
+    "gender": "women",
+    "brand": "LOUIS VUITTON",
+    "name": "Speedy 25 Monogram",
+    "price": "890",
+    "tag": "Available",
+    "image": "product2.jpg",
+    "images": [
+      "product2-1.jpg",
+      "product2-2.jpg"
+    ],
+    "size": "25 × 19 × 15 cm",
+    "year": "2015",
+    "color": "Monogram / Vachetta leather",
+    "description": "LV Speedy 25 经典老花，手柄与皮件自然包浆，整体状态良好，内里干净，无明显异味。",
+    "price_eur": "890"
+  },
+  {
+    "id": "hermes-picotin-18-gold",
+    "gender": "women",
+    "brand": "HERMÈS",
+    "name": "Picotin Lock 18 Gold Clemence",
+    "price": "2350",
+    "tag": "Available",
+    "image": "product3.jpg",
+    "size": "18 × 19 × 13 cm",
+    "year": "2020",
+    "color": "Gold / Palladium hardware",
+    "description": "爱马仕 Picotin 18 金棕色，Clemence 牛皮，皮质柔软有垂感，五金轻微氧化，整体成色优秀。"
+  },
+  {
+    "id": "ysl-kate-medium-black",
+    "gender": "women",
+    "brand": "YSL",
+    "name": "Kate Medium Chain Bag Black",
+    "price": "980",
+    "tag": "Available",
+    "image": "product4.jpg",
+    "size": "24 × 15 × 5 cm",
+    "year": "2018",
+    "color": "Black / Silver hardware",
+    "description": "YSL Kate 中号链条包，黑色牛皮搭配银色五金，链条顺滑，角位轻微使用痕迹，版型挺括。"
+  },
+  {
+    "id": "loewe-puzzle-small-tan",
+    "gender": "women",
+    "brand": "LOEWE",
+    "name": "Puzzle Small Tan Calfskin",
+    "price": "1850",
+    "tag": "Sold",
+    "image": "product5.jpg",
+    "size": "24 × 16 × 10 cm",
+    "year": "2021",
+    "color": "Tan Brown / Gold hardware",
+    "description": "Loewe Puzzle 小号棕色，日常容量实用，角位正常磨损，皮面柔软有光泽。"
+  },
+  {
+    "id": "gucci-dionysus-small-gg",
+    "gender": "women",
+    "brand": "GUCCI",
+    "name": "Dionysus Small GG Supreme",
+    "price": "950",
+    "tag": "Available",
+    "image": "product6.jpg",
+    "size": "25 × 13.5 × 7 cm",
+    "year": "2019",
+    "color": "Beige GG / Silver hardware",
+    "description": "Gucci Dionysus 小号 GG 帆布，耐磨易打理，内衬绒面干净，链条正常氧化痕迹。"
+  },
+  {
+    "id": "celine-triomph-small-cream",
+    "gender": "women",
+    "brand": "CELINE",
+    "name": "Triomphe Small Cream Box Leather",
+    "price": "2150",
+    "tag": "Available",
+    "image": "product7.jpg",
+    "size": "18.5 × 14 × 6 cm",
+    "year": "2021",
+    "color": "Cream / Gold hardware",
+    "description": "Celine Triomphe 小号奶油色 Box 皮，金色扣，表面细微使用纹路，为 Box 皮正常状态。"
+  },
+  {
+    "id": "prada-reedition-2005-nylon-beige",
+    "gender": "women",
+    "brand": "PRADA",
+    "name": "Re-Edition 2005 Nylon Beige",
+    "price": "820",
+    "tag": "Sold",
+    "image": "product1.jpg",
+    "size": "22 × 16 × 6 cm",
+    "year": "2020",
+    "color": "Beige / Silver hardware",
+    "description": "Prada Re-edition 尼龙包，浅米色，轻便耐用，肩带干净，适合通勤与旅行。"
+  },
+  {
+    "id": "burberry-lola-small-caramel",
+    "gender": "women",
+    "brand": "BURBERRY",
+    "name": "Lola Small Caramel Lambskin",
+    "price": "960",
+    "tag": "Available",
+    "image": "product9.jpg",
+    "size": "23 × 13 × 6 cm",
+    "year": "2021",
+    "color": "Caramel / Gold hardware",
+    "description": "Burberry Lola 小号焦糖色，绗缝羊皮柔软，链条光亮，整体成色良好。"
+  },
+  {
+    "id": "lv-multi-pochette-cream",
+    "gender": "women",
+    "brand": "LOUIS VUITTON",
+    "name": "Multi Pochette Accessoires Cream Strap",
+    "price": "1820",
+    "tag": "Available",
+    "image": "product10.jpg",
+    "size": "24 × 14 × 4 cm（主包）",
+    "year": "2020",
+    "color": "Monogram / Cream strap",
+    "description": "LV Multi Pochette 多功能组合包，配奶油色织带与零钱包，组合玩法多，日常实用。"
+  },
+  {
+    "id": "item-11-9648",
+    "brand": "test",
+    "name": "test",
+    "price": "100",
+    "tag": "Available",
+    "year": "test",
+    "size": "test",
+    "color": "test",
+    "image": "1234.jpg",
+    "images": [
+      "123.jpg",
+      "1234.jpg"
+    ],
+    "description": "test",
+    "gender": "unisex"
+  },
+  {
+    "id": "im-1765631148583",
+    "brand": {
+      "en": "test2",
+      "hu": "test2"
+    },
+    "name": {
+      "en": "test2",
+      "hu": "test2"
+    },
+    "gender": "",
+    "price": "test",
+    "tag": "Available",
+    "year": "test",
+    "size": "test",
+    "color": {
+      "en": "test",
+      "hu": "test2"
+    },
+    "image": "1234.jpg",
+    "images": [
+      "product1-1.png",
+      "product1-2.png",
+      "product1-3.jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  }
+]

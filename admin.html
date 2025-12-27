@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Faye’s Vintage · Admin Panel</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+:root{
+  --bg:#fcf9f4;--accent:#c8a46d;--border:#e8e0d7;
+  --text:#2d2822;--muted:#8b8175;--changed:#fff5d6;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;padding:16px;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
+  background:var(--bg);color:var(--text)
+}
+h1{margin-top:0;font-size:20px;letter-spacing:.12em;text-transform:uppercase}
+.hint{font-size:13px;color:var(--muted);margin-bottom:16px}
+
+.tabs{display:flex;gap:8px;margin-bottom:10px}
+.tab-btn{
+  padding:6px 10px;font-size:13px;border-radius:999px;
+  border:1px solid var(--border);background:#fff;cursor:pointer
+}
+.tab-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+.section{display:none}
+.section.active{display:block}
+
+.toolbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+button{
+  padding:5px 10px;font-size:13px;border-radius:6px;
+  border:1px solid var(--border);background:#fff;cursor:pointer
+}
+button.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+button:disabled{opacity:.6;cursor:default}
+
+.status{font-size:12px;color:var(--muted)}
+
+.table-wrapper{
+  border-radius:8px;border:1px solid var(--border);
+  overflow:auto;background:#fff
+}
+table{border-collapse:collapse;width:100%;font-size:12px}
+th,td{border-bottom:1px solid var(--border);padding:4px 6px;vertical-align:top}
+th{background:#f4ede4;position:sticky;top:0}
+tr.row-changed td{background:var(--changed)}
+
+input.text,textarea,select{
+  width:100%;font-size:12px;padding:3px 4px;
+  border-radius:4px;border:1px solid var(--border)
+}
+textarea{min-height:46px;resize:vertical}
+.small{font-size:10px;color:var(--muted)}
+
+.ml{display:flex;flex-direction:column;gap:2px}
+
+.modal-block{
+  margin-bottom:16px;padding:10px;
+  border-radius:8px;border:1px solid var(--border);background:#fff
+}
+.modal-block h3{margin:0 0 6px;font-size:14px}
+
+.danger{border-color:#e28a8a;color:#b03535;background:#fff5f5}
+</style>
+</head>
+
+<body>
+
+<h1>Faye’s Vintage · Admin Panel</h1>
+<div class="hint">
+Products & Modal texts editor.<br>
+Language support: <b>English + Hungarian only</b>.
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" data-tab="products">Products</button>
+  <button class="tab-btn" data-tab="modals">Modal texts</button>
+</div>
+
+<!-- PRODUCTS -->
+<div class="section active" id="sec-products">
+  <div class="toolbar">
+    <input type="file" id="prodFile" accept=".json">
+    <button id="addBtn" disabled>Add product</button>
+    <button id="exportBtn" class="primary" disabled>Export products.json</button>
+    <span class="status" id="prodStatus"></span>
+  </div>
+
+  <div class="table-wrapper" id="tableWrap" style="display:none">
+    <table>
+      <thead>
+        <tr>
+          <th>Brand<br><span class="small">EN / HU</span></th>
+          <th>Name<br><span class="small">EN / HU</span></th>
+          <th>ID</th>
+          <th>Gender</th>
+
+          <!-- ✅ 改：Price 列支持 EUR + HUF -->
+          <th>Price<br><span class="small">EUR / HUF</span></th>
+
+          <th>Status</th>
+          <th>Year</th>
+          <th>Size</th>
+          <th>Color<br><span class="small">EN / HU</span></th>
+          <th>List image</th>
+          <th>Detail images</th>
+          <th>Description<br><span class="small">EN / HU</span></th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- MODALS -->
+<div class="section" id="sec-modals">
+  <div class="toolbar">
+    <input type="file" id="contentFile" accept=".json">
+    <button id="exportContentBtn" class="primary" disabled>Export content.json</button>
+    <span class="status" id="contentStatus"></span>
+  </div>
+  <div id="modalContainer"></div>
+</div>
+
+<script>
+/* tabs */
+document.querySelectorAll('.tab-btn').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('.tab-btn').forEach(x=>x.classList.remove('active'));
+    document.querySelectorAll('.section').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+    document.getElementById('sec-'+b.dataset.tab).classList.add('active');
+  };
+});
+
+/* ---------- PRODUCTS ---------- */
+let products=[],orig=[];
+const prodFile=document.getElementById('prodFile');
+const tbody=document.getElementById('tbody');
+const wrap=document.getElementById('tableWrap');
+const statusEl=document.getElementById('prodStatus');
+const addBtn=document.getElementById('addBtn');
+const exportBtn=document.getElementById('exportBtn');
+
+function ml(v){
+  // keep backward-compat: if string, treat as EN
+  if(!v||typeof v!=='object') return {en:v||'',hu:''};
+  return {en:v.en||'',hu:v.hu||''};
+}
+function ensureObj(i,f){
+  products[i][f]=ml(products[i][f]);
+}
+
+prodFile.onchange=()=>{
+  const f=prodFile.files[0]; if(!f) return;
+  const r=new FileReader();
+  r.onload=e=>{
+    products=JSON.parse(e.target.result);
+    orig=JSON.parse(JSON.stringify(products));
+    renderTable();
+    wrap.style.display='block';
+    addBtn.disabled=false;exportBtn.disabled=false;
+    statusEl.textContent='Loaded '+products.length+' products';
+  };
+  r.readAsText(f);
+};
+
+addBtn.onclick=()=>{
+  const newItem={
+    id:'item-'+Date.now(),
+    brand:{en:'',hu:''},
+    name:{en:'',hu:''},
+    gender:'',
+
+    // ✅ 新增：两个手填价格字段（保留 price 兼容旧网页）
+    price:'',
+    price_eur:'',
+    price_huf:'',
+
+    tag:'Available',
+    year:'',
+    size:'',
+    color:{en:'',hu:''},
+    image:'',
+    images:[],
+    description:{en:'',hu:''}
+  };
+  products.push(newItem);
+  orig.push(JSON.parse(JSON.stringify(newItem)));
+  renderTable(); // only on add
+};
+
+function rowHtml(p,i){
+  const brand=ml(p.brand), name=ml(p.name), color=ml(p.color), desc=ml(p.description);
+
+  // ✅ 兼容：如果旧数据只有 price，就先显示在 EUR 框里（你也可以手动再填 HUF）
+  const eur = (p.price_eur ?? '') || (typeof p.price === 'string' ? p.price : '');
+  const huf = (p.price_huf ?? '');
+
+  return `
+    <tr data-row="${i}">
+      <td>
+        <div class="ml">
+          <input class="text" data-i="${i}" data-f="brand" data-l="en" value="${escapeAttr(brand.en)}">
+          <input class="text" data-i="${i}" data-f="brand" data-l="hu" value="${escapeAttr(brand.hu)}">
+        </div>
+      </td>
+      <td>
+        <div class="ml">
+          <input class="text" data-i="${i}" data-f="name" data-l="en" value="${escapeAttr(name.en)}">
+          <input class="text" data-i="${i}" data-f="name" data-l="hu" value="${escapeAttr(name.hu)}">
+        </div>
+      </td>
+      <td><input class="text" data-i="${i}" data-f="id" value="${escapeAttr(p.id||'')}"></td>
+      <td>
+        <select class="text" data-i="${i}" data-f="gender">
+          <option value="">–</option>
+          <option value="women" ${p.gender==='women'?'selected':''}>Women</option>
+          <option value="men" ${p.gender==='men'?'selected':''}>Men</option>
+          <option value="unisex" ${p.gender==='unisex'?'selected':''}>Unisex</option>
+        </select>
+      </td>
+
+      <!-- ✅ 改：Price 单元格内放 EUR/HUF 两个输入，不影响现有的“编辑不重渲染”机制 -->
+      <td>
+        <div class="ml">
+          <input class="text" data-i="${i}" data-f="price_eur" placeholder="EUR" value="${escapeAttr(eur)}">
+          <input class="text" data-i="${i}" data-f="price_huf" placeholder="HUF" value="${escapeAttr(huf)}">
+        </div>
+        <div class="small">Manual input, no conversion</div>
+      </td>
+
+      <td>
+        <select class="text" data-i="${i}" data-f="tag">
+          <option value="Available" ${p.tag==='Available'?'selected':''}>Available</option>
+          <option value="Reserved" ${p.tag==='Reserved'?'selected':''}>Reserved</option>
+          <option value="Sold" ${p.tag==='Sold'?'selected':''}>Sold</option>
+          <option value="Archived" ${p.tag==='Archived'?'selected':''}>Archived</option>
+        </select>
+      </td>
+      <td><input class="text" data-i="${i}" data-f="year" value="${escapeAttr(p.year||'')}"></td>
+      <td><input class="text" data-i="${i}" data-f="size" value="${escapeAttr(p.size||'')}"></td>
+      <td>
+        <div class="ml">
+          <input class="text" data-i="${i}" data-f="color" data-l="en" value="${escapeAttr(color.en)}">
+          <input class="text" data-i="${i}" data-f="color" data-l="hu" value="${escapeAttr(color.hu)}">
+        </div>
+      </td>
+      <td><input class="text" data-i="${i}" data-f="image" value="${escapeAttr(p.image||'')}"></td>
+      <td><input class="text" data-i="${i}" data-f="images" value="${escapeAttr((p.images||[]).join(', '))}"></td>
+      <td>
+        <div class="ml">
+          <textarea data-i="${i}" data-f="description" data-l="en">${escapeText(desc.en)}</textarea>
+          <textarea data-i="${i}" data-f="description" data-l="hu">${escapeText(desc.hu)}</textarea>
+        </div>
+      </td>
+      <td><button class="danger" type="button" data-del="${i}">Del</button></td>
+    </tr>
+  `;
+}
+
+function renderTable(){
+  // full render ONLY when loading/adding/deleting (not typing)
+  tbody.innerHTML = products.map((p,i)=>rowHtml(p,i)).join('');
+  refreshChangedMarks();
+  bindTableEvents();
+}
+
+function bindTableEvents(){
+  // IMPORTANT: no render() inside input handler -> no jump
+  tbody.querySelectorAll('input,textarea,select').forEach(el=>{
+    el.addEventListener('input', onCellEdit);
+    el.addEventListener('change', onCellEdit);
+  });
+  tbody.querySelectorAll('[data-del]').forEach(b=>{
+    b.onclick=()=>{
+      const i=parseInt(b.dataset.del,10);
+      if(Number.isNaN(i)) return;
+      if(confirm('Delete this product?')){
+        products.splice(i,1); orig.splice(i,1);
+        renderTable(); // re-render only on delete
+      }
+    };
+  });
+}
+
+function onCellEdit(e){
+  const el=e.target;
+  const i=parseInt(el.dataset.i,10);
+  const f=el.dataset.f;
+  const l=el.dataset.l;
+  if(Number.isNaN(i) || !f) return;
+
+  if(l){
+    ensureObj(i,f);
+    products[i][f][l]=el.value;
+  }else if(f==='images'){
+    products[i].images = (el.value||'').split(',').map(s=>s.trim()).filter(Boolean);
+  }else{
+    products[i][f]=el.value;
+
+    // ✅ 兼容：如果你想继续让旧网页用 price，也可以同步把 EUR 写回 price
+    // （这样就算网页还只读 price，也会显示 EUR）
+    if(f==='price_eur'){
+      products[i].price = el.value;
+    }
+  }
+
+  // mark this row changed (no full rerender)
+  updateChangedMark(i);
+}
+
+function refreshChangedMarks(){
+  for(let i=0;i<products.length;i++) updateChangedMark(i);
+}
+
+function updateChangedMark(i){
+  const tr = tbody.querySelector(`tr[data-row="${i}"]`);
+  if(!tr) return;
+  const changed = JSON.stringify(products[i]) !== JSON.stringify(orig[i]);
+  tr.classList.toggle('row-changed', changed);
+}
+
+exportBtn.onclick=()=>{
+  const b=new Blob([JSON.stringify(products,null,2)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(b);a.download='products.json';a.click();
+};
+
+/* ---------- MODALS ---------- */
+let content=null;
+const contentFile=document.getElementById('contentFile');
+const modalBox=document.getElementById('modalContainer');
+const exportContentBtn=document.getElementById('exportContentBtn');
+const contentStatus=document.getElementById('contentStatus');
+
+contentFile.onchange=()=>{
+  const f=contentFile.files[0]; if(!f) return;
+  const r=new FileReader();
+  r.onload=e=>{
+    content=JSON.parse(e.target.result);
+    renderModals();
+    exportContentBtn.disabled=false;
+    contentStatus.textContent='Loaded content.json';
+  };
+  r.readAsText(f);
+};
+
+function renderModals(){
+  modalBox.innerHTML='';
+  ['about','service','visit','contact','news'].forEach(k=>{
+    const m=(content.modals && content.modals[k]) ? content.modals[k] : {title:{},body:{}};
+    const title = (m.title && typeof m.title==='object') ? m.title : {en:(m.title||''),hu:''};
+    const body  = (m.body && typeof m.body==='object') ? m.body  : {en:(m.body||''),hu:''};
+
+    modalBox.innerHTML+=`
+      <div class="modal-block">
+        <h3>${k}</h3>
+        <div class="small">Title (EN / HU)</div>
+        <div class="ml">
+          <input class="text" data-k="${k}" data-f="title" data-l="en" value="${escapeAttr(title.en||'')}">
+          <input class="text" data-k="${k}" data-f="title" data-l="hu" value="${escapeAttr(title.hu||'')}">
+        </div>
+        <div class="small">Body (EN / HU)</div>
+        <div class="ml">
+          <textarea data-k="${k}" data-f="body" data-l="en">${escapeText(body.en||'')}</textarea>
+          <textarea data-k="${k}" data-f="body" data-l="hu">${escapeText(body.hu||'')}</textarea>
+        </div>
+      </div>
+    `;
+  });
+
+  modalBox.querySelectorAll('input,textarea').forEach(el=>{
+    el.oninput=e=>{
+      const {k,f,l}=e.target.dataset;
+      content.modals = content.modals || {};
+      content.modals[k]=content.modals[k]||{};
+      content.modals[k][f]=content.modals[k][f]||{};
+      content.modals[k][f][l]=e.target.value;
+    };
+  });
+}
+
+exportContentBtn.onclick=()=>{
+  const b=new Blob([JSON.stringify(content,null,2)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(b);a.download='content.json';a.click();
+};
+
+/* ---------- helpers for safe HTML ---------- */
+function escapeAttr(s){
+  return String(s ?? '')
+    .replaceAll('&','&amp;')
+    .replaceAll('"','&quot;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;');
+}
+function escapeText(s){
+  return String(s ?? '')
+    .replaceAll('&','&amp;')
+    .replaceAll('<','&lt;')
+    .replaceAll('>','&gt;');
+}
+</script>
+
+</body>
+</html>

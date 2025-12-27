@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Faye’s Vintage | Pre-loved Luxury</title>
+
+  <style>
+    :root{
+      --bg:#fff9f0;
+      --accent:#d6a24d;
+      --accent-soft:#f7e5bb;
+      --text:#2f2615;
+      --muted:#8d7a5f;
+      --border:#f0e2c8;
+      --card:#fff;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
+      background:var(--bg);
+      color:var(--text)
+    }
+
+    header{
+      padding:26px 16px 18px;
+      background:rgba(255,255,255,0.9);
+      border-bottom:1px solid var(--border);
+      backdrop-filter: blur(4px);
+    }
+    .header-inner{
+      max-width:1100px;
+      margin:auto;
+      text-align:center;
+    }
+    h1{
+      margin:0;
+      font-family:Georgia,serif;
+      letter-spacing:.16em;
+      text-transform:uppercase;
+      font-size:28px;
+    }
+    .subtitle{
+      font-size:12px;
+      color:var(--muted);
+      margin-top:6px;
+    }
+
+    nav{
+      background:rgba(255,255,255,0.95);
+      border-bottom:1px solid var(--border);
+      position:sticky;
+      top:0;
+      z-index:20;
+      backdrop-filter: blur(4px);
+    }
+    .nav-inner{
+      max-width:1100px;
+      margin:auto;
+      display:flex;
+      gap:20px;
+      padding:10px 16px;
+      overflow-x:auto;
+    }
+    .nav-link{
+      font-size:13px;
+      color:var(--muted);
+      text-decoration:none;
+      cursor:pointer;
+      white-space:nowrap;
+      padding-bottom:3px;
+    }
+    .nav-link.active{
+      color:var(--accent);
+      border-bottom:2px solid var(--accent);
+    }
+
+    .section{
+      max-width:1100px;
+      margin:24px auto;
+      padding:0 16px;
+    }
+
+    .filters{
+      display:flex;
+      flex-wrap:wrap;
+      gap:12px;
+      align-items:center;
+      margin-bottom:16px;
+    }
+    .filter-group{
+      display:flex;
+      gap:6px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+    .filter-label{
+      font-size:12px;
+      color:var(--muted);
+    }
+    .filter-btn{
+      font-size:12px;
+      padding:4px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      cursor:pointer;
+    }
+    .filter-btn.active{
+      background:var(--accent-soft);
+      border-color:var(--accent);
+      color:var(--accent);
+    }
+    select{
+      font-size:12px;
+      padding:4px 8px;
+      border-radius:6px;
+      border:1px solid var(--border);
+      background:#fff;
+    }
+
+    /* language switch in filter row right */
+    .lang-switch{
+      margin-left:auto;
+      display:flex;
+      gap:6px;
+      align-items:center;
+    }
+    .lang-switch button{
+      display:flex;
+      align-items:center;
+      gap:4px;
+      font-size:11px;
+      padding:3px 8px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      cursor:pointer;
+    }
+    .lang-switch button.active{
+      background:var(--accent);
+      color:#fff;
+      border-color:var(--accent);
+    }
+    .lang-flag{
+      width:14px;
+      height:10px;
+      border-radius:2px;
+      object-fit:cover;
+    }
+    @media(max-width:520px){
+      .filters{align-items:flex-start}
+      .lang-switch{
+        width:100%;
+        justify-content:flex-end;
+        margin-left:0;
+      }
+    }
+
+    .product-grid{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:18px;
+    }
+    @media(max-width:900px){
+      .product-grid{grid-template-columns:repeat(2,1fr)}
+    }
+    .product-card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius:12px;
+      overflow:hidden;
+      cursor:pointer;
+      position:relative;
+      transition:.15s;
+    }
+    .product-card:hover{
+      transform:translateY(-3px);
+      box-shadow:0 10px 20px rgba(0,0,0,.15);
+    }
+    .product-card.sold{
+      opacity:.45;
+      filter:grayscale(1);
+      cursor:default;
+    }
+    .product-card.sold:hover{transform:none;box-shadow:none;}
+    .sold-badge{
+      position:absolute;
+      top:8px;
+      left:8px;
+      background:rgba(0,0,0,.75);
+      color:#fff;
+      font-size:11px;
+      padding:3px 6px;
+      border-radius:4px;
+      z-index:2;
+    }
+
+    .product-image-wrapper{aspect-ratio:4/5;background:#eee;}
+    .product-image-wrapper img{width:100%;height:100%;object-fit:cover;}
+    .product-info{padding:8px 10px;}
+    .product-brand{
+      font-size:11px;
+      color:var(--muted);
+      letter-spacing:.1em;
+      text-transform:uppercase;
+    }
+    .product-name{font-size:13px;min-height:2.6em;}
+    .product-meta{
+      display:flex;
+      justify-content:space-between;
+      margin-top:4px;
+      align-items:baseline;
+      gap:10px;
+    }
+    .product-price:empty{display:none;}
+    .product-tag{
+      font-size:11px;
+      padding:1px 8px;
+      border-radius:999px;
+      background:var(--accent-soft);
+      color:var(--accent);
+      white-space:nowrap;
+    }
+
+    footer{
+      text-align:center;
+      font-size:12px;
+      color:var(--muted);
+      padding:20px;
+      background:#fffaf3;
+      border-top:1px solid var(--border);
+      margin-top:40px;
+    }
+
+    /* Modal */
+    .modal{
+      position:fixed;
+      inset:0;
+      background:rgba(48,35,15,.35);
+      display:none;
+      align-items:center;
+      justify-content:center;
+      z-index:80;
+    }
+    .modal.show{display:flex;}
+    .modal-box{
+      width:calc(100% - 40px);
+      max-width:520px;
+      background:#fffdf7;
+      border:1px solid var(--border);
+      border-radius:16px;
+      padding:18px 18px 16px;
+      box-shadow:0 20px 45px rgba(90,60,20,.45);
+      position:relative;
+    }
+    .modal-close{
+      position:absolute;
+      top:8px;
+      right:10px;
+      border:none;
+      background:transparent;
+      font-size:20px;
+      cursor:pointer;
+      color:var(--muted);
+    }
+    .modal-title{
+      margin:0 0 8px;
+      font-size:16px;
+      font-family:Georgia,serif;
+    }
+    .modal-body{
+      font-size:13px;
+      color:var(--muted);
+      line-height:1.7;
+      max-height:60vh;
+      overflow:auto;
+    }
+
+    /* Back to top */
+    #backToTop{
+      position:fixed;
+      bottom:26px;
+      right:22px;
+      width:42px;
+      height:42px;
+      border-radius:50%;
+      border:none;
+      background:rgba(200,164,109,0.9);
+      color:#fff;
+      font-size:20px;
+      cursor:pointer;
+      display:none;
+      align-items:center;
+      justify-content:center;
+      box-shadow:0 4px 10px rgba(0,0,0,.15);
+      z-index:99;
+    }
+    #backToTop:hover{background:rgba(200,164,109,1);}
+  </style>
+<script>
+/* ===== GA Consent Control (NO auto load) ===== */
+window.GA_MEASUREMENT_ID = 'G-F8VH58SNN6';
+
+function loadGA() {
+  if (window.__gaLoaded) return;
+  window.__gaLoaded = true;
+
+  const s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + window.GA_MEASUREMENT_ID;
+  document.head.appendChild(s);
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+
+  gtag('js', new Date());
+  gtag('config', window.GA_MEASUREMENT_ID, {
+    anonymize_ip: true
+  });
+}
+
+function hasConsent() {
+  return localStorage.getItem('ga_consent') === 'granted';
+}
+</script>
+</head>
+
+<body>
+
+<button id="backToTop" aria-label="Back to top">↑</button>
+
+<header>
+  <div class="header-inner">
+    <h1>Faye’s Vintage</h1>
+    <div class="subtitle">Pre-loved Luxury · Bags & Accessories · Budapest</div>
+  </div>
+</header>
+
+<nav>
+  <div class="nav-inner">
+    <a class="nav-link active" data-section="products" data-i18n="nav.products">Products</a>
+    <a class="nav-link" data-section="about" data-i18n="nav.about">About</a>
+    <a class="nav-link" data-section="service" data-i18n="nav.service">Consignment</a>
+    <a class="nav-link" data-section="visit" data-i18n="nav.visit">Visit us</a>
+    <a class="nav-link" data-section="contact" data-i18n="nav.contact">Contact</a>
+    <a class="nav-link" data-section="news" data-i18n="nav.news">News</a>
+  </div>
+</nav>
+
+<div class="section" id="products">
+  <div class="filters">
+    <div class="filter-group">
+      <span class="filter-label" data-i18n="filters.gender">Gender:</span>
+      <button class="filter-btn active" data-gender="all" data-i18n="filters.all">All</button>
+      <button class="filter-btn" data-gender="women" data-i18n="filters.women">Women</button>
+      <button class="filter-btn" data-gender="men" data-i18n="filters.men">Men</button>
+    </div>
+
+    <div class="filter-group">
+      <span class="filter-label" data-i18n="filters.brand">Brand:</span>
+      <select id="brand-filter">
+        <option value="all" data-i18n="filters.allBrands">All brands</option>
+      </select>
+    </div>
+
+    <!-- language switch on the right -->
+    <div class="lang-switch">
+      <button data-lang="en"><img class="lang-flag" src="https://flagcdn.com/w20/gb.png" alt="EN">EN</button>
+      <button data-lang="hu"><img class="lang-flag" src="https://flagcdn.com/w20/hu.png" alt="HU">HU</button>
+    </div>
+  </div>
+
+  <div class="product-grid" id="product-grid"></div>
+</div>
+
+<footer>© <span id="y"></span> Faye’s Vintage</footer>
+
+<!-- Modal -->
+<div class="modal" id="info-modal">
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close">×</button>
+    <h2 class="modal-title" id="modal-title"></h2>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+  document.getElementById('y').textContent = new Date().getFullYear();
+
+  // i18n UI labels
+  const uiText = {
+    en: {
+      nav: { products:"Products", about:"About", service:"Consignment", visit:"Visit us", contact:"Contact", news:"News" },
+      filters: { gender:"Gender:", all:"All", women:"Women", men:"Men", brand:"Brand:", allBrands:"All brands" },
+      messages: { loadError:"Cannot load product data. Please run via Live Server.", empty:"No products in this filter." }
+    },
+    hu: {
+      nav: { products:"Termékek", about:"Rólunk", service:"Bizományi", visit:"Üzletünk", contact:"Kapcsolat", news:"Hírek" },
+      filters: { gender:"Nem:", all:"Összes", women:"Női", men:"Férfi", brand:"Márka:", allBrands:"Összes márka" },
+      messages: { loadError:"Nem sikerült betölteni a termékeket. Kérjük Live Serverrel nyisd meg.", empty:"Nincs termék a szűrés alapján." }
+    }
+  };
+
+  let currentLang = localStorage.getItem('fv_lang') || 'en';
+  if (currentLang !== 'en' && currentLang !== 'hu') currentLang = 'en';
+
+  function t(path){
+    const parts = path.split('.');
+    let obj = uiText[currentLang];
+    for (const p of parts) obj = obj && obj[p];
+    return (typeof obj === 'string') ? obj : '';
+  }
+
+  function applyStaticTexts(){
+    document.querySelectorAll('[data-i18n]').forEach(el=>{
+      const key = el.getAttribute('data-i18n');
+      const val = t(key);
+      if (val) el.textContent = val;
+    });
+  }
+
+  function getML(v){
+    if(!v) return '';
+    if(typeof v === 'string') return v;
+    return v[currentLang] || v.en || v.hu || '';
+  }
+
+  function formatPrice(v){
+    if(v === undefined || v === null) return '';
+    if(typeof v === 'string'){
+      const s = v.trim();
+      return s ? s : '';
+    }
+    if(typeof v === 'number') return '€ ' + v;
+    try{
+      const s = String(v).trim();
+      return s ? s : '';
+    }catch(e){
+      return '';
+    }
+  }
+  // ✅ NEW: show EUR/HUF by language (manual, no conversion), keep backward-compat with old "price"
+  function getDisplayPrice(item){
+    const eurRaw = (item && (item.price_eur ?? '')) || '';
+    const hufRaw = (item && (item.price_huf ?? '')) || '';
+
+    const eur = (typeof eurRaw === 'number') ? String(eurRaw) : String(eurRaw).trim();
+    const huf = (typeof hufRaw === 'number') ? String(hufRaw) : String(hufRaw).trim();
+
+    if(currentLang === 'hu'){
+      if(huf) return huf + ' Ft';
+      if(eur) return '€ ' + eur;
+      return formatPrice(item ? item.price : '');
+    }else{
+      if(eur) return '€ ' + eur;
+      if(huf) return huf + ' Ft';
+      return formatPrice(item ? item.price : '');
+    }
+  }
+
+
+  // products state
+  let allProducts = [];
+  let currentGender = 'all';
+  let currentBrand = 'all';
+
+  function renderBrandOptions(list){
+    const sel = document.getElementById('brand-filter');
+    const brands = [...new Set(list.map(p => getML(p.brand))).values()].filter(Boolean).sort();
+
+    sel.innerHTML = '';
+    const optAll = document.createElement('option');
+    optAll.value = 'all';
+    optAll.textContent = t('filters.allBrands') || 'All brands';
+    sel.appendChild(optAll);
+
+    brands.forEach(b=>{
+      const o = document.createElement('option');
+      o.value = b;
+      o.textContent = b;
+      sel.appendChild(o);
+    });
+  }
+
+  function renderProducts(){
+    const grid = document.getElementById('product-grid');
+    grid.innerHTML = '';
+
+    const filtered = allProducts
+      .filter(p => currentGender === 'all' || p.gender === currentGender)
+      .filter(p => currentBrand === 'all' || getML(p.brand) === currentBrand)
+      .slice()
+      .sort((a,b) => (a.tag === 'Sold' ? 1 : 0) - (b.tag === 'Sold' ? 1 : 0));
+
+    if(filtered.length === 0){
+      grid.innerHTML = `<p style="color:#9ca3af;font-size:14px;">${t('messages.empty') || ''}</p>`;
+      return;
+    }
+
+    filtered.forEach(p=>{
+      const card = document.createElement('div');
+      const isSold = p.tag === 'Sold';
+      card.className = 'product-card' + (isSold ? ' sold' : '');
+
+      card.innerHTML = `
+        ${isSold ? '<div class="sold-badge">SOLD</div>' : ''}
+        <div class="product-image-wrapper"><img src="${p.image}" alt=""></div>
+        <div class="product-info">
+          <div class="product-brand">${getML(p.brand)}</div>
+          <div class="product-name">${getML(p.name)}</div>
+          <div class="product-meta">
+           <div class="product-price">${getDisplayPrice(p)}</div>
+            <div class="product-tag">${p.tag || ''}</div>
+          </div>
+        </div>
+      `;
+
+      if(!isSold){
+        card.addEventListener('click', ()=>{
+          window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
+        });
+      }
+      grid.appendChild(card);
+    });
+  }
+
+  // filters events
+  document.querySelectorAll('.filter-btn').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      currentGender = btn.dataset.gender;
+      renderProducts();
+    });
+  });
+  document.getElementById('brand-filter').addEventListener('change', (e)=>{
+    currentBrand = e.target.value;
+    renderProducts();
+  });
+
+  // language buttons
+  function syncLangButtons(){
+    document.querySelectorAll('.lang-switch button').forEach(b=>{
+      b.classList.toggle('active', b.dataset.lang === currentLang);
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      currentLang = btn.dataset.lang;
+      localStorage.setItem('fv_lang', currentLang);
+
+      // ✅ static texts update
+      applyStaticTexts();
+      syncLangButtons();
+
+      // ✅ dropdown MUST update language immediately
+      currentBrand = 'all';
+      renderBrandOptions(allProducts);
+      document.getElementById('brand-filter').value = 'all';
+
+      renderProducts();
+
+      // ✅ modal text refresh if open
+      if (modal.classList.contains('show') && lastModalKey) openModal(lastModalKey);
+    });
+  });
+
+  // Back to top
+  const backBtn = document.getElementById('backToTop');
+  window.addEventListener('scroll', ()=>{
+    backBtn.style.display = (window.scrollY > 300) ? 'flex' : 'none';
+  });
+  backBtn.addEventListener('click', ()=>{
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+
+  // Modal nav
+  const modal = document.getElementById('info-modal');
+  const modalTitle = document.getElementById('modal-title');
+  const modalBody = document.getElementById('modal-body');
+  const closeBtn = document.getElementById('modal-close');
+  let modalContents = {};
+  let lastModalKey = null;
+
+  function getModalField(v){
+    if(!v) return '';
+    if(typeof v === 'string') return v;
+    return v[currentLang] || v.en || v.hu || '';
+  }
+
+  function openModal(key){
+    const c = modalContents[key];
+    if(!c) return;
+    lastModalKey = key;
+    modalTitle.textContent = getModalField(c.title);
+    modalBody.innerHTML = getModalField(c.body);
+    modal.classList.add('show');
+  }
+  function closeModal(){ modal.classList.remove('show'); }
+
+  closeBtn.addEventListener('click', closeModal);
+  modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
+
+  document.querySelectorAll('.nav-link').forEach(link=>{
+    link.addEventListener('click', (e)=>{
+      const sec = link.dataset.section;
+
+      document.querySelectorAll('.nav-link').forEach(x=>x.classList.remove('active'));
+      link.classList.add('active');
+
+      if(sec === 'products'){
+        document.getElementById('products').scrollIntoView({behavior:'smooth'});
+        return;
+      }
+      e.preventDefault();
+      openModal(sec);
+    });
+  });
+
+  // init
+  applyStaticTexts();
+  syncLangButtons();
+
+  fetch('content.json')
+    .then(r=>r.json())
+    .then(d=>{ modalContents = d.modals || {}; })
+    .catch(()=>{ modalContents = {}; });
+
+  fetch('products.json')
+    .then(r=>r.json())
+    .then(d=>{
+      allProducts = d;
+      renderBrandOptions(allProducts);
+      renderProducts();
+    })
+    .catch(()=>{
+      document.getElementById('product-grid').innerHTML =
+        `<p style="color:#9ca3af;font-size:14px;">${t('messages.loadError') || ''}</p>`;
+    });
+</script>
+<!-- ===== Minimal GA Consent Banner ===== -->
+<div id="ga-consent-banner" style="
+  position:fixed;
+  bottom:16px;
+  left:16px;
+  right:16px;
+  max-width:420px;
+  margin:auto;
+  padding:14px 16px;
+  background:#fff;
+  border:1px solid #e5e5e5;
+  border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.08);
+  font-size:14px;
+  z-index:9999;
+  display:none;
+">
+  <div style="margin-bottom:10px; color:#333;">
+    We use anonymous analytics to understand product interest.
+  </div>
+  <div style="display:flex; gap:8px; justify-content:flex-end;">
+    <button id="ga-decline">Decline</button>
+    <button id="ga-accept">Accept</button>
+  </div>
+</div>
+
+<script>
+(function(){
+  const banner = document.getElementById('ga-consent-banner');
+
+  if (hasConsent()) {
+    loadGA();
+    return;
+  }
+
+  if (localStorage.getItem('ga_consent') === 'declined') {
+    return;
+  }
+
+  banner.style.display = 'block';
+
+  document.getElementById('ga-accept').onclick = () => {
+    localStorage.setItem('ga_consent', 'granted');
+    banner.remove();
+    loadGA();
+  };
+
+  document.getElementById('ga-decline').onclick = () => {
+    localStorage.setItem('ga_consent', 'declined');
+    banner.remove();
+  };
+})();
+</script>
+</body>
+</html>
