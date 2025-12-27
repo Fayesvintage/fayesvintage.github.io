@@ -522,11 +522,15 @@ function hasConsent() {
         card.addEventListener('click', ()=>{
 	    if (window.gtag && hasConsent()) {
       gtag('event', 'select_product', {
-        product_id: p.id,
-        product_name: getML(p.name),
-        product_brand: getML(p.brand),
-        sold_status: p.tag || 'Available'
-      });
+  items: [{
+    item_id: String(p.id),
+    item_name: String(getML(p.name) || ''),
+    item_brand: String(getML(p.brand) || ''),
+    item_category: 'Preloved',
+    item_variant: String(p.tag || 'Available')
+  }]
+});
+
     }
           window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
         });
