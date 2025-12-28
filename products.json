@@ -1,191 +1,453 @@
 [
   {
     "id": "chanel-classic-small-black",
-    "gender": "men",
-    "brand": "CHANEL",
-    "name": "Classic Flap Small Lambskin Black",
-    "price": "1500",
-    "tag": "Available",
-    "image": "product1.jpg",
-    "images": [
-      "product1-1.png",
-      "product1-2.png",
-      "product1-3.jpg"
-    ],
-    "size": "23 × 14 × 6 cm",
-    "year": "2019",
-    "color": "Black / Gold hardware",
-    "description": "香奈儿经典小号 Classic Flap，黑色羊皮配金色五金，整体成色良好，角位轻微使用痕迹，链条顺滑。",
-    "price_eur": "1500",
-    "price_huf": "133234"
-  },
-  {
-    "id": "lv-speedy-25-mono",
     "gender": "women",
-    "brand": "LOUIS VUITTON",
-    "name": "Speedy 25 Monogram",
-    "price": "890",
+    "brand": "CHANEL",
+    "name": {
+      "en": "Sac Rabat Lambskin",
+      "hu": "Sac Rabat Kecske bőr"
+    },
+    "price": "4750",
     "tag": "Available",
-    "image": "product2.jpg",
+    "image": "CHA-sacrab-blackgold (3).jpg",
     "images": [
-      "product2-1.jpg",
-      "product2-2.jpg"
+      "CHA-sacrab-blackgold (3).jpg",
+      "CHA-sacrab-blackgold (4).jpg",
+      "CHA-sacrab-blackgold (1).jpg",
+      "CHA-sacrab-blackgold (2).jpg",
+      "CHA-sacrab-blackgold (5).jpg",
+      "CHA-sacrab-blackgold (6).jpg"
     ],
-    "size": "25 × 19 × 15 cm",
-    "year": "2015",
-    "color": "Monogram / Vachetta leather",
-    "description": "LV Speedy 25 经典老花，手柄与皮件自然包浆，整体状态良好，内里干净，无明显异味。",
-    "price_eur": "890"
+    "size": "17 × 13.5 × 8 cm",
+    "year": "2022",
+    "color": {
+      "en": "Black / Gold hardware",
+      "hu": "Fekete/Arany hardware"
+    },
+    "description": {
+      "en": "Condition: 98%, exellent;\nAccessories: Full set",
+      "hu": "Állapot: 98%,kiváló;\nKiegészítők:\nFull-szett"
+    },
+    "price_eur": "4750",
+    "price_huf": "1.820.000"
   },
   {
     "id": "hermes-picotin-18-gold",
     "gender": "women",
     "brand": "HERMÈS",
-    "name": "Picotin Lock 18 Gold Clemence",
-    "price": "2350",
+    "name": {
+      "en": "Picotin Lock 18 Taurillon Clemence",
+      "hu": ""
+    },
+    "price": "4900",
     "tag": "Available",
-    "image": "product3.jpg",
-    "size": "18 × 19 × 13 cm",
-    "year": "2020",
-    "color": "Gold / Palladium hardware",
-    "description": "爱马仕 Picotin 18 金棕色，Clemence 牛皮，皮质柔软有垂感，五金轻微氧化，整体成色优秀。"
-  },
-  {
-    "id": "ysl-kate-medium-black",
-    "gender": "women",
-    "brand": "YSL",
-    "name": "Kate Medium Chain Bag Black",
-    "price": "980",
-    "tag": "Available",
-    "image": "product4.jpg",
-    "size": "24 × 15 × 5 cm",
-    "year": "2018",
-    "color": "Black / Silver hardware",
-    "description": "YSL Kate 中号链条包，黑色牛皮搭配银色五金，链条顺滑，角位轻微使用痕迹，版型挺括。"
-  },
-  {
-    "id": "loewe-puzzle-small-tan",
-    "gender": "women",
-    "brand": "LOEWE",
-    "name": "Puzzle Small Tan Calfskin",
-    "price": "1850",
-    "tag": "Sold",
-    "image": "product5.jpg",
-    "size": "24 × 16 × 10 cm",
-    "year": "2021",
-    "color": "Tan Brown / Gold hardware",
-    "description": "Loewe Puzzle 小号棕色，日常容量实用，角位正常磨损，皮面柔软有光泽。"
-  },
-  {
-    "id": "gucci-dionysus-small-gg",
-    "gender": "women",
-    "brand": "GUCCI",
-    "name": "Dionysus Small GG Supreme",
-    "price": "950",
-    "tag": "Available",
-    "image": "product6.jpg",
-    "size": "25 × 13.5 × 7 cm",
-    "year": "2019",
-    "color": "Beige GG / Silver hardware",
-    "description": "Gucci Dionysus 小号 GG 帆布，耐磨易打理，内衬绒面干净，链条正常氧化痕迹。"
-  },
-  {
-    "id": "celine-triomph-small-cream",
-    "gender": "women",
-    "brand": "CELINE",
-    "name": "Triomphe Small Cream Box Leather",
-    "price": "2150",
-    "tag": "Available",
-    "image": "product7.jpg",
-    "size": "18.5 × 14 × 6 cm",
-    "year": "2021",
-    "color": "Cream / Gold hardware",
-    "description": "Celine Triomphe 小号奶油色 Box 皮，金色扣，表面细微使用纹路，为 Box 皮正常状态。"
-  },
-  {
-    "id": "prada-reedition-2005-nylon-beige",
-    "gender": "women",
-    "brand": "PRADA",
-    "name": "Re-Edition 2005 Nylon Beige",
-    "price": "820",
-    "tag": "Sold",
-    "image": "product1.jpg",
-    "size": "22 × 16 × 6 cm",
-    "year": "2020",
-    "color": "Beige / Silver hardware",
-    "description": "Prada Re-edition 尼龙包，浅米色，轻便耐用，肩带干净，适合通勤与旅行。"
-  },
-  {
-    "id": "burberry-lola-small-caramel",
-    "gender": "women",
-    "brand": "BURBERRY",
-    "name": "Lola Small Caramel Lambskin",
-    "price": "960",
-    "tag": "Available",
-    "image": "product9.jpg",
-    "size": "23 × 13 × 6 cm",
-    "year": "2021",
-    "color": "Caramel / Gold hardware",
-    "description": "Burberry Lola 小号焦糖色，绗缝羊皮柔软，链条光亮，整体成色良好。"
-  },
-  {
-    "id": "lv-multi-pochette-cream",
-    "gender": "women",
-    "brand": "LOUIS VUITTON",
-    "name": "Multi Pochette Accessoires Cream Strap",
-    "price": "1820",
-    "tag": "Available",
-    "image": "product10.jpg",
-    "size": "24 × 14 × 4 cm（主包）",
-    "year": "2020",
-    "color": "Monogram / Cream strap",
-    "description": "LV Multi Pochette 多功能组合包，配奶油色织带与零钱包，组合玩法多，日常实用。"
-  },
-  {
-    "id": "item-11-9648",
-    "brand": "test",
-    "name": "test",
-    "price": "100",
-    "tag": "Available",
-    "year": "test",
-    "size": "test",
-    "color": "test",
-    "image": "1234.jpg",
+    "image": "H-picotin18-blackgold (3).jpg",
+    "size": "18 × 13 × 18 cm",
+    "year": "2025",
+    "color": {
+      "en": "Black/ Gold hardware",
+      "hu": "Fekete/ Arany hardware"
+    },
+    "description": {
+      "en": "Condition: Never used;\nStamp K;\nAccessories:Full set",
+      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők:\nFull-szett"
+    },
+    "price_eur": "4900",
+    "price_huf": "",
     "images": [
-      "123.jpg",
-      "1234.jpg"
-    ],
-    "description": "test",
-    "gender": "unisex"
+      "H-picotin18-blackgold (3).jpg",
+      "H-picotin18-blackgold (2).jpg",
+      "H-picotin18-blackgold (1).jpg",
+      "H-picotin18-blackgold (4).jpg"
+    ]
   },
   {
-    "id": "im-1765631148583",
+    "id": "hermes-birkin-25-togo",
+    "gender": "women",
     "brand": {
-      "en": "test2",
-      "hu": "test2"
+      "en": "HERMÈS",
+      "hu": ""
     },
     "name": {
-      "en": "test2",
-      "hu": "test2"
+      "en": "Birkin 25 Togo Lether",
+      "hu": ""
     },
-    "gender": "",
-    "price": "test",
+    "price": "22.000",
     "tag": "Available",
-    "year": "test",
-    "size": "test",
+    "image": "H-birkin25-étoupepalladium (3).jpg",
+    "size": "25 × 20 × 13 cm",
+    "year": "2022",
     "color": {
-      "en": "test",
-      "hu": "test2"
+      "en": "Étoupe / Palladium hardware",
+      "hu": ""
     },
-    "image": "1234.jpg",
+    "description": {
+      "en": "Condition: 98%, excellent;\nStamp U;\nAccessories:Dust bag,box",
+      "hu": "Állapot: 98%, kiváló;\n\"U\" jelőlésű;\nKiegészítők:Porzsák,doboz"
+    },
+    "price_eur": "22.000",
+    "price_huf": "8.800.000",
     "images": [
-      "product1-1.png",
-      "product1-2.png",
-      "product1-3.jpg"
+      "H-birkin25-étoupepalladium (3).jpg",
+      "H-birkin25-étoupepalladium (4).jpg",
+      "H-birkin25-étoupepalladium (5).jpg"
+    ]
+  },
+  {
+    "id": "chanel-cf-jumbo-lambskin",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Flap Jumbo",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "4900",
+    "price_eur": "4900",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2011",
+    "size": "19.5 × 30 × 10 cm",
+    "color": {
+      "en": "Orange / Palladium hardware",
+      "hu": ""
+    },
+    "image": "CHA-cfjumbo-orangepalladium (2).jpg",
+    "images": [
+      "CHA-cfjumbo-orangepalladium (2).jpg",
+      "CHA-cfjumbo-orangepalladium (1).jpg",
+      "CHA-cfjumbo-orangepalladium (3).jpg",
+      "CHA-cfjumbo-orangepalladium (4).jpg",
+      "CHA-cfjumbo-orangepalladium (5).jpg",
+      "CHA-cfjumbo-orangepalladium (6).jpg"
     ],
     "description": {
-      "en": "",
+      "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
+      "hu": "Állapot: 95%, kiváló;\nKiegészítők:Porzsák"
+    }
+  },
+  {
+    "id": "hermes-lindy-26-swift-orange",
+    "brand": {
+      "en": "HERMÈS",
       "hu": ""
+    },
+    "name": {
+      "en": "Lindy 26 Limited Addition Swift Lether",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "4800",
+    "price_eur": "4800",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "26 × 18 × 14 cm",
+    "color": {
+      "en": "Orange / Palladium hardware",
+      "hu": ""
+    },
+    "image": "H-lindy26-orange-limited (3).jpg",
+    "images": [
+      "H-lindy26-orange-limited (3).jpg",
+      "H-lindy26-orange-limited (2).jpg",
+      "H-lindy26-orange-limited (1).jpg"
+    ],
+    "description": {
+      "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
+      "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
+    }
+  },
+  {
+    "id": "hermes-2002-pink",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "2002 Pink Evercolor",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "20 × 6 × 19 cm",
+    "color": {
+      "en": "Pink / Palladium hardware",
+      "hu": ""
+    },
+    "image": "H-2002-pinkpalladium (2).jpg",
+    "images": [
+      "H-2002-pinkpalladium (2).jpg",
+      "H-2002-pinkpalladium (1).jpg",
+      "H-2002-pinkpalladium (3).jpg"
+    ],
+    "description": {
+      "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
+      "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
+    }
+  },
+  {
+    "id": "hermes-minilindy-black",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lindy Mini II Black Taurillon Clemence",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "9900",
+    "price_eur": "9900",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "19 × 13 × 9.5 cm",
+    "color": {
+      "en": "Black / Palladim hardware",
+      "hu": ""
+    },
+    "image": "H-minilindy-blackpalladium (5).jpg",
+    "images": [
+      "H-minilindy-blackpalladium (5).jpg",
+      "H-minilindy-blackpalladium (4).jpg",
+      "H-minilindy-blackpalladium (3).jpg",
+      "H-minilindy-blackpalladium (2).jpg",
+      "H-minilindy-blackpalladium (1).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never used;\nStamp K;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "hms-herbag-31-pink",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Herbag 31 Pink",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "2200",
+    "price_eur": "2200",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "19 × 13 × 9.5 cm",
+    "color": {
+      "en": "Black / Pink / Palladium hardware",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: 98%, excellent;\nStamp D;\nAccessories:Dust bag",
+      "hu": "Állapot: 98%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák"
+    }
+  },
+  {
+    "id": "miu-pink-wallet",
+    "brand": {
+      "en": "Miu Miu",
+      "hu": ""
+    },
+    "name": {
+      "en": "lemon vintage wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "260",
+    "price_eur": "260",
+    "price_huf": "99.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Dustbag,Box",
+      "hu": "Állapot: Nem volt használva;\nKiegészítők: Porzsák,Doboz"
+    }
+  },
+  {
+    "id": "lv-pink-monogram",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "sarah wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "420",
+    "price_eur": "420",
+    "price_huf": "160.000",
+    "tag": "Available",
+    "year": "2014",
+    "size": "19 × 10 × 2.5 cm",
+    "color": {
+      "en": "Pink / Monogram",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva;\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "lv-monogram",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trunk clutch crossbody bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2021-2022",
+    "size": "22.5 × 4 × 7 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
+    }
+  },
+  {
+    "id": "lv-white-hat",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "bonnet beaning blanc",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "260",
+    "price_eur": "260",
+    "price_huf": "99.000",
+    "tag": "Available",
+    "year": "2020",
+    "size": "",
+    "color": {
+      "en": "White / Monogram",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva;\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "lv-monogram-red",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "alma bnb",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "1.450",
+    "price_eur": "1.450",
+    "price_huf": "550.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Red / Monogram",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
+    }
+  },
+  {
+    "id": "prada-limited-christmas",
+    "brand": {
+      "en": "Prada ",
+      "hu": ""
+    },
+    "name": {
+      "en": "esplanade",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "590",
+    "price_eur": "590",
+    "price_huf": "230.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Black / Red / Green",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: fFull szett"
+    }
+  },
+  {
+    "id": "burberry-pencilcase",
+    "brand": {
+      "en": "Burberry",
+      "hu": ""
+    },
+    "name": {
+      "en": "pencil case",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "80",
+    "price_eur": "80",
+    "price_huf": "29.900",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "No pic.jpg",
+    "images": [],
+    "description": {
+      "en": "Condition: Never used; with tag\n",
+      "hu": "Állapot: Nem volt használva\n"
     }
   }
 ]
