@@ -193,6 +193,7 @@ function loadGA() {
 function hasConsent() {
   return localStorage.getItem('ga_consent') === 'granted';
 }
+if (hasConsent()) loadGA();
 </script>
 
 </head>
