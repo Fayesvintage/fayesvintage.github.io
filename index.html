@@ -357,6 +357,7 @@ function hasConsent() {
       <button class="filter-btn active" data-gender="all" data-i18n="filters.all">All</button>
       <button class="filter-btn" data-gender="women" data-i18n="filters.women">Women</button>
       <button class="filter-btn" data-gender="men" data-i18n="filters.men">Men</button>
+      <button class="filter-btn" data-gender="unisex" data-i18n="filters.unisex">Unisex</button>
     </div>
 
     <div class="filter-group">
@@ -394,12 +395,28 @@ function hasConsent() {
   const uiText = {
     en: {
       nav: { products:"Products", about:"About", service:"Consignment", visit:"Visit us", contact:"Contact", news:"News" },
-      filters: { gender:"Gender:", all:"All", women:"Women", men:"Men", brand:"Brand:", allBrands:"All brands" },
+      filters: {
+  gender:"Gender:",
+  all:"All",
+  women:"Women",
+  men:"Men",
+  unisex:"Unisex",
+  brand:"Brand:",
+  allBrands:"All brands"
+},
       messages: { loadError:"Cannot load product data. Please run via Live Server.", empty:"No products in this filter." }
     },
     hu: {
       nav: { products:"Termékek", about:"Rólunk", service:"Bizományi", visit:"Üzletünk", contact:"Kapcsolat", news:"Hírek" },
-      filters: { gender:"Nem:", all:"Összes", women:"Női", men:"Férfi", brand:"Márka:", allBrands:"Összes márka" },
+      filters: {
+  gender:"Nem:",
+  all:"Összes",
+  women:"Női",
+  men:"Férfi",
+  unisex:"Unisex",
+  brand:"Márka:",
+  allBrands:"Összes márka"
+},
       messages: { loadError:"Nem sikerült betölteni a termékeket. Kérjük Live Serverrel nyisd meg.", empty:"Nincs termék a szűrés alapján." }
     }
   };

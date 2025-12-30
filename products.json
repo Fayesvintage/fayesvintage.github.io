@@ -1,22 +1,25 @@
 [
   {
-    "id": "chanel-classic-small-black",
+    "id": "0zxca",
     "gender": "women",
-    "brand": "CHANEL",
+    "brand": {
+      "en": "Chanel",
+      "hu": ""
+    },
     "name": {
       "en": "Sac Rabat Lambskin",
       "hu": "Sac Rabat Kecske bőr"
     },
     "price": "4750",
     "tag": "Available",
-    "image": "CHA-sacrab-blackgold (3).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).jpg",
     "images": [
-      "CHA-sacrab-blackgold (3).jpg",
-      "CHA-sacrab-blackgold (4).jpg",
-      "CHA-sacrab-blackgold (1).jpg",
-      "CHA-sacrab-blackgold (2).jpg",
-      "CHA-sacrab-blackgold (5).jpg",
-      "CHA-sacrab-blackgold (6).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(4).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(5).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(6).jpg"
     ],
     "size": "17 × 13.5 × 8 cm",
     "year": "2022",
@@ -32,7 +35,7 @@
     "price_huf": "1.820.000"
   },
   {
-    "id": "hermes-picotin-18-gold",
+    "id": "9nhpw",
     "gender": "women",
     "brand": "HERMÈS",
     "name": {
@@ -41,7 +44,7 @@
     },
     "price": "4900",
     "tag": "Available",
-    "image": "H-picotin18-blackgold (3).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
     "size": "18 × 13 × 18 cm",
     "year": "2025",
     "color": {
@@ -55,14 +58,14 @@
     "price_eur": "4900",
     "price_huf": "",
     "images": [
-      "H-picotin18-blackgold (3).jpg",
-      "H-picotin18-blackgold (2).jpg",
-      "H-picotin18-blackgold (1).jpg",
-      "H-picotin18-blackgold (4).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(4).jpg"
     ]
   },
   {
-    "id": "hermes-birkin-25-togo",
+    "id": "badyw",
     "gender": "women",
     "brand": {
       "en": "HERMÈS",
@@ -74,7 +77,7 @@
     },
     "price": "22.000",
     "tag": "Available",
-    "image": "H-birkin25-étoupepalladium (3).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).jpg",
     "size": "25 × 20 × 13 cm",
     "year": "2022",
     "color": {
@@ -88,15 +91,15 @@
     "price_eur": "22.000",
     "price_huf": "8.800.000",
     "images": [
-      "H-birkin25-étoupepalladium (3).jpg",
-      "H-birkin25-étoupepalladium (4).jpg",
-      "H-birkin25-étoupepalladium (5).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).jpg"
     ]
   },
   {
-    "id": "chanel-cf-jumbo-lambskin",
+    "id": "b7wpl",
     "brand": {
-      "en": "CHANEL",
+      "en": "Chanel",
       "hu": ""
     },
     "name": {
@@ -114,14 +117,14 @@
       "en": "Orange / Palladium hardware",
       "hu": ""
     },
-    "image": "CHA-cfjumbo-orangepalladium (2).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).jpg",
     "images": [
-      "CHA-cfjumbo-orangepalladium (2).jpg",
-      "CHA-cfjumbo-orangepalladium (1).jpg",
-      "CHA-cfjumbo-orangepalladium (3).jpg",
-      "CHA-cfjumbo-orangepalladium (4).jpg",
-      "CHA-cfjumbo-orangepalladium (5).jpg",
-      "CHA-cfjumbo-orangepalladium (6).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(4).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(5).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(6).jpg"
     ],
     "description": {
       "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
@@ -129,7 +132,7 @@
     }
   },
   {
-    "id": "hermes-lindy-26-swift-orange",
+    "id": "ey8rq",
     "brand": {
       "en": "HERMÈS",
       "hu": ""
@@ -149,11 +152,11 @@
       "en": "Orange / Palladium hardware",
       "hu": ""
     },
-    "image": "H-lindy26-orange-limited (3).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).jpg",
     "images": [
-      "H-lindy26-orange-limited (3).jpg",
-      "H-lindy26-orange-limited (2).jpg",
-      "H-lindy26-orange-limited (1).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(3).jpg"
     ],
     "description": {
       "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
@@ -161,7 +164,7 @@
     }
   },
   {
-    "id": "hermes-2002-pink",
+    "id": "ufbtj",
     "brand": {
       "en": "HERMÈS",
       "hu": ""
@@ -181,11 +184,11 @@
       "en": "Pink / Palladium hardware",
       "hu": ""
     },
-    "image": "H-2002-pinkpalladium (2).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(1).jpg",
     "images": [
-      "H-2002-pinkpalladium (2).jpg",
-      "H-2002-pinkpalladium (1).jpg",
-      "H-2002-pinkpalladium (3).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(3).jpg"
     ],
     "description": {
       "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
@@ -193,7 +196,7 @@
     }
   },
   {
-    "id": "hermes-minilindy-black",
+    "id": "c4ho9",
     "brand": {
       "en": "HERMÈS",
       "hu": ""
@@ -213,13 +216,13 @@
       "en": "Black / Palladim hardware",
       "hu": ""
     },
-    "image": "H-minilindy-blackpalladium (5).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).jpg",
     "images": [
-      "H-minilindy-blackpalladium (5).jpg",
-      "H-minilindy-blackpalladium (4).jpg",
-      "H-minilindy-blackpalladium (3).jpg",
-      "H-minilindy-blackpalladium (2).jpg",
-      "H-minilindy-blackpalladium (1).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(4).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(5).jpg"
     ],
     "description": {
       "en": "Condition: Never used;\nStamp K;\nAccessories: Full set",
@@ -227,7 +230,7 @@
     }
   },
   {
-    "id": "hms-herbag-31-pink",
+    "id": "ahhj1",
     "brand": {
       "en": "HERMÈS",
       "hu": ""
@@ -247,21 +250,25 @@
       "en": "Black / Pink / Palladium hardware",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(3).jpg"
+    ],
     "description": {
       "en": "Condition: 98%, excellent;\nStamp D;\nAccessories:Dust bag",
       "hu": "Állapot: 98%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák"
     }
   },
   {
-    "id": "miu-pink-wallet",
+    "id": "8xffv",
     "brand": {
       "en": "Miu Miu",
       "hu": ""
     },
     "name": {
-      "en": "lemon vintage wallet",
+      "en": "Lemon vintage wallet",
       "hu": ""
     },
     "gender": "women",
@@ -275,21 +282,26 @@
       "en": "Pink",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(4).jpg"
+    ],
     "description": {
       "en": "Condition: Never used;\nAccessories: Dustbag,Box",
       "hu": "Állapot: Nem volt használva;\nKiegészítők: Porzsák,Doboz"
     }
   },
   {
-    "id": "lv-pink-monogram",
+    "id": "iyux8",
     "brand": {
       "en": "Louis Vuitton",
       "hu": ""
     },
     "name": {
-      "en": "sarah wallet",
+      "en": "Sarah Wallet",
       "hu": ""
     },
     "gender": "women",
@@ -311,13 +323,13 @@
     }
   },
   {
-    "id": "lv-monogram",
+    "id": "sb1y2",
     "brand": {
       "en": "Louis Vuitton",
       "hu": ""
     },
     "name": {
-      "en": "Trunk clutch crossbody bag",
+      "en": "Trunk Clutch crossbody bag",
       "hu": ""
     },
     "gender": "women",
@@ -331,49 +343,25 @@
       "en": "Monogram",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(3).jpg"
+    ],
     "description": {
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
     }
   },
   {
-    "id": "lv-white-hat",
+    "id": "l2xej",
     "brand": {
       "en": "Louis Vuitton",
       "hu": ""
     },
     "name": {
-      "en": "bonnet beaning blanc",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "260",
-    "price_eur": "260",
-    "price_huf": "99.000",
-    "tag": "Available",
-    "year": "2020",
-    "size": "",
-    "color": {
-      "en": "White / Monogram",
-      "hu": ""
-    },
-    "image": "",
-    "images": [],
-    "description": {
-      "en": "Condition: Never used;\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva;\nKiegészítők: Full szett"
-    }
-  },
-  {
-    "id": "lv-monogram-red",
-    "brand": {
-      "en": "Louis Vuitton",
-      "hu": ""
-    },
-    "name": {
-      "en": "alma bnb",
+      "en": "Alma bnb",
       "hu": ""
     },
     "gender": "women",
@@ -387,21 +375,26 @@
       "en": "Red / Monogram",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(4).jpg"
+    ],
     "description": {
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
     }
   },
   {
-    "id": "prada-limited-christmas",
+    "id": "wpirm",
     "brand": {
       "en": "Prada ",
       "hu": ""
     },
     "name": {
-      "en": "esplanade",
+      "en": "Esplanade",
       "hu": ""
     },
     "gender": "women",
@@ -415,21 +408,26 @@
       "en": "Black / Red / Green",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(4).jpg"
+    ],
     "description": {
       "en": "Condition: Never used;\nAccessories: Full set",
       "hu": "Állapot: Nem volt használva\nKiegészítők: fFull szett"
     }
   },
   {
-    "id": "burberry-pencilcase",
+    "id": "n9ej2",
     "brand": {
       "en": "Burberry",
       "hu": ""
     },
     "name": {
-      "en": "pencil case",
+      "en": "Pencil case",
       "hu": ""
     },
     "gender": "unisex",
@@ -443,11 +441,571 @@
       "en": "Brown",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(3).jpg"
+    ],
     "description": {
       "en": "Condition: Never used; with tag\n",
       "hu": "Állapot: Nem volt használva\n"
+    }
+  },
+  {
+    "id": "qq8r5",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Black Monogram handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "1980",
+    "price_eur": "1980",
+    "price_huf": "730.000",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(2).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(3).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(4).JPEG"
+    ],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák"
+    }
+  },
+  {
+    "id": "grdyo",
+    "brand": {
+      "en": "Fendi",
+      "hu": ""
+    },
+    "name": {
+      "en": "Peakaboo",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "710",
+    "price_eur": "710",
+    "price_huf": "250.000",
+    "tag": "Available",
+    "year": "2012",
+    "size": "",
+    "color": {
+      "en": "Blue / Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(2).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(3).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Excelent, great condition.\nAccessories: Dust bag",
+      "hu": "Állapot: Kíváló, jó \nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "gq5hd",
+    "brand": {
+      "en": "Bottega Veneta",
+      "hu": ""
+    },
+    "name": {
+      "en": "Roma bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "1160",
+    "price_eur": "1160",
+    "price_huf": "420.000",
+    "tag": "Available",
+    "year": "2014-2017",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://res.cloudinary.com/dpfyfg6pt/image/upload/v1767045065/Bottega-Roma_2_tfnf03.jpg",
+    "images": [
+      "https://res.cloudinary.com/dpfyfg6pt/image/upload/v1767045065/Bottega-Roma_2_tfnf03.jpg",
+      "https://res.cloudinary.com/dpfyfg6pt/image/upload/v1767045065/Bottega-Roma_3_wznzts.jpg",
+      "https://res.cloudinary.com/dpfyfg6pt/image/upload/v1767045065/Bottega-Roma_1_pam2t0.jpg",
+      "https://res.cloudinary.com/dpfyfg6pt/image/upload/v1767045065/Bottega-Roma_4_dlwtx0.jpg"
+    ],
+    "description": {
+      "en": "Condition: Great\nAccessories:Dust bag",
+      "hu": "Állapot: Nagyon jó állapot\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "0ed8h",
+    "brand": {
+      "en": "Chloé",
+      "hu": ""
+    },
+    "name": {
+      "en": "Handbag / Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "580",
+    "price_eur": "580",
+    "price_huf": "199.000",
+    "tag": "Available",
+    "year": "2015",
+    "size": "",
+    "color": {
+      "en": "Nude / Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(2).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(3).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "uhp8g",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Marmont Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "615",
+    "price_eur": "615",
+    "price_huf": "220.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "White / Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(2).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(3).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Fair condition\nAccessories: Full set",
+      "hu": "Állapot: Kielégítő\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "2g20q",
+    "brand": {
+      "en": "Dior ",
+      "hu": ""
+    },
+    "name": {
+      "en": "Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "730",
+    "price_eur": "730",
+    "price_huf": "280.000",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(2).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Fair\n",
+      "hu": "Állapot: Kielégítő"
+    }
+  },
+  {
+    "id": "mwo4l",
+    "brand": {
+      "en": "Céline",
+      "hu": ""
+    },
+    "name": {
+      "en": "Handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "800",
+    "price_eur": "800",
+    "price_huf": "280.000",
+    "tag": "Available",
+    "year": "2014",
+    "size": "",
+    "color": {
+      "en": "Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(2).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%",
+      "hu": "Állapot: Jó "
+    }
+  },
+  {
+    "id": "t5xg7",
+    "brand": {
+      "en": "Céline",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Box Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "869",
+    "price_eur": "869",
+    "price_huf": "330.000",
+    "tag": "Available",
+    "year": "2010",
+    "size": "",
+    "color": {
+      "en": "Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(1).JPEG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(1).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(2).JPEG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(3).JPEG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "uv6sg",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Carry all pm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "2280",
+    "price_eur": "2280",
+    "price_huf": "880.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uv6sg%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uv6sg%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "kt5rk",
+    "brand": {
+      "en": "Valentino",
+      "hu": ""
+    },
+    "name": {
+      "en": "Red",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "505",
+    "price_eur": "505",
+    "price_huf": "210.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kt5rk%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kt5rk%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ex4se",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "New Wave",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "1500",
+    "price_eur": "1500",
+    "price_huf": "580.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ex4se%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ex4se%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "yc3xb",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Monogram Boston bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "580",
+    "price_eur": "580",
+    "price_huf": "220.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yc3xb%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yc3xb%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "mnb9g",
+    "brand": {
+      "en": "Céline",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trapez",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "550",
+    "price_eur": "550",
+    "price_huf": "220.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mnb9g%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mnb9g%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "6vzju",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Blue Crossbody Bag",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "499",
+    "price_eur": "499",
+    "price_huf": "199.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzju%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzju%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ib5zn",
+    "brand": {
+      "en": "Celine",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Box Black",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "850",
+    "price_eur": "850",
+    "price_huf": "330.000",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ib5zn%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ib5zn%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "3wtoe",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Minilindy II TC Black Gold",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "9900",
+    "price_eur": "9900",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3wtoe%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3wtoe%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "1plsy",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Minilindy II TC Black Gold",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "9600",
+    "price_eur": "9600",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1plsy%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1plsy%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "flyd5",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Vintage Monogram Bag",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "1100",
+    "price_eur": "1100",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/flyd5%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/flyd5%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
     }
   }
 ]
