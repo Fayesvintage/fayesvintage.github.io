@@ -114,14 +114,11 @@
       "en": "Orange / Palladium hardware",
       "hu": ""
     },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).JPG",
     "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(3).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(4).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(5).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(6).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(3).JPG"
     ],
     "description": {
       "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
@@ -1000,6 +997,34 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/flyd5%20(1).jpg"
     ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "7dhta",
+    "brand": {
+      "en": "",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "",
+    "images": [],
     "description": {
       "en": "",
       "hu": ""
