@@ -1001,33 +1001,5 @@
       "en": "",
       "hu": ""
     }
-  },
-  {
-    "id": "7dhta",
-    "brand": {
-      "en": "",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "",
-    "images": [],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
   }
 ]
