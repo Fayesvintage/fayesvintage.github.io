@@ -1062,5 +1062,69 @@
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
     }
+  },
+  {
+    "id": "ma7pl",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lindy26 Taurillon Clemence",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "26 × 18 × 14cm",
+    "color": {
+      "en": "Lindy26 Black Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
+      "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "ojs27",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Shoulder Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gucci monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nNo Accessories",
+      "hu": "Állapot: Jó\nKiegészítők: Nincs"
+    }
   }
 ]
