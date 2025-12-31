@@ -862,7 +862,7 @@
       "en": "Blue Crossbody Bag",
       "hu": ""
     },
-    "gender": "",
+    "gender": "women",
     "price": "499",
     "price_eur": "499",
     "price_huf": "199.000",
@@ -892,7 +892,7 @@
       "en": "Classic Box Black",
       "hu": ""
     },
-    "gender": "",
+    "gender": "unisex",
     "price": "850",
     "price_eur": "850",
     "price_huf": "330.000",
@@ -922,7 +922,7 @@
       "en": "Minilindy II TC Black Gold",
       "hu": ""
     },
-    "gender": "",
+    "gender": "unisex",
     "price": "9900",
     "price_eur": "9900",
     "price_huf": "",
@@ -952,7 +952,7 @@
       "en": "Minilindy II TC Black Gold",
       "hu": ""
     },
-    "gender": "",
+    "gender": "unisex",
     "price": "9600",
     "price_eur": "9600",
     "price_huf": "",
@@ -982,7 +982,7 @@
       "en": "Vintage Monogram Bag",
       "hu": ""
     },
-    "gender": "",
+    "gender": "women",
     "price": "1100",
     "price_eur": "1100",
     "price_huf": "",
@@ -1000,6 +1000,70 @@
     "description": {
       "en": "",
       "hu": ""
+    }
+  },
+  {
+    "id": "a5egv",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Men's Backpack",
+      "hu": ""
+    },
+    "gender": "men",
+    "price": "1450",
+    "price_eur": "1450",
+    "price_huf": "550.000",
+    "tag": "Available",
+    "year": "2018",
+    "size": "30×38×14.5",
+    "color": {
+      "en": "Damier Ebene",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "mfelj",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Messenger Crossbody Bag",
+      "hu": ""
+    },
+    "gender": "men",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2012",
+    "size": "32 × 26 × 10",
+    "color": {
+      "en": "Damier Ebene",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
     }
   }
 ]
