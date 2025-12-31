@@ -56,9 +56,8 @@
     "price_huf": "",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(4).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg"
     ]
   },
   {
@@ -74,7 +73,7 @@
     },
     "price": "22.000",
     "tag": "Available",
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
     "size": "25 × 20 × 13 cm",
     "year": "2022",
     "color": {
@@ -88,9 +87,9 @@
     "price_eur": "22.000",
     "price_huf": "8.800.000",
     "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).jpg"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).JPG"
     ]
   },
   {
