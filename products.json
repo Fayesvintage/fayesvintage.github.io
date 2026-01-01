@@ -10,7 +10,7 @@
       "en": "Sac Rabat Lambskin",
       "hu": "Sac Rabat Kecske bőr"
     },
-    "price": "4750",
+    "price": "",
     "tag": "Available",
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
     "images": [
@@ -28,8 +28,9 @@
       "en": "Condition: 98%, exellent;\nAccessories: Full set",
       "hu": "Állapot: 98%,kiváló;\nKiegészítők:\nFull-szett"
     },
-    "price_eur": "4750",
-    "price_huf": "1.820.000"
+    "price_eur": "",
+    "price_huf": "",
+    "family": "bags"
   },
   {
     "id": "9nhpw",
@@ -39,7 +40,7 @@
       "en": "Picotin Lock 18 Taurillon Clemence",
       "hu": ""
     },
-    "price": "4900",
+    "price": "",
     "tag": "Available",
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
     "size": "18 × 13 × 18 cm",
@@ -52,13 +53,14 @@
       "en": "Condition: Never used;\nStamp K;\nAccessories:Full set",
       "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők:\nFull-szett"
     },
-    "price_eur": "4900",
+    "price_eur": "",
     "price_huf": "",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg"
-    ]
+    ],
+    "family": "bags"
   },
   {
     "id": "badyw",
@@ -71,7 +73,7 @@
       "en": "Birkin 25 Togo Lether",
       "hu": ""
     },
-    "price": "22.000",
+    "price": "",
     "tag": "Available",
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
     "size": "25 × 20 × 13 cm",
@@ -84,13 +86,14 @@
       "en": "Condition: 98%, excellent;\nStamp U;\nAccessories:Dust bag,box",
       "hu": "Állapot: 98%, kiváló;\n\"U\" jelőlésű;\nKiegészítők:Porzsák,doboz"
     },
-    "price_eur": "22.000",
-    "price_huf": "8.800.000",
+    "price_eur": "",
+    "price_huf": "",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).JPG"
-    ]
+    ],
+    "family": "bags"
   },
   {
     "id": "b7wpl",
@@ -103,8 +106,8 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "4900",
-    "price_eur": "4900",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Available",
     "year": "2011",
@@ -122,7 +125,8 @@
     "description": {
       "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
       "hu": "Állapot: 95%, kiváló;\nKiegészítők:Porzsák"
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "ey8rq",
@@ -135,8 +139,8 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "4800",
-    "price_eur": "4800",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Available",
     "year": "2019",
@@ -154,7 +158,8 @@
     "description": {
       "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
       "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "ufbtj",
@@ -186,7 +191,8 @@
     "description": {
       "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
       "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "c4ho9",
@@ -199,8 +205,8 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "9900",
-    "price_eur": "9900",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Available",
     "year": "2025",
@@ -218,7 +224,8 @@
     "description": {
       "en": "Condition: Never used;\nStamp K;\nAccessories: Full set",
       "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők: Full szett"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "ahhj1",
@@ -231,8 +238,8 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "2200",
-    "price_eur": "2200",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Available",
     "year": "2019",
@@ -250,7 +257,8 @@
     "description": {
       "en": "Condition: 98%, excellent;\nStamp D;\nAccessories:Dust bag",
       "hu": "Állapot: 98%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "8xffv",
@@ -283,7 +291,8 @@
     "description": {
       "en": "Condition: Never used;\nAccessories: Dustbag,Box",
       "hu": "Állapot: Nem volt használva;\nKiegészítők: Porzsák,Doboz"
-    }
+    },
+    "family": "accessories"
   },
   {
     "id": "iyux8",
@@ -311,7 +320,8 @@
     "description": {
       "en": "Condition: Never used;\nAccessories: Full set",
       "hu": "Állapot: Nem volt használva;\nKiegészítők: Full szett"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "sb1y2",
@@ -343,7 +353,8 @@
     "description": {
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "l2xej",
@@ -356,9 +367,9 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "1.450",
-    "price_eur": "1.450",
-    "price_huf": "550.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Available",
     "year": "2016",
     "size": "",
@@ -376,7 +387,8 @@
     "description": {
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "wpirm",
@@ -409,7 +421,8 @@
     "description": {
       "en": "Condition: Never used;\nAccessories: Full set",
       "hu": "Állapot: Nem volt használva\nKiegészítők: fFull szett"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "n9ej2",
@@ -441,7 +454,8 @@
     "description": {
       "en": "Condition: Never used; with tag\n",
       "hu": "Állapot: Nem volt használva\n"
-    }
+    },
+    "family": "accessories"
   },
   {
     "id": "qq8r5",
@@ -454,9 +468,9 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "1980",
-    "price_eur": "1980",
-    "price_huf": "730.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Available",
     "year": "2017",
     "size": "",
@@ -474,7 +488,8 @@
     "description": {
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák"
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "grdyo",
@@ -506,7 +521,8 @@
     "description": {
       "en": "Condition: Excelent, great condition.\nAccessories: Dust bag",
       "hu": "Állapot: Kíváló, jó \nKiegészítők: Porzsák"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "gq5hd",
@@ -539,7 +555,8 @@
     "description": {
       "en": "Condition: Great\nAccessories:Dust bag",
       "hu": "Állapot: Nagyon jó állapot\nKiegészítők: Porzsák"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "0ed8h",
@@ -571,7 +588,8 @@
     "description": {
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "uhp8g",
@@ -603,7 +621,8 @@
     "description": {
       "en": "Condition: Fair condition\nAccessories: Full set",
       "hu": "Állapot: Kielégítő\nKiegészítők: Full szett"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "2g20q",
@@ -634,7 +653,8 @@
     "description": {
       "en": "Condition: Fair\n",
       "hu": "Állapot: Kielégítő"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "mwo4l",
@@ -665,7 +685,8 @@
     "description": {
       "en": "Condition: Good\n90-95%",
       "hu": "Állapot: Jó "
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "t5xg7",
@@ -697,7 +718,8 @@
     "description": {
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "uv6sg",
@@ -710,9 +732,9 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "2280",
-    "price_eur": "2280",
-    "price_huf": "880.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -727,7 +749,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "kt5rk",
@@ -757,7 +780,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "ex4se",
@@ -770,9 +794,9 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "1500",
-    "price_eur": "1500",
-    "price_huf": "580.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -787,7 +811,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "yc3xb",
@@ -800,9 +825,9 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "580",
-    "price_eur": "580",
-    "price_huf": "220.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -817,7 +842,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "mnb9g",
@@ -830,9 +856,9 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "550",
-    "price_eur": "550",
-    "price_huf": "220.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -847,7 +873,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "6vzju",
@@ -860,9 +887,9 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "499",
-    "price_eur": "499",
-    "price_huf": "199.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -877,7 +904,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "ib5zn",
@@ -890,9 +918,9 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "850",
-    "price_eur": "850",
-    "price_huf": "330.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Sold",
     "year": "",
     "size": "",
@@ -907,7 +935,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "3wtoe",
@@ -920,8 +949,8 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "9900",
-    "price_eur": "9900",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Sold",
     "year": "",
@@ -937,7 +966,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "1plsy",
@@ -950,8 +980,8 @@
       "hu": ""
     },
     "gender": "unisex",
-    "price": "9600",
-    "price_eur": "9600",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Sold",
     "year": "",
@@ -967,7 +997,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "Bags"
   },
   {
     "id": "flyd5",
@@ -980,8 +1011,8 @@
       "hu": ""
     },
     "gender": "women",
-    "price": "1100",
-    "price_eur": "1100",
+    "price": "",
+    "price_eur": "",
     "price_huf": "",
     "tag": "Sold",
     "year": "",
@@ -997,7 +1028,8 @@
     "description": {
       "en": "",
       "hu": ""
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "a5egv",
@@ -1010,9 +1042,9 @@
       "hu": ""
     },
     "gender": "men",
-    "price": "1450",
-    "price_eur": "1450",
-    "price_huf": "550.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Available",
     "year": "2018",
     "size": "30×38×14.5cm",
@@ -1029,7 +1061,8 @@
     "description": {
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "mfelj",
@@ -1061,7 +1094,8 @@
     "description": {
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "ma7pl",
@@ -1093,7 +1127,8 @@
     "description": {
       "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
       "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
-    }
+    },
+    "family": "bags"
   },
   {
     "id": "ojs27",
@@ -1125,6 +1160,39 @@
     "description": {
       "en": "Condition: Good\n90-95%\nNo Accessories",
       "hu": "Állapot: Jó\nKiegészítők: Nincs"
+    },
+    "family": "bags"
+  },
+  {
+    "id": "w0ywt",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Portefeuille Émilie",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "19 x 10 x 2 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Exellent\n95-98%\nAccessories: None",
+      "hu": "Állapot: Kiváló 95-98%"
     }
   }
 ]

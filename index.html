@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Faye’s Vintage | Pre-loved Luxury</title>
-
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Faye’s Vintage</title>
   <style>
     :root{
       --bg:#fff9f0;
@@ -13,16 +12,271 @@
       --text:#2f2615;
       --muted:#8d7a5f;
       --border:#f0e2c8;
-      --card:#fff;
+      --shadow:0 16px 48px rgba(0,0,0,.12);
+      --radius:18px;
     }
     *{box-sizing:border-box}
+    html,body{height:100%}
     body{
       margin:0;
       font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
       background:var(--bg);
-      color:var(--text)
+      color:var(--text);
+    }
+    a{color:inherit}
+    button{font-family:inherit}
+    [hidden]{display:none !important;}
+
+    
+    
+    
+    
+    
+    
+    @media(max-width:520px){
+      
+      
     }
 
+    .wrap{min-height:100vh; display:flex; flex-direction:column;}
+
+    /* ===== First screen: top half intro ===== */
+    .intro{
+      height:50vh;
+      min-height:340px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:22px 16px;
+    }
+    .intro-inner{
+      max-width:1100px;
+      width:100%;
+      display:grid;
+      grid-template-columns:1.2fr .8fr;
+      gap:16px;
+      align-items:stretch;
+    }
+    @media(max-width:900px){
+      .intro{height:auto; min-height:unset;}
+      .intro-inner{grid-template-columns:1fr;}
+    }
+
+    .card{
+      background:rgba(255,255,255,.92);
+      border:1px solid var(--border);
+      border-radius:var(--radius);
+      box-shadow:var(--shadow);
+      padding:22px;
+    }
+    .brand{
+      margin:0 0 8px;
+      font-family:Georgia,serif;
+      letter-spacing:.16em;
+      text-transform:uppercase;
+      font-size:26px;
+    }
+    .tagline{
+      margin:0 0 12px;
+      color:var(--muted);
+      line-height:1.7;
+      font-size:14px;
+      max-width:70ch;
+    }
+    .actions{display:flex; gap:10px; flex-wrap:wrap; margin-top:10px;}
+    .btn{
+      display:inline-flex; align-items:center; justify-content:center;
+      padding:10px 14px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      color:var(--text);
+      text-decoration:none;
+      font-size:13px;
+      cursor:pointer;
+      user-select:none;
+      transition:transform .15s ease, background .2s ease;
+    }
+    .btn.primary{
+      background:var(--accent);
+      border-color:var(--accent);
+      color:#fff;
+    }
+    .btn:hover{transform:translateY(-1px); background:var(--accent-soft);}
+    .btn.primary:hover{background:#c9923f;}
+
+    /* ===== bullets (click to dialog) ===== */
+    .bullets{display:grid; gap:10px;}
+    .bullets .row{
+      width:100%;
+      text-align:left;
+      cursor:pointer;
+      border:1px solid var(--border);
+      border-radius:16px;
+      background:#fff;
+      padding:14px;
+      display:block;
+      transition:transform .15s ease, background .2s ease;
+      appearance:none; -webkit-appearance:none;
+    }
+    .bullets .row:hover{transform:translateY(-1px); background:var(--accent-soft);}
+    .bullets .row b{display:block; margin-bottom:6px; color:var(--text);}
+    .bullets .row div{font-size:13px; color:var(--muted); line-height:1.6;}
+
+    /* ===== categories ===== */
+    .cats{
+      height:50vh;
+      min-height:360px;
+      padding:18px 16px 26px;
+      display:grid;
+      grid-template-columns:repeat(2,1fr);
+      gap:16px;
+      max-width:1100px;
+      margin:0 auto;
+      width:100%;
+    }
+    @media(max-width:760px){
+      .cats{height:auto; min-height:unset; grid-template-columns:1fr;}
+      .cat{min-height:200px;}
+    }
+
+    /* IMPORTANT: visible by default (so mobile never "disappears") */
+    .cat{
+      position:relative;
+      min-height:240px;
+      border-radius:18px;
+      overflow:hidden;
+      text-decoration:none;
+      color:#fff;
+      border:1px solid var(--border);
+      box-shadow:0 12px 30px rgba(0,0,0,.12);
+      transition:transform .18s ease, box-shadow .2s ease;
+    }
+    .cat:hover{transform:translateY(-2px); box-shadow:0 18px 46px rgba(0,0,0,.16);}
+    .cat::before{
+      content:"";
+      position:absolute; inset:0;
+      background-size:cover;
+      background-position:center;
+      background-repeat:no-repeat;
+      transition:transform .6s ease;
+    }
+    .cat:hover::before{transform:scale(1.05);}
+    .cat::after{
+      content:"";
+      position:absolute; inset:0;
+      background:linear-gradient(180deg, rgba(0,0,0,.08) 0%, rgba(0,0,0,.62) 100%);
+    }
+    .cat-content{position:absolute; inset:auto 0 0 0; padding:18px; z-index:2;}
+    .cat-label{font-size:12px; letter-spacing:2px; text-transform:uppercase; opacity:.85;}
+    .cat-title{font-family:Georgia,serif; font-size:26px; margin:6px 0 6px;}
+    .cat-desc{font-size:13px; opacity:.9; max-width:42ch; line-height:1.5;}
+
+    /* Category images (placeholders) */
+    .cat.bags::before{background-image:url("Bags.jpg");}
+    .cat.clothing::before{background-image:url("Clothing.jpg");}
+    .cat.accessories::before{background-image:url("Accessories.jpg");}
+    .cat.shoes::before{background-image:url("Shoes.jpg");}
+
+    /* ===== soft reveal animation (enabled only when .cats[data-anim="1"]) ===== */
+    .cats[data-anim="1"] .cat{
+      opacity:0;
+      transform:translateY(16px);
+    }
+    .cats[data-anim="1"] .cat.reveal{
+      opacity:1;
+      transform:translateY(0);
+      transition: opacity .9s cubic-bezier(.22,.61,.36,1), transform .9s cubic-bezier(.22,.61,.36,1);
+    }
+    .cats[data-anim="1"] .cat.reveal.delay-1{transition-delay:.12s}
+    .cats[data-anim="1"] .cat.reveal.delay-2{transition-delay:.28s}
+    .cats[data-anim="1"] .cat.reveal.delay-3{transition-delay:.44s}
+    .cats[data-anim="1"] .cat.reveal.delay-4{transition-delay:.60s}
+
+    @media (prefers-reduced-motion: reduce){
+      .cats[data-anim="1"] .cat{opacity:1; transform:none;}
+      .cats[data-anim="1"] .cat.reveal{transition:none;}
+    }
+
+    footer{
+      padding:22px 16px 40px;
+      text-align:center;
+      color:rgba(141,122,95,.85);
+      font-size:12px;
+    }
+
+    /* ===== dialog ===== */
+    dialog.dlg{
+      border:none;
+      border-radius:16px;
+      padding:0;
+      width:min(560px, 92vw);
+      box-shadow:0 24px 80px rgba(0,0,0,.25);
+    }
+    dialog.dlg::backdrop{background:rgba(48,35,15,.35); backdrop-filter: blur(2px);}
+    .dlg-head{
+      display:flex; align-items:center; justify-content:space-between; gap:12px;
+      padding:14px 16px 10px;
+      border-bottom:1px solid rgba(0,0,0,.08);
+      background:#fffdf7;
+    }
+    .dlg-title{font-family:Georgia,serif; font-size:18px;}
+    .dlg-x{
+      width:34px;height:34px;border-radius:10px;border:1px solid var(--border);
+      background:#fff; cursor:pointer; font-size:20px; line-height:1; color:var(--muted);
+    }
+    .dlg-body{
+  padding:14px 16px 6px;
+  background:#fffdf7;
+  color:var(--muted);
+  line-height:1.7;
+  font-size:14px;
+  white-space: pre-line; /* ✅ 让 \n 变成换行 */
+}
+    .dlg-actions{
+      padding:10px 16px 16px;
+      display:flex; justify-content:flex-end; gap:10px;
+      border-top:1px solid rgba(0,0,0,.06);
+      background:#fffdf7;
+    }
+    .dlg-close{
+      padding:10px 14px;border-radius:12px;border:1px solid var(--border);
+      background:#fff; cursor:pointer; color:var(--text);
+    }
+    .dlg-list{margin:10px 0 0; padding-left:18px;}
+    .dlg-list li{margin:6px 0;}
+
+    /* QR placeholder (only for Follow us) */
+    .dlg-qr{
+      margin:14px 0 6px;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+      gap:8px;
+    }
+    .qr-box{
+      width:140px;
+      height:140px;
+      border:1px dashed rgba(0,0,0,.25);
+      border-radius:12px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-size:12px;
+      letter-spacing:1px;
+      color:rgba(0,0,0,.55);
+      background:rgba(255,255,255,.85);
+    }
+    .qr-img{
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  display:block;
+  border-radius:8px;
+}
+
+    .qr-hint{font-size:12px; color:rgba(20,20,20,.55);}
+  
     header{
       padding:26px 16px 18px;
       background:rgba(255,255,255,0.9);
@@ -34,12 +288,13 @@
       margin:auto;
       text-align:center;
     }
-    h1{
+    header h1{
       margin:0;
       font-family:Georgia,serif;
       letter-spacing:.16em;
       text-transform:uppercase;
       font-size:28px;
+      color:var(--text);
     }
     .subtitle{
       font-size:12px;
@@ -47,80 +302,20 @@
       margin-top:6px;
     }
 
-    nav{
-      background:rgba(255,255,255,0.95);
-      border-bottom:1px solid var(--border);
-      position:sticky;
-      top:0;
-      z-index:20;
-      backdrop-filter: blur(4px);
-    }
-    .nav-inner{
-      max-width:1100px;
-      margin:auto;
-      display:flex;
-      gap:20px;
-      padding:10px 16px;
-      overflow-x:auto;
-    }
-    .nav-link{
-      font-size:13px;
-      color:var(--muted);
-      text-decoration:none;
-      cursor:pointer;
-      white-space:nowrap;
-      padding-bottom:3px;
-    }
-    .nav-link.active{
-      color:var(--accent);
-      border-bottom:2px solid var(--accent);
-    }
-
     .section{
       max-width:1100px;
       margin:24px auto;
       padding:0 16px;
     }
-
     .filters{
       display:flex;
       flex-wrap:wrap;
       gap:12px;
       align-items:center;
-      margin-bottom:16px;
-    }
-    .filter-group{
-      display:flex;
-      gap:6px;
-      align-items:center;
-      flex-wrap:wrap;
-    }
-    .filter-label{
-      font-size:12px;
-      color:var(--muted);
-    }
-    .filter-btn{
-      font-size:12px;
-      padding:4px 10px;
-      border-radius:999px;
-      border:1px solid var(--border);
-      background:#fff;
-      cursor:pointer;
-    }
-    .filter-btn.active{
-      background:var(--accent-soft);
-      border-color:var(--accent);
-      color:var(--accent);
-    }
-    select{
-      font-size:12px;
-      padding:4px 8px;
-      border-radius:6px;
-      border:1px solid var(--border);
-      background:#fff;
+      margin-bottom:0;
     }
 
-    /* language switch in filter row right */
+    /* language switch right (same as shop.html) */
     .lang-switch{
       margin-left:auto;
       display:flex;
@@ -137,6 +332,7 @@
       border:1px solid var(--border);
       background:#fff;
       cursor:pointer;
+      user-select:none;
     }
     .lang-switch button.active{
       background:var(--accent);
@@ -158,571 +354,515 @@
       }
     }
 
-    .product-grid{
-      display:grid;
-      grid-template-columns:repeat(3,1fr);
-      gap:18px;
-    }
-    @media(max-width:900px){
-      .product-grid{grid-template-columns:repeat(2,1fr)}
-    }
-    .product-card{
-      background:var(--card);
-      border:1px solid var(--border);
-      border-radius:12px;
-      overflow:hidden;
-      cursor:pointer;
-      position:relative;
-      transition:.15s;
-    }
-    .product-card:hover{
-      transform:translateY(-3px);
-      box-shadow:0 10px 20px rgba(0,0,0,.15);
-    }
-    .product-card.sold{
-      opacity:.45;
-      filter:grayscale(1);
-      cursor:default;
-    }
-    .product-card.sold:hover{transform:none;box-shadow:none;}
-    .sold-badge{
-      position:absolute;
-      top:8px;
-      left:8px;
-      background:rgba(0,0,0,.75);
-      color:#fff;
-      font-size:11px;
-      padding:3px 6px;
-      border-radius:4px;
-      z-index:2;
-    }
+  
 
-    .product-image-wrapper{aspect-ratio:4/5;background:#eee;}
-    .product-image-wrapper img{width:100%;height:100%;object-fit:cover;}
-    .product-info{padding:8px 10px;}
-    .product-brand{
-      font-size:11px;
-      color:var(--muted);
-      letter-spacing:.1em;
-      text-transform:uppercase;
-    }
-    .product-name{font-size:13px;min-height:2.6em;}
-    .product-meta{
-      display:flex;
-      justify-content:space-between;
-      margin-top:4px;
-      align-items:baseline;
-      gap:10px;
-    }
-    .product-price:empty{display:none;}
-    .product-tag{
-      font-size:11px;
-      padding:1px 8px;
-      border-radius:999px;
-      background:var(--accent-soft);
-      color:var(--accent);
-      white-space:nowrap;
-    }
-
-    footer{
-      text-align:center;
-      font-size:12px;
-      color:var(--muted);
-      padding:20px;
-      background:#fffaf3;
-      border-top:1px solid var(--border);
-      margin-top:40px;
-    }
-
-    /* Modal */
-    .modal{
-      position:fixed;
-      inset:0;
-      background:rgba(48,35,15,.35);
-      display:none;
-      align-items:center;
-      justify-content:center;
-      z-index:80;
-    }
-    .modal.show{display:flex;}
-    .modal-box{
-      width:calc(100% - 40px);
-      max-width:520px;
-      background:#fffdf7;
-      border:1px solid var(--border);
-      border-radius:16px;
-      padding:18px 18px 16px;
-      box-shadow:0 20px 45px rgba(90,60,20,.45);
-      position:relative;
-    }
-    .modal-close{
-      position:absolute;
-      top:8px;
-      right:10px;
-      border:none;
-      background:transparent;
-      font-size:20px;
-      cursor:pointer;
-      color:var(--muted);
-    }
-    .modal-title{
-      margin:0 0 8px;
-      font-size:16px;
-      font-family:Georgia,serif;
-    }
-    .modal-body{
-      font-size:13px;
-      color:var(--muted);
-      line-height:1.7;
-      max-height:60vh;
-      overflow:auto;
-    }
-
-    /* Back to top */
-    #backToTop{
-      position:fixed;
-      bottom:26px;
-      right:22px;
-      width:42px;
-      height:42px;
-      border-radius:50%;
-      border:none;
-      background:rgba(200,164,109,0.9);
-      color:#fff;
-      font-size:20px;
-      cursor:pointer;
-      display:none;
-      align-items:center;
-      justify-content:center;
-      box-shadow:0 4px 10px rgba(0,0,0,.15);
-      z-index:99;
-    }
-    #backToTop:hover{background:rgba(200,164,109,1);}
-  </style>
-<script>
-/* ===== GA Consent Control (NO auto load) ===== */
-window.GA_MEASUREMENT_ID = 'G-F8VH58SNN6';
-
-function loadGA() {
-  if (window.__gaLoaded) return;
-  window.__gaLoaded = true;
-
-  const s = document.createElement('script');
-  s.async = true;
-  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + window.GA_MEASUREMENT_ID;
-  document.head.appendChild(s);
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){ dataLayer.push(arguments); }
-  window.gtag = gtag;
-
-  gtag('js', new Date());
-  gtag('config', window.GA_MEASUREMENT_ID, {
-    anonymize_ip: true
-  });
+/* ===== Welcome Overlay (injected) ===== */
+/* ===== Welcome Vars (scoped) ===== */
+.w2{
+  --w2-ink:#1b1b1b;
+  --w2-inkSoft: rgba(27,27,27,.65);
+  --w2-cardBg: rgba(255,255,255,.78);
+  --w2-border: rgba(0,0,0,.10);
+  --w2-shadow: 0 18px 46px rgba(0,0,0,.12);
 }
 
-function hasConsent() {
-  return localStorage.getItem('ga_consent') === 'granted';
+/* ===== Welcome Overlay ===== */
+.w2{
+  position:fixed; inset:0; z-index:99999;
+  display:grid; place-items:center;
+  overflow:hidden;
+  opacity:1;
+  transition:opacity .9s ease;
+  /* background set by JS via CSS variable --bg */
+  background-image:
+    linear-gradient(rgba(255,255,255,.68), rgba(255,255,255,.86)),
+    var(--bg);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
 }
-</script>
+.w2.hide{opacity:0; pointer-events:none}
+
+/* soft moving light */
+.w2::before{
+  content:"";
+  position:absolute; inset:-15%;
+  background: radial-gradient(closest-side at 35% 40%, rgba(255,255,255,.55), rgba(255,255,255,0) 60%);
+  filter: blur(18px);
+  animation: glow 5s ease-in-out infinite;
+  pointer-events:none;
+}
+
+/* subtle grain */
+.w2::after{
+  content:"";
+  position:absolute; inset:0;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.28'/%3E%3C/svg%3E");
+  opacity:.05;
+  mix-blend-mode:multiply;
+  pointer-events:none;
+}
+
+/* ===== Card ===== */
+.w2-card{
+  position:relative;
+  width:min(560px, 90vw);
+  padding:34px 26px 28px;
+  text-align:center;
+  background:var(--w2-cardBg);
+  backdrop-filter: blur(10px);
+  border-radius:22px;
+  border:1px solid var(--w2-border);
+  box-shadow:var(--w2-shadow);
+  transform:translateY(16px) scale(.985);
+  opacity:0;
+  animation: cardIn .9s cubic-bezier(.2,.9,.2,1) forwards;
+}
+
+.w2-brand{
+  font-family: Georgia,"Times New Roman",serif;
+  font-size:44px;
+  letter-spacing:.6px;
+  margin:0;
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .15s forwards;
+}
+
+.w2-sub{
+  margin:14px 0 18px;
+  font-size:12px;
+  letter-spacing:2.4px;
+  text-transform:uppercase;
+  color:var(--w2-inkSoft);
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .3s forwards;
+}
+
+/* shimmer line */
+.w2-divider{
+  height:1px;
+  width:min(360px,74vw);
+  margin:0 auto 18px;
+  background:linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,.25), rgba(0,0,0,0));
+  position:relative;
+  overflow:hidden;
+  opacity:.55;
+}
+.w2-divider::after{
+  content:"";
+  position:absolute;
+  top:-1px;
+  left:-40%;
+  width:30%;
+  height:3px;
+  background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,.9), rgba(255,255,255,0));
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+.w2-note{
+  font-size:13px;
+  color:var(--w2-inkSoft);
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .45s forwards;
+}
+
+@keyframes cardIn{to{opacity:1; transform:none;}}
+@keyframes textIn{to{opacity:1; transform:none;}}
+@keyframes shimmer{
+  from{left:-40%; opacity:0;}
+  30%{opacity:.9;}
+  60%{opacity:.9;}
+  to{left:120%; opacity:0;}
+}
+@keyframes glow{
+  0%{transform:translate(-6%,-4%) scale(1.02);}
+  50%{transform:translate(6%,4%) scale(1.06);}
+  100%{transform:translate(-6%,-4%) scale(1.02);}
+}
+
+@media (prefers-reduced-motion: reduce){
+  *{animation:none!important}
+  .w2-card,.w2-brand,.w2-sub,.w2-note{opacity:1!important;transform:none!important}
+}
+</style>
 </head>
 
 <body>
 
-<button id="backToTop" aria-label="Back to top">↑</button>
+<!-- ===== Welcome Overlay (injected) ===== -->
+<div id="welcome" class="w2">
+  <div class="w2-card">
+    <h1 class="w2-brand">Faye’s Vintage</h1>
+    <div class="w2-sub">Curated preloved luxury</div>
+    <div class="w2-divider"></div>
+    <p class="w2-note">Budapest • Authenticity • Experience</p>
+  </div>
+</div>
+<!-- ===== /Welcome Overlay ===== -->
 
 <header>
   <div class="header-inner">
     <h1>Faye’s Vintage</h1>
-    <div class="subtitle">Pre-loved Luxury · Bags & Accessories · Budapest</div>
+    <div class="subtitle" id="subtitle">Pre-loved Luxury · Budapest</div>
   </div>
 </header>
 
-<nav>
-  <div class="nav-inner">
-    <a class="nav-link active" data-section="products" data-i18n="nav.products">Products</a>
-    <a class="nav-link" data-section="about" data-i18n="nav.about">About</a>
-    <a class="nav-link" data-section="service" data-i18n="nav.service">Consignment</a>
-    <a class="nav-link" data-section="visit" data-i18n="nav.visit">Visit us</a>
-    <a class="nav-link" data-section="contact" data-i18n="nav.contact">Contact</a>
-    <a class="nav-link" data-section="news" data-i18n="nav.news">News</a>
-  </div>
-</nav>
-
-<div class="section" id="products">
+<div class="section">
   <div class="filters">
-    <div class="filter-group">
-      <span class="filter-label" data-i18n="filters.gender">Gender:</span>
-      <button class="filter-btn active" data-gender="all" data-i18n="filters.all">All</button>
-      <button class="filter-btn" data-gender="women" data-i18n="filters.women">Women</button>
-      <button class="filter-btn" data-gender="men" data-i18n="filters.men">Men</button>
-      <button class="filter-btn" data-gender="unisex" data-i18n="filters.unisex">Unisex</button>
+    <div class="lang-switch" aria-label="Language">
+      <button data-lang="en" type="button"><img class="lang-flag" src="https://flagcdn.com/w20/gb.png" alt="EN">EN</button>
+      <button data-lang="hu" type="button"><img class="lang-flag" src="https://flagcdn.com/w20/hu.png" alt="HU">HU</button>
     </div>
-
-    <div class="filter-group">
-      <span class="filter-label" data-i18n="filters.brand">Brand:</span>
-      <select id="brand-filter">
-        <option value="all" data-i18n="filters.allBrands">All brands</option>
-      </select>
-    </div>
-
-    <!-- language switch on the right -->
-    <div class="lang-switch">
-      <button data-lang="en"><img class="lang-flag" src="https://flagcdn.com/w20/gb.png" alt="EN">EN</button>
-      <button data-lang="hu"><img class="lang-flag" src="https://flagcdn.com/w20/hu.png" alt="HU">HU</button>
-    </div>
-  </div>
-
-  <div class="product-grid" id="product-grid"></div>
-</div>
-
-<footer>© <span id="y"></span> Faye’s Vintage</footer>
-
-<!-- Modal -->
-<div class="modal" id="info-modal">
-  <div class="modal-box">
-    <button class="modal-close" id="modal-close">×</button>
-    <h2 class="modal-title" id="modal-title"></h2>
-    <div class="modal-body" id="modal-body"></div>
   </div>
 </div>
 
-<script>
-  document.getElementById('y').textContent = new Date().getFullYear();
+  
 
-  // i18n UI labels
-  const uiText = {
-    en: {
-      nav: { products:"Products", about:"About", service:"Consignment", visit:"Visit us", contact:"Contact", news:"News" },
-      filters: {
-  gender:"Gender:",
-  all:"All",
-  women:"Women",
-  men:"Men",
-  unisex:"Unisex",
-  brand:"Brand:",
-  allBrands:"All brands"
-},
-      messages: { loadError:"Cannot load product data. Please run via Live Server.", empty:"No products in this filter." }
-    },
-    hu: {
-      nav: { products:"Termékek", about:"Rólunk", service:"Bizományi", visit:"Üzletünk", contact:"Kapcsolat", news:"Hírek" },
-      filters: {
-  gender:"Nem:",
-  all:"Összes",
-  women:"Női",
-  men:"Férfi",
-  unisex:"Unisex",
-  brand:"Márka:",
-  allBrands:"Összes márka"
-},
-      messages: { loadError:"Nem sikerült betölteni a termékeket. Kérjük Live Serverrel nyisd meg.", empty:"Nincs termék a szűrés alapján." }
-    }
-  };
-
-  let currentLang = localStorage.getItem('fv_lang') || 'en';
-  if (currentLang !== 'en' && currentLang !== 'hu') currentLang = 'en';
-
-  function t(path){
-    const parts = path.split('.');
-    let obj = uiText[currentLang];
-    for (const p of parts) obj = obj && obj[p];
-    return (typeof obj === 'string') ? obj : '';
-  }
-
-  function applyStaticTexts(){
-    document.querySelectorAll('[data-i18n]').forEach(el=>{
-      const key = el.getAttribute('data-i18n');
-      const val = t(key);
-      if (val) el.textContent = val;
-    });
-  }
-
-  function getML(v){
-    if(!v) return '';
-    if(typeof v === 'string') return v;
-    return v[currentLang] || v.en || v.hu || '';
-  }
-
-  function formatPrice(v){
-    if(v === undefined || v === null) return '';
-    if(typeof v === 'string'){
-      const s = v.trim();
-      return s ? s : '';
-    }
-    if(typeof v === 'number') return '€ ' + v;
-    try{
-      const s = String(v).trim();
-      return s ? s : '';
-    }catch(e){
-      return '';
-    }
-  }
-  // ✅ NEW: show EUR/HUF by language (manual, no conversion), keep backward-compat with old "price"
-  function getDisplayPrice(item){
-    const eurRaw = (item && (item.price_eur ?? '')) || '';
-    const hufRaw = (item && (item.price_huf ?? '')) || '';
-
-    const eur = (typeof eurRaw === 'number') ? String(eurRaw) : String(eurRaw).trim();
-    const huf = (typeof hufRaw === 'number') ? String(hufRaw) : String(hufRaw).trim();
-
-    if(currentLang === 'hu'){
-      if(huf) return huf + ' Ft';
-      if(eur) return '€ ' + eur;
-      return formatPrice(item ? item.price : '');
-    }else{
-      if(eur) return '€ ' + eur;
-      if(huf) return huf + ' Ft';
-      return formatPrice(item ? item.price : '');
-    }
-  }
-
-
-  // products state
-  let allProducts = [];
-  let currentGender = 'all';
-  let currentBrand = 'all';
-
-  function renderBrandOptions(list){
-    const sel = document.getElementById('brand-filter');
-    const brands = [...new Set(list.map(p => getML(p.brand))).values()].filter(Boolean).sort();
-
-    sel.innerHTML = '';
-    const optAll = document.createElement('option');
-    optAll.value = 'all';
-    optAll.textContent = t('filters.allBrands') || 'All brands';
-    sel.appendChild(optAll);
-
-    brands.forEach(b=>{
-      const o = document.createElement('option');
-      o.value = b;
-      o.textContent = b;
-      sel.appendChild(o);
-    });
-  }
-
-  function renderProducts(){
-    const grid = document.getElementById('product-grid');
-    grid.innerHTML = '';
-
-    const filtered = allProducts
-      .filter(p => currentGender === 'all' || p.gender === currentGender)
-      .filter(p => currentBrand === 'all' || getML(p.brand) === currentBrand)
-      .slice()
-      .sort((a,b) => (a.tag === 'Sold' ? 1 : 0) - (b.tag === 'Sold' ? 1 : 0));
-
-    if(filtered.length === 0){
-      grid.innerHTML = `<p style="color:#9ca3af;font-size:14px;">${t('messages.empty') || ''}</p>`;
-      return;
-    }
-
-    filtered.forEach(p=>{
-      const card = document.createElement('div');
-      const isSold = p.tag === 'Sold';
-      card.className = 'product-card' + (isSold ? ' sold' : '');
-
-      card.innerHTML = `
-        ${isSold ? '<div class="sold-badge">SOLD</div>' : ''}
-        <div class="product-image-wrapper"><img src="${p.image}" alt=""></div>
-        <div class="product-info">
-          <div class="product-brand">${getML(p.brand)}</div>
-          <div class="product-name">${getML(p.name)}</div>
-          <div class="product-meta">
-           <div class="product-price">${getDisplayPrice(p)}</div>
-            <div class="product-tag">${p.tag || ''}</div>
+  <div class="wrap">
+    <section class="intro" id="top">
+      <div class="intro-inner">
+        <div class="card">
+          <h1 class="brand">Faye’s Vintage</h1>
+          <p class="tagline" data-i18n="intro.tagline"></p>
+          <div class="actions">
+            <button class="btn primary" id="contactBtn" type="button" data-i18n="intro.contact">Contact us</button>
+            <a class="btn" id="scrollCategories" href="#categories" data-i18n="intro.enter">Browse products</a>
           </div>
         </div>
-      `;
 
-      if(!isSold){
-        card.addEventListener('click', ()=>{
-	    if (window.gtag && hasConsent()) {
-     gtag('event', 'select_item', {
-  item_list_name: 'Products',
-  items: [{
-    item_id: String(p.id),
-    item_name: String(getML(p.name) || ''),
-    item_brand: String(getML(p.brand) || ''),
-    item_category: 'Preloved',
-    item_variant: String(p.tag || 'Available')
-  }]
+        <div class="bullets">
+          <button class="row" type="button" data-key="consignment">
+            <b data-i18n="bullets.consignment.title">Consignment</b>
+            <div data-i18n="bullets.consignment.sub">How it works & timeline.</div>
+          </button>
+
+          <button class="row" type="button" data-key="follow">
+            <b data-i18n="bullets.follow.title">Follow us</b>
+            <div data-i18n="bullets.follow.sub">Social media & updates.</div>
+          </button>
+
+          <button class="row" type="button" data-key="news">
+            <b data-i18n="bullets.news.title">News</b>
+            <div data-i18n="bullets.news.sub">Announcements & openings.</div>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="cats" id="categories" aria-label="Categories">
+      <a class="cat bags" href="shop.html?cat=bags">
+        <div class="cat-content">
+          <div class="cat-label" data-i18n="cat.label">Category</div>
+          <div class="cat-title" data-i18n="cat.bags">Bags</div>
+          <div class="cat-desc" data-i18n="catdesc.bags">Handbags, classics & limited pieces.</div>
+        </div>
+      </a>
+
+      <a class="cat clothing" href="shop.html?cat=clothing">
+        <div class="cat-content">
+          <div class="cat-label" data-i18n="cat.label">Category</div>
+          <div class="cat-title" data-i18n="cat.clothing">Clothing</div>
+          <div class="cat-desc" data-i18n="catdesc.clothing">Coats, knitwear, dresses & more.</div>
+        </div>
+      </a>
+
+      <a class="cat accessories" href="shop.html?cat=accessories">
+        <div class="cat-content">
+          <div class="cat-label" data-i18n="cat.label">Category</div>
+          <div class="cat-title" data-i18n="cat.accessories">Accessories</div>
+          <div class="cat-desc" data-i18n="catdesc.accessories">Scarves, belts, jewelry, small goods.</div>
+        </div>
+      </a>
+
+      <a class="cat shoes" href="shop.html?cat=shoes">
+        <div class="cat-content">
+          <div class="cat-label" data-i18n="cat.label">Category</div>
+          <div class="cat-title" data-i18n="cat.shoes">Shoes</div>
+          <div class="cat-desc" data-i18n="catdesc.shoes">Heels, sneakers, boots.</div>
+        </div>
+      </a>
+    </section>
+
+    <footer>
+      <span>© </span><span id="year"></span><span> Faye’s Vintage</span>
+    </footer>
+  </div>
+
+  <dialog id="infoDialog" class="dlg">
+    <div class="dlg-head">
+      <div id="dlgTitle" class="dlg-title">Title</div>
+      <button class="dlg-x" type="button" aria-label="Close">×</button>
+    </div>
+
+    <div class="dlg-body">
+      <div id="dlgBody"></div>
+
+      <div id="dlgQR" class="dlg-qr" hidden>
+        <div class="qr-box">
+  <img 
+    src="QR Code.jpg"
+    alt="QR code"
+    class="qr-img"
+  >
+</div>
+        <div class="qr-hint" data-i18n="qr.hint">Scan to follow us</div>
+      </div>
+
+      <ul id="dlgList" class="dlg-list"></ul>
+    </div>
+
+    <div class="dlg-actions">
+      <button class="dlg-close" type="button" data-i18n="dlg.close">Close</button>
+    </div>
+  </dialog>
+
+<script>
+/* ===== i18n (static UI strings) ===== */
+const i18n = {
+  en: {
+    "mh.sub":"Pre-loved Luxury · Budapest · Categories: Bags",
+    "intro.tagline":"We are a pre-loved luxury boutique in the heart of Budapest, curating handbags and accessories with stories and character.Our selection focuses on classic houses, and we only deal in AUTHENTIC items.",
+    "intro.contact":"Contact us",
+    "intro.enter":"Browse products",
+    "bullets.consignment.title":"Consignment",
+    "bullets.consignment.sub":"How it works & timeline.",
+    "bullets.follow.title":"Follow us",
+    "bullets.follow.sub":"Social media & updates.",
+    "bullets.news.title":"News",
+    "bullets.news.sub":"Announcements & openings.",
+    "cat.label":"Category",
+    "cat.bags":"Bags",
+    "cat.clothing":"Clothing",
+    "cat.accessories":"Accessories",
+    "cat.shoes":"Shoes",
+    "catdesc.bags":"Handbags, classics & limited pieces.",
+    "catdesc.clothing":"Coats, knitwear, dresses & more.",
+    "catdesc.accessories":"Scarves, belts, jewelry, small goods.",
+    "catdesc.shoes":"Heels, sneakers, boots.",
+    "qr.hint":"Scan to follow us",
+    "dlg.close":"Close"
+  },
+  hu: {
+    "mh.sub":"Pre-loved Luxury · Budapest · Kategóriák: Táskák",
+    "intro.tagline":"Prémium Pre-loved store Budapest szívében, ahol történettel és minőséggel rendelkező táskákat és kiegészítőket -prémium márkákra fokuszálva- válogatunk.Kizárólag AUTENTIKUS termékekkel foglalkozunk.",
+    "intro.contact":"Kapcsolat",
+    "intro.enter":"Kategóriák megtekintése",
+    "bullets.consignment.title":"Bizomány",
+    "bullets.consignment.sub":"Folyamat és időtáv.",
+    "bullets.follow.title":"Kövess minket",
+    "bullets.follow.sub":"Közösségi média & frissítések.",
+    "bullets.news.title":"Hírek",
+    "bullets.news.sub":"Bejelentések & nyitvatartás.",
+    "cat.label":"Kategória",
+    "cat.bags":"Táskák",
+    "cat.clothing":"Ruházat",
+    "cat.accessories":"Kiegészítők",
+    "cat.shoes":"Cipők",
+    "catdesc.bags":"Kézitáskák, klasszikusok és limitált darabok.",
+    "catdesc.clothing":"Kabátok, kötöttáru, ruhák és több.",
+    "catdesc.accessories":"Sálak, övek, ékszerek, apróságok.",
+    "catdesc.shoes":"Magassarkú, sportcipő, csizma.",
+    "qr.hint":"Olvasd be a QR-t",
+    "dlg.close":"Bezárás"
+  }
+};
+
+let lang = localStorage.getItem('fv_lang') || 'en';
+if(lang !== 'en' && lang !== 'hu') lang = 'en';
+
+function applyLang(){
+  document.querySelectorAll('[data-i18n]').forEach(el=>{
+    const key = el.getAttribute('data-i18n');
+    const val = i18n[lang] && i18n[lang][key];
+    if(val) el.textContent = val;
+  });
+  document.querySelectorAll('.lang-switch button').forEach(b=>{
+    b.classList.toggle('active', b.dataset.lang === lang);
+  });
+}
+document.querySelectorAll('.lang-switch button').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    lang = btn.dataset.lang;
+    localStorage.setItem('fv_lang', lang);
+    applyLang();
+  });
+});
+applyLang();
+document.getElementById('year').textContent = new Date().getFullYear();
+
+/* ===== load content.json for dialogs ===== */
+let content = null;
+async function loadContent(){
+  try{
+    const res = await fetch('content.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('Failed to load content.json');
+    content = await res.json();
+  }catch(err){
+    console.warn(err);
+    content = null;
+  }
+}
+loadContent();
+
+/* ===== dialog ===== */
+const dlg = document.getElementById('infoDialog');
+const dlgTitle = document.getElementById('dlgTitle');
+const dlgBody = document.getElementById('dlgBody');
+const dlgList = document.getElementById('dlgList');
+const dlgQR = document.getElementById('dlgQR');
+
+function setDialog(title, body, points, showQR){
+  dlgTitle.textContent = title || '';
+  dlgBody.textContent = body || '';
+
+  // ONLY show QR when showQR === true
+  if(dlgQR) dlgQR.hidden = !showQR;
+
+  // Points list optional
+  dlgList.innerHTML = '';
+  const pts = Array.isArray(points) ? points : [];
+  if(pts.length){
+    dlgList.style.display = '';
+    for(const p of pts){
+      const li = document.createElement('li');
+      li.textContent = p;
+      dlgList.appendChild(li);
+    }
+  }else{
+    dlgList.style.display = 'none';
+  }
+
+  if(typeof dlg.showModal === 'function') dlg.showModal();
+  else alert((title || '') + "\n\n" + (body || ''));
+}
+
+function openBulletDialog(btn){
+  const key = btn.dataset.key; // consignment / follow / news
+  const showQR = (key === 'follow'); // HARD RULE
+
+  if(content && content.bullets && content.bullets[key] && content.bullets[key][lang]){
+    const c = content.bullets[key][lang];
+    setDialog(c.title || '', c.body || '', c.points || [], showQR);
+  }else{
+    const b = btn.querySelector('b');
+    const fallbackTitle = b ? b.textContent : '';
+    setDialog(fallbackTitle, '', [], showQR);
+  }
+}
+document.querySelectorAll('.bullets .row').forEach(btn=>{
+  btn.addEventListener('click', ()=>openBulletDialog(btn));
 });
 
+// Contact us -> dialog (pure text, no QR, no list)
+const contactBtn = document.getElementById('contactBtn');
+if(contactBtn){
+  contactBtn.addEventListener('click', ()=>{
+    let c = null;
+    if(content && content.contactDialog && content.contactDialog[lang]){
+      c = content.contactDialog[lang];
     }
-          window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
-        });
-      }
-      grid.appendChild(card);
-    });
+    if(c){
+      setDialog(c.title || i18n[lang]["intro.contact"], c.body || '', [], false);
+    }else{
+      setDialog(i18n[lang]["intro.contact"], "", [], false);
+    }
+  });
+}
+
+const xbtn = dlg.querySelector('.dlg-x');
+if(xbtn) xbtn.addEventListener('click', ()=>dlg.close());
+const cbtn = dlg.querySelector('.dlg-close');
+if(cbtn) cbtn.addEventListener('click', ()=>dlg.close());
+dlg.addEventListener('close', ()=>{ if(dlgQR) dlgQR.hidden = true; });
+dlg.addEventListener('click', (e)=>{
+  const rect = dlg.getBoundingClientRect();
+  const inDialog = rect.top <= e.clientY && e.clientY <= rect.bottom &&
+                   rect.left <= e.clientX && e.clientX <= rect.right;
+  if(!inDialog) dlg.close();
+});
+
+/* ===== categories soft reveal (safe) ===== */
+(function(){
+  const cats = document.getElementById('categories');
+  if(!cats) return;
+  const cards = Array.from(cats.querySelectorAll('.cat'));
+  cards.forEach((c,i)=>c.classList.add('delay-'+(i+1)));
+
+  const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(reduce || !('IntersectionObserver' in window)){
+    return; // visible by default, no animation
   }
 
-  // filters events
-  document.querySelectorAll('.filter-btn').forEach(btn=>{
-    btn.addEventListener('click', ()=>{
-      document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
-      btn.classList.add('active');
-      currentGender = btn.dataset.gender;
-      renderProducts();
-    });
-  });
-  document.getElementById('brand-filter').addEventListener('change', (e)=>{
-    currentBrand = e.target.value;
-    renderProducts();
-  });
+  // enable animation mode (will start hidden but quickly reveal)
+  cats.setAttribute('data-anim','1');
 
-  // language buttons
-  function syncLangButtons(){
-    document.querySelectorAll('.lang-switch button').forEach(b=>{
-      b.classList.toggle('active', b.dataset.lang === currentLang);
-    });
-  }
-  document.querySelectorAll('.lang-switch button').forEach(btn=>{
-    btn.addEventListener('click', ()=>{
-      currentLang = btn.dataset.lang;
-      localStorage.setItem('fv_lang', currentLang);
+  const revealAll = ()=>{ cards.forEach(c=>c.classList.add('reveal')); };
 
-      // ✅ static texts update
-      applyStaticTexts();
-      syncLangButtons();
+  const io = new IntersectionObserver((entries)=>{
+    if(entries.some(e=>e.isIntersecting)){
+      revealAll();
+      io.disconnect();
+    }
+  }, {threshold: 0.15});
 
-      // ✅ dropdown MUST update language immediately
-      currentBrand = 'all';
-      renderBrandOptions(allProducts);
-      document.getElementById('brand-filter').value = 'all';
+  io.observe(cats);
 
-      renderProducts();
-
-      // ✅ modal text refresh if open
-      if (modal.classList.contains('show') && lastModalKey) openModal(lastModalKey);
-    });
-  });
-
-  // Back to top
-  const backBtn = document.getElementById('backToTop');
-  window.addEventListener('scroll', ()=>{
-    backBtn.style.display = (window.scrollY > 300) ? 'flex' : 'none';
-  });
-  backBtn.addEventListener('click', ()=>{
-    window.scrollTo({top:0, behavior:'smooth'});
-  });
-
-  // Modal nav
-  const modal = document.getElementById('info-modal');
-  const modalTitle = document.getElementById('modal-title');
-  const modalBody = document.getElementById('modal-body');
-  const closeBtn = document.getElementById('modal-close');
-  let modalContents = {};
-  let lastModalKey = null;
-
-  function getModalField(v){
-    if(!v) return '';
-    if(typeof v === 'string') return v;
-    return v[currentLang] || v.en || v.hu || '';
+  // When user clicks Browse products, reveal shortly after scroll starts
+  const sc = document.getElementById('scrollCategories');
+  if(sc){
+    sc.addEventListener('click', ()=> setTimeout(revealAll, 350));
   }
 
-  function openModal(key){
-    const c = modalContents[key];
-    if(!c) return;
-    lastModalKey = key;
-    modalTitle.textContent = getModalField(c.title);
-    modalBody.innerHTML = getModalField(c.body);
-    modal.classList.add('show');
-  }
-  function closeModal(){ modal.classList.remove('show'); }
-
-  closeBtn.addEventListener('click', closeModal);
-  modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
-
-  document.querySelectorAll('.nav-link').forEach(link=>{
-    link.addEventListener('click', (e)=>{
-      const sec = link.dataset.section;
-
-      document.querySelectorAll('.nav-link').forEach(x=>x.classList.remove('active'));
-      link.classList.add('active');
-
-      if(sec === 'products'){
-        document.getElementById('products').scrollIntoView({behavior:'smooth'});
-        return;
-      }
-      e.preventDefault();
-      openModal(sec);
-    });
-  });
-
-  // init
-  applyStaticTexts();
-  syncLangButtons();
-
-  fetch('content.json')
-    .then(r=>r.json())
-    .then(d=>{ modalContents = d.modals || {}; })
-    .catch(()=>{ modalContents = {}; });
-
-  fetch('products.json')
-    .then(r=>r.json())
-    .then(d=>{
-      allProducts = d;
-      renderBrandOptions(allProducts);
-      renderProducts();
-    })
-    .catch(()=>{
-      document.getElementById('product-grid').innerHTML =
-        `<p style="color:#9ca3af;font-size:14px;">${t('messages.loadError') || ''}</p>`;
-    });
+  // Safety timeout
+  setTimeout(revealAll, 2000);
+})();
 </script>
-<!-- ===== Minimal GA Consent Banner ===== -->
-<div id="ga-consent-banner" style="
-  position:fixed;
-  bottom:16px;
-  left:16px;
-  right:16px;
-  max-width:420px;
-  margin:auto;
-  padding:14px 16px;
-  background:#fff;
-  border:1px solid #e5e5e5;
-  border-radius:12px;
-  box-shadow:0 8px 24px rgba(0,0,0,.08);
-  font-size:14px;
-  z-index:9999;
-  display:none;
-">
-  <div style="margin-bottom:10px; color:#333;">
-    We use anonymous analytics to understand product interest.
-  </div>
-  <div style="display:flex; gap:8px; justify-content:flex-end;">
-    <button id="ga-decline">Decline</button>
-    <button id="ga-accept">Accept</button>
-  </div>
-</div>
+
 
 <script>
 (function(){
-  const banner = document.getElementById('ga-consent-banner');
+  const w = document.getElementById("welcome");
+  if(!w) return;
+	  // ✅ 从 shop 点 Home 回来：跳过 welcome，并定位到分类区
+  if (sessionStorage.getItem('skipWelcomeOnce') === '1') {
+    sessionStorage.removeItem('skipWelcomeOnce');
+    w.remove();
 
-  if (hasConsent()) {
-    loadGA();
+    // 保险：确保定位到四个分类区域
+    if (location.hash === '#categories') {
+      setTimeout(() => {
+        const el = document.getElementById('categories');
+        if (el) el.scrollIntoView({ behavior: 'auto', block: 'start' });
+      }, 0);
+    }
     return;
   }
 
-  if (localStorage.getItem('ga_consent') === 'declined') {
-    return;
-  }
+  // ✅ 换背景：只改这一行 BG_URL（下面给了 3 个可选）
+  const BG_URL =
+    // 1) 链子桥夜景（多瑙河）— 另一角度
+    "url('https://images.unsplash.com/photo-1637658011230-4329bc6336ae?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
 
-  banner.style.display = 'block';
+    // 2) 国会夜景（俯瞰，多瑙河）— 另一角度（想用这个就把上面那行注释掉，启用下面这行）
+    //"url('https://images.unsplash.com/photo-1741192387927-8634cc9e6e24?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
 
-  document.getElementById('ga-accept').onclick = () => {
-    localStorage.setItem('ga_consent', 'granted');
-    banner.remove();
-    loadGA();
-  };
+    // 3) 国会夜景（近景+倒影，多瑙河）— 另一角度（想用这个就启用）
+    //"url('https://images.unsplash.com/photo-1636140211522-20f6f04e6ac8?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
 
-  document.getElementById('ga-decline').onclick = () => {
-    localStorage.setItem('ga_consent', 'declined');
-    banner.remove();
-  };
+  w.style.setProperty("--bg", BG_URL);
+
+  // 3 秒后淡出
+  const SHOW_MS = 3000;
+  const FADE_MS = 900;
+  setTimeout(() => {
+    w.classList.add("hide");
+    setTimeout(() => w.remove(), FADE_MS + 80);
+  }, SHOW_MS);
 })();
 </script>
+
 </body>
 </html>

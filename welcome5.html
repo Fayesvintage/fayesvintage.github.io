@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Welcome Preview – Budapest Night</title>
+
+<style>
+:root{
+  --ink:#1b1b1b;
+  --inkSoft: rgba(27,27,27,.65);
+  --cardBg: rgba(255,255,255,.78);
+  --border: rgba(0,0,0,.10);
+  --shadow: 0 18px 46px rgba(0,0,0,.12);
+}
+
+html,body{margin:0;padding:0;height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;}
+
+/* ===== Welcome Overlay ===== */
+.w2{
+  position:fixed; inset:0; z-index:99999;
+  display:grid; place-items:center;
+  overflow:hidden;
+  opacity:1;
+  transition:opacity .9s ease;
+  /* background set by JS via CSS variable --bg */
+  background-image:
+    linear-gradient(rgba(255,255,255,.68), rgba(255,255,255,.86)),
+    var(--bg);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+.w2.hide{opacity:0; pointer-events:none}
+
+/* soft moving light */
+.w2::before{
+  content:"";
+  position:absolute; inset:-15%;
+  background: radial-gradient(closest-side at 35% 40%, rgba(255,255,255,.55), rgba(255,255,255,0) 60%);
+  filter: blur(18px);
+  animation: glow 5s ease-in-out infinite;
+  pointer-events:none;
+}
+
+/* subtle grain */
+.w2::after{
+  content:"";
+  position:absolute; inset:0;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='.28'/%3E%3C/svg%3E");
+  opacity:.05;
+  mix-blend-mode:multiply;
+  pointer-events:none;
+}
+
+/* ===== Card ===== */
+.w2-card{
+  position:relative;
+  width:min(560px, 90vw);
+  padding:34px 26px 28px;
+  text-align:center;
+  background:var(--cardBg);
+  backdrop-filter: blur(10px);
+  border-radius:22px;
+  border:1px solid var(--border);
+  box-shadow:var(--shadow);
+  transform:translateY(16px) scale(.985);
+  opacity:0;
+  animation: cardIn .9s cubic-bezier(.2,.9,.2,1) forwards;
+}
+
+.w2-brand{
+  font-family: Georgia,"Times New Roman",serif;
+  font-size:44px;
+  letter-spacing:.6px;
+  margin:0;
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .15s forwards;
+}
+
+.w2-sub{
+  margin:14px 0 18px;
+  font-size:12px;
+  letter-spacing:2.4px;
+  text-transform:uppercase;
+  color:var(--inkSoft);
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .3s forwards;
+}
+
+/* shimmer line */
+.w2-divider{
+  height:1px;
+  width:min(360px,74vw);
+  margin:0 auto 18px;
+  background:linear-gradient(90deg, rgba(0,0,0,0), rgba(0,0,0,.25), rgba(0,0,0,0));
+  position:relative;
+  overflow:hidden;
+  opacity:.55;
+}
+.w2-divider::after{
+  content:"";
+  position:absolute;
+  top:-1px;
+  left:-40%;
+  width:30%;
+  height:3px;
+  background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,.9), rgba(255,255,255,0));
+  animation: shimmer 2s ease-in-out infinite;
+}
+
+.w2-note{
+  font-size:13px;
+  color:var(--inkSoft);
+  opacity:0;
+  transform:translateY(10px);
+  animation:textIn .9s ease .45s forwards;
+}
+
+/* Demo content */
+.page{min-height:200vh;background:#fafafa;padding:44px 26px;}
+.page h1{margin:0 0 10px;font-size:30px;}
+.page p{max-width:560px;line-height:1.7;opacity:.72;}
+
+@keyframes cardIn{to{opacity:1; transform:none;}}
+@keyframes textIn{to{opacity:1; transform:none;}}
+@keyframes shimmer{
+  from{left:-40%; opacity:0;}
+  30%{opacity:.9;}
+  60%{opacity:.9;}
+  to{left:120%; opacity:0;}
+}
+@keyframes glow{
+  0%{transform:translate(-6%,-4%) scale(1.02);}
+  50%{transform:translate(6%,4%) scale(1.06);}
+  100%{transform:translate(-6%,-4%) scale(1.02);}
+}
+
+@media (prefers-reduced-motion: reduce){
+  *{animation:none!important}
+  .w2-card,.w2-brand,.w2-sub,.w2-note{opacity:1!important;transform:none!important}
+}
+</style>
+</head>
+
+<body>
+<div id="welcome" class="w2">
+  <div class="w2-card">
+    <h1 class="w2-brand">Faye’s Vintage</h1>
+    <div class="w2-sub">Curated preloved luxury</div>
+    <div class="w2-divider"></div>
+    <p class="w2-note">Budapest • Authenticity • Experience</p>
+  </div>
+</div>
+
+<div class="page">
+  <h1>Homepage Content</h1>
+  <p>This is placeholder content for preview only.</p>
+</div>
+
+<script>
+(function(){
+  const w = document.getElementById("welcome");
+  if(!w) return;
+
+  // ✅ 换背景：只改这一行 BG_URL（下面给了 3 个可选）
+  const BG_URL =
+    // 1) 链子桥夜景（多瑙河）— 另一角度
+    "url('https://images.unsplash.com/photo-1637658011230-4329bc6336ae?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
+
+    // 2) 国会夜景（俯瞰，多瑙河）— 另一角度（想用这个就把上面那行注释掉，启用下面这行）
+    //"url('https://images.unsplash.com/photo-1741192387927-8634cc9e6e24?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
+
+    // 3) 国会夜景（近景+倒影，多瑙河）— 另一角度（想用这个就启用）
+    //"url('https://images.unsplash.com/photo-1636140211522-20f6f04e6ac8?fm=jpg&ixlib=rb-4.1.0&q=80&w=2400')";
+
+  w.style.setProperty("--bg", BG_URL);
+
+  // 3 秒后淡出
+  const SHOW_MS = 3000;
+  const FADE_MS = 900;
+  setTimeout(() => {
+    w.classList.add("hide");
+    setTimeout(() => w.remove(), FADE_MS + 80);
+  }, SHOW_MS);
+})();
+</script>
+</body>
+</html>

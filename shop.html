@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Faye’s Vintage | Products</title>
+
+  <style>
+    :root{
+      --bg:#fff9f0;
+      --accent:#d6a24d;
+      --accent-soft:#f7e5bb;
+      --text:#2f2615;
+      --muted:#8d7a5f;
+      --border:#f0e2c8;
+      --card:#fff;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
+      background:var(--bg);
+      color:var(--text)
+    }
+
+    header{
+      padding:26px 16px 18px;
+      background:rgba(255,255,255,0.9);
+      border-bottom:1px solid var(--border);
+      backdrop-filter: blur(4px);
+    }
+    .header-inner{
+      max-width:1100px;
+      margin:auto;
+      text-align:center;
+    }
+    h1{
+      margin:0;
+      font-family:Georgia,serif;
+      letter-spacing:.16em;
+      text-transform:uppercase;
+      font-size:28px;
+    }
+    .subtitle{
+      font-size:12px;
+      color:var(--muted);
+      margin-top:6px;
+    }
+
+    .section{
+      max-width:1100px;
+      margin:24px auto;
+      padding:0 16px;
+    }
+
+    .filters{
+      display:flex;
+      flex-wrap:wrap;
+      gap:12px;
+      align-items:center;
+      margin-bottom:16px;
+    }
+    .filter-group{
+      display:flex;
+      gap:6px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+    .filter-label{
+      font-size:12px;
+      color:var(--muted);
+    }
+    .filter-btn{
+      font-size:12px;
+      padding:4px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      cursor:pointer;
+      user-select:none;
+      text-decoration:none;
+      color:inherit;
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+    }
+    .filter-btn.active{
+      background:var(--accent-soft);
+      border-color:var(--accent);
+      color:var(--accent);
+    }
+    select{
+      font-size:12px;
+      padding:4px 8px;
+      border-radius:6px;
+      border:1px solid var(--border);
+      background:#fff;
+    }
+
+    /* language switch in filter row right */
+    .lang-switch{
+      margin-left:auto;
+      display:flex;
+      gap:6px;
+      align-items:center;
+    }
+    .lang-switch button{
+      display:flex;
+      align-items:center;
+      gap:4px;
+      font-size:11px;
+      padding:3px 8px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      cursor:pointer;
+      user-select:none;
+    }
+    .lang-switch button.active{
+      background:var(--accent);
+      color:#fff;
+      border-color:var(--accent);
+    }
+    .lang-flag{
+      width:14px;
+      height:10px;
+      border-radius:2px;
+      object-fit:cover;
+    }
+    @media(max-width:520px){
+      .filters{align-items:flex-start}
+      .lang-switch{
+        width:100%;
+        justify-content:flex-end;
+        margin-left:0;
+      }
+    }
+
+    .product-grid{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:18px;
+    }
+    @media(max-width:900px){
+      .product-grid{grid-template-columns:repeat(2,1fr)}
+    }
+    .product-card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius:12px;
+      overflow:hidden;
+      cursor:pointer;
+      position:relative;
+      transition:.15s;
+    }
+    .product-card:hover{
+      transform:translateY(-3px);
+      box-shadow:0 10px 20px rgba(0,0,0,.15);
+    }
+    .product-card.sold{
+      opacity:.45;
+      filter:grayscale(1);
+      cursor:default;
+    }
+    .product-card.sold:hover{transform:none;box-shadow:none;}
+    .sold-badge{
+      position:absolute;
+      top:8px;
+      left:8px;
+      background:rgba(0,0,0,.75);
+      color:#fff;
+      font-size:11px;
+      padding:3px 6px;
+      border-radius:4px;
+      z-index:2;
+    }
+
+    .product-image-wrapper{aspect-ratio:4/5;background:#eee;}
+    .product-image-wrapper img{width:100%;height:100%;object-fit:cover;}
+    .product-info{padding:8px 10px;}
+    .product-brand{
+      font-size:11px;
+      color:var(--muted);
+      letter-spacing:.1em;
+      text-transform:uppercase;
+    }
+    .product-name{font-size:13px;min-height:2.6em;}
+    .product-meta{
+      display:flex;
+      justify-content:space-between;
+      margin-top:4px;
+      align-items:baseline;
+      gap:10px;
+    }
+    .product-price:empty{display:none;}
+    .product-tag{
+      font-size:11px;
+      padding:1px 8px;
+      border-radius:999px;
+      background:var(--accent-soft);
+      color:var(--accent);
+      white-space:nowrap;
+    }
+
+    footer{
+      text-align:center;
+      font-size:12px;
+      color:var(--muted);
+      padding:20px;
+      background:#fffaf3;
+      border-top:1px solid var(--border);
+      margin-top:40px;
+    }
+
+    /* Back to top */
+    #backToTop{
+      position:fixed;
+      bottom:26px;
+      right:22px;
+      width:42px;
+      height:42px;
+      border-radius:50%;
+      border:none;
+      background:rgba(200,164,109,0.9);
+      color:#fff;
+      font-size:20px;
+      cursor:pointer;
+      display:none;
+      align-items:center;
+      justify-content:center;
+      box-shadow:0 4px 10px rgba(0,0,0,.15);
+      z-index:99;
+    }
+    #backToTop:hover{background:rgba(200,164,109,1);}
+  </style>
+
+<script>
+/* ===== GA Consent Control (NO auto load) ===== */
+window.GA_MEASUREMENT_ID = 'G-F8VH58SNN6';
+
+function loadGA() {
+  if (window.__gaLoaded) return;
+  window.__gaLoaded = true;
+
+  const s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + window.GA_MEASUREMENT_ID;
+  document.head.appendChild(s);
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+
+  gtag('js', new Date());
+  gtag('config', window.GA_MEASUREMENT_ID, { anonymize_ip: true });
+}
+
+function hasConsent() {
+  return localStorage.getItem('ga_consent') === 'granted';
+}
+</script>
+</head>
+
+<body>
+
+<button id="backToTop" aria-label="Back to top">↑</button>
+
+<header>
+  <div class="header-inner">
+    <h1>Faye’s Vintage</h1>
+    <div class="subtitle" id="subtitle">Pre-loved Luxury · Budapest</div>
+  </div>
+</header>
+
+<div class="section" id="products">
+  <div class="filters">
+
+    <!-- back to home (index) -->
+    <a class="filter-btn" id="backHome" href="index.html#categories" onclick="sessionStorage.setItem('skipWelcomeOnce','1')">← <span data-i18n="nav.home">Home</span></a>
+
+
+    <!-- Gender -->
+    <div class="filter-group">
+      <span class="filter-label" data-i18n="filters.gender">Gender:</span>
+      <button class="filter-btn filter-btn-gender active" data-gender="all" data-i18n="filters.all">All</button>
+      <button class="filter-btn filter-btn-gender" data-gender="women" data-i18n="filters.women">Women</button>
+      <button class="filter-btn filter-btn-gender" data-gender="men" data-i18n="filters.men">Men</button>
+      <button class="filter-btn filter-btn-gender" data-gender="unisex" data-i18n="filters.unisex">Unisex</button>
+    </div>
+
+    <!-- Brand -->
+    <div class="filter-group">
+      <span class="filter-label" data-i18n="filters.brand">Brand:</span>
+      <select id="brand-filter">
+        <option value="all" data-i18n="filters.allBrands">All brands</option>
+      </select>
+    </div>
+
+    <!-- language switch on the right -->
+    <div class="lang-switch">
+      <button data-lang="en"><img class="lang-flag" src="https://flagcdn.com/w20/gb.png" alt="EN">EN</button>
+      <button data-lang="hu"><img class="lang-flag" src="https://flagcdn.com/w20/hu.png" alt="HU">HU</button>
+    </div>
+  </div>
+
+  <div class="product-grid" id="product-grid"></div>
+</div>
+
+<footer>© <span id="y"></span> Faye’s Vintage</footer>
+
+<script>
+  document.getElementById('y').textContent = new Date().getFullYear();
+
+  // UI labels
+  const uiText = {
+    en: {
+      nav: { home:"Home" },
+      filters: {
+        gender:"Gender:",
+        all:"All",
+        women:"Women",
+        men:"Men",
+        unisex:"Unisex",
+        brand:"Brand:",
+        allBrands:"All brands"
+      },
+      messages: {
+        loadError:"Cannot load product data. Please run via Live Server.",
+        empty:"No products in this filter."
+      },
+      subtitle: {
+        base:"Pre-loved Luxury · Budapest",
+        categoryPrefix:"Category:"
+      },
+      cats: { bags:"Bags", clothing:"Clothing", accessories:"Accessories", shoes:"Shoes" }
+    },
+    hu: {
+      nav: { home:"Kezdőlap" },
+      filters: {
+        gender:"Nem:",
+        all:"Összes",
+        women:"Női",
+        men:"Férfi",
+        unisex:"Unisex",
+        brand:"Márka:",
+        allBrands:"Összes márka"
+      },
+      messages: {
+        loadError:"Nem sikerült betölteni a termékeket. Kérjük Live Serverrel nyisd meg.",
+        empty:"Nincs termék a szűrés alapján."
+      },
+      subtitle: {
+        base:"Pre-loved luxus · Budapest",
+        categoryPrefix:"Kategória:"
+      },
+      cats: { bags:"Táskák", clothing:"Ruházat", accessories:"Kiegészítők", shoes:"Cipők" }
+    }
+  };
+
+  let currentLang = localStorage.getItem('fv_lang') || 'en';
+  if (currentLang !== 'en' && currentLang !== 'hu') currentLang = 'en';
+
+  function t(path){
+    const parts = path.split('.');
+    let obj = uiText[currentLang];
+    for (const p of parts) obj = obj && obj[p];
+    return (typeof obj === 'string') ? obj : '';
+  }
+
+  function applyStaticTexts(){
+    document.querySelectorAll('[data-i18n]').forEach(el=>{
+      const key = el.getAttribute('data-i18n');
+      const val = t(key);
+      if (val) el.textContent = val;
+    });
+  }
+
+  function getML(v){
+    if(!v) return '';
+    if(typeof v === 'string') return v;
+    return v[currentLang] || v.en || v.hu || '';
+  }
+
+  function formatPrice(v){
+    if(v === undefined || v === null) return '';
+    if(typeof v === 'string'){
+      const s = v.trim();
+      return s ? s : '';
+    }
+    if(typeof v === 'number') return '€ ' + v;
+    const s = String(v).trim();
+    return s ? s : '';
+  }
+
+  // show EUR/HUF by language (manual, no conversion)
+  function getDisplayPrice(item){
+    const eurRaw = (item && (item.price_eur ?? '')) || '';
+    const hufRaw = (item && (item.price_huf ?? '')) || '';
+
+    const eur = (typeof eurRaw === 'number') ? String(eurRaw) : String(eurRaw).trim();
+    const huf = (typeof hufRaw === 'number') ? String(hufRaw) : String(hufRaw).trim();
+
+    if(currentLang === 'hu'){
+      if(huf) return huf + ' Ft';
+      if(eur) return '€ ' + eur;
+      return formatPrice(item ? item.price : '');
+    }else{
+      if(eur) return '€ ' + eur;
+      if(huf) return huf + ' Ft';
+      return formatPrice(item ? item.price : '');
+    }
+  }
+
+  // category classifier (used only for URL locked category)
+  function normalizeCat(v){
+    if(!v) return '';
+    return String(v).toLowerCase().trim();
+  }
+  function classifyCategory(p){
+    // ✅ Prefer explicit family from products.json (supports old exported values like "Bags"/"Clothes")
+    const fam = normalizeCat(p && p.family);
+    if(fam){
+      if(fam === 'bags' || fam === 'bag' || fam === 'handbag' || fam === 'handbags') return 'bags';
+      if(fam === 'clothes' || fam === 'clothing' || fam === 'apparel') return 'clothing';
+      if(fam === 'accessories' || fam === 'accessory') return 'accessories';
+      if(fam === 'shoes' || fam === 'shoe' || fam === 'footwear') return 'shoes';
+    }
+
+    // fallback: infer from other fields + name keywords
+    const explicit = normalizeCat(p.category || p.type || p.cat);
+    if(explicit){
+      if(['bags','clothing','accessories','shoes'].includes(explicit)) return explicit;
+      if(explicit.includes('bag') || explicit.includes('tás') || explicit.includes('task') || explicit.includes('handbag')) return 'bags';
+      if(explicit.includes('cloth') || explicit.includes('ruha') || explicit.includes('apparel') || explicit.includes('wear')) return 'clothing';
+      if(explicit.includes('access') || explicit.includes('kieg') || explicit.includes('éks') || explicit.includes('jewel') || explicit.includes('belt') || explicit.includes('scarf')) return 'accessories';
+      if(explicit.includes('shoe') || explicit.includes('cip') || explicit.includes('boot') || explicit.includes('sneaker')) return 'shoes';
+    }
+
+    const name = normalizeCat(getML(p.name));
+    const brand = normalizeCat(getML(p.brand));
+    const s = (name + ' ' + brand);
+
+    if(/\b(shoe|shoes|sneaker|boot|boots|heel|heels|loafer|loafers|pump|pumps|sandals?)\b/.test(s)) return 'shoes';
+    if(/\b(jacket|coat|dress|shirt|pants|trouser|jeans|skirt|blouse|hoodie|sweater|knit|cardigan|t-?shirt|tee|top)\b/.test(s)) return 'clothing';
+    if(/\b(scarf|belt|wallet|cardholder|keyholder|bracelet|necklace|ring|earrings?|hat|cap|gloves?|sunglasses?)\b/.test(s)) return 'accessories';
+    return 'bags';
+  }
+
+  // products state
+  let allProducts = [];
+  let currentGender = 'all';
+  let currentBrand = 'all';
+  let lockedCat = 'all'; // URL param decides this
+
+  function renderBrandOptions(list){
+    const sel = document.getElementById('brand-filter');
+    const brands = [...new Set(list.map(p => getML(p.brand))).values()].filter(Boolean).sort();
+
+    sel.innerHTML = '';
+    const optAll = document.createElement('option');
+    optAll.value = 'all';
+    optAll.textContent = t('filters.allBrands') || 'All brands';
+    sel.appendChild(optAll);
+
+    brands.forEach(b=>{
+      const o = document.createElement('option');
+      o.value = b;
+      o.textContent = b;
+      sel.appendChild(o);
+    });
+  }
+
+  function renderProducts(){
+    const grid = document.getElementById('product-grid');
+    grid.innerHTML = '';
+
+    const filtered = allProducts
+      .filter(p => currentGender === 'all' || p.gender === currentGender)
+      .filter(p => currentBrand === 'all' || getML(p.brand) === currentBrand)
+      .filter(p => lockedCat === 'all' || classifyCategory(p) === lockedCat)
+      .slice()
+      .sort((a,b) => (a.tag === 'Sold' ? 1 : 0) - (b.tag === 'Sold' ? 1 : 0));
+
+    if(filtered.length === 0){
+      grid.innerHTML = `<p style="color:#9ca3af;font-size:14px;">${t('messages.empty') || ''}</p>`;
+      return;
+    }
+
+    filtered.forEach(p=>{
+      const card = document.createElement('div');
+      const isSold = p.tag === 'Sold';
+      card.className = 'product-card' + (isSold ? ' sold' : '');
+
+      card.innerHTML = `
+        ${isSold ? '<div class="sold-badge">SOLD</div>' : ''}
+        <div class="product-image-wrapper"><img src="${p.image}" alt=""></div>
+        <div class="product-info">
+          <div class="product-brand">${getML(p.brand)}</div>
+          <div class="product-name">${getML(p.name)}</div>
+          <div class="product-meta">
+            <div class="product-price">${getDisplayPrice(p)}</div>
+            <div class="product-tag">${p.tag || ''}</div>
+          </div>
+        </div>
+      `;
+
+      if(!isSold){
+        card.addEventListener('click', ()=>{
+          if (window.gtag && hasConsent()) {
+            gtag('event', 'select_item', {
+              item_list_name: 'Products',
+              items: [{
+                item_id: String(p.id),
+                item_name: String(getML(p.name) || ''),
+                item_brand: String(getML(p.brand) || ''),
+                item_category: 'Preloved',
+                item_variant: String(p.tag || 'Available')
+              }]
+            });
+          }
+          window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
+        });
+      }
+      grid.appendChild(card);
+    });
+  }
+
+  // gender buttons
+  document.querySelectorAll('.filter-btn-gender').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      document.querySelectorAll('.filter-btn-gender').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      currentGender = btn.dataset.gender || 'all';
+      renderProducts();
+    });
+  });
+
+  // brand dropdown
+  document.getElementById('brand-filter').addEventListener('change', (e)=>{
+    currentBrand = e.target.value;
+    renderProducts();
+  });
+
+  // language buttons
+  function syncLangButtons(){
+    document.querySelectorAll('.lang-switch button').forEach(b=>{
+      b.classList.toggle('active', b.dataset.lang === currentLang);
+    });
+  }
+  document.querySelectorAll('.lang-switch button').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      currentLang = btn.dataset.lang;
+      localStorage.setItem('fv_lang', currentLang);
+
+      applyStaticTexts();
+      syncLangButtons();
+
+      currentBrand = 'all';
+      renderBrandOptions(allProducts);
+      document.getElementById('brand-filter').value = 'all';
+
+      updateSubtitle();
+      renderProducts();
+    });
+  });
+
+  // Back to top
+  const backBtn = document.getElementById('backToTop');
+  window.addEventListener('scroll', ()=>{
+    backBtn.style.display = (window.scrollY > 300) ? 'flex' : 'none';
+  });
+  backBtn.addEventListener('click', ()=>{
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+
+  function parseLockedCat(){
+    try{
+      const params = new URLSearchParams(location.search);
+      const cat = (params.get('cat') || '').toLowerCase();
+      if(cat && ['bags','clothing','accessories','shoes'].includes(cat)){
+        lockedCat = cat;
+      }else{
+        lockedCat = 'all';
+      }
+    }catch(e){
+      lockedCat = 'all';
+    }
+  }
+
+  function updateSubtitle(){
+    const el = document.getElementById('subtitle');
+    const base = t('subtitle.base') || '';
+    if(lockedCat !== 'all'){
+      const prefix = t('subtitle.categoryPrefix') || 'Category:';
+      const catName = (uiText[currentLang].cats && uiText[currentLang].cats[lockedCat]) ? uiText[currentLang].cats[lockedCat] : lockedCat;
+      el.textContent = `${base} · ${prefix} ${catName}`;
+    }else{
+      el.textContent = base || 'Pre-loved Luxury · Budapest';
+    }
+  }
+
+  // init
+  applyStaticTexts();
+  syncLangButtons();
+  parseLockedCat();
+  updateSubtitle();
+
+  fetch('products.json')
+    .then(r=>r.json())
+    .then(d=>{
+      allProducts = d;
+      renderBrandOptions(allProducts);
+      renderProducts();
+    })
+    .catch(()=>{
+      document.getElementById('product-grid').innerHTML =
+        `<p style="color:#9ca3af;font-size:14px;">${t('messages.loadError') || ''}</p>`;
+    });
+</script>
+
+<!-- ===== Minimal GA Consent Banner (Shop only) ===== -->
+<div id="ga-consent-banner" style="
+  position:fixed;
+  bottom:16px;
+  left:16px;
+  right:16px;
+  max-width:520px;
+  margin:auto;
+  padding:12px 14px;
+  background:#fffdf7;
+  border:1px solid var(--border);
+  border-radius:14px;
+  box-shadow:0 10px 28px rgba(90,60,20,.16);
+  font-size:12px;
+  color:var(--muted);
+  z-index:9999;
+  display:none;
+">
+  <div id="ga-consent-text" style="margin-bottom:10px; line-height:1.45;"></div>
+  <div style="display:flex; gap:8px; justify-content:flex-end; align-items:center;">
+    <button id="ga-decline" style="
+      border:1px solid var(--border);
+      background:#fff;
+      color:var(--muted);
+      border-radius:999px;
+      padding:5px 12px;
+      font-size:12px;
+      cursor:pointer;
+    ">Decline</button>
+    <button id="ga-accept" style="
+      border:1px solid var(--accent);
+      background:var(--accent);
+      color:#fff;
+      border-radius:999px;
+      padding:5px 12px;
+      font-size:12px;
+      cursor:pointer;
+    ">Accept</button>
+  </div>
+</div>
+
+<script>
+(function(){
+  const KEY = 'ga_consent';
+  const banner = document.getElementById('ga-consent-banner');
+  const textEl = document.getElementById('ga-consent-text');
+  const btnA = document.getElementById('ga-accept');
+  const btnD = document.getElementById('ga-decline');
+
+  function getLang(){
+    const v = (localStorage.getItem('fv_lang') || 'en').toLowerCase();
+    return (v === 'hu' || v === 'en') ? v : 'en';
+  }
+
+  function applyI18n(){
+    const lang = getLang();
+    if(lang === 'hu'){
+      if(textEl) textEl.textContent = 'Cookie-kat (anonim analitika) használunk a termékek iránti érdeklődés megértéséhez. Elfogadhatod vagy elutasíthatod.';
+      if(btnA) btnA.textContent = 'Elfogadom';
+      if(btnD) btnD.textContent = 'Elutasítom';
+    }else{
+      if(textEl) textEl.textContent = 'We use anonymous analytics cookies to understand product interest. You can accept or decline.';
+      if(btnA) btnA.textContent = 'Accept';
+      if(btnD) btnD.textContent = 'Decline';
+    }
+  }
+
+  // If already granted, load GA and do nothing.
+  if (hasConsent()) {
+    loadGA();
+    return;
+  }
+
+  // If explicitly denied before, do nothing.
+  if (localStorage.getItem(KEY) === 'denied') {
+    return;
+  }
+
+  applyI18n();
+  banner.style.display = 'block';
+
+  btnA && (btnA.onclick = () => {
+    localStorage.setItem(KEY, 'granted');
+    banner.remove();
+    loadGA();
+  });
+
+  btnD && (btnD.onclick = () => {
+    localStorage.setItem(KEY, 'denied');
+    banner.remove();
+  });
+})();
+</script>
+
+<script>
+/* === FV: restore scroll position when returning from product page (minimal patch) === */
+(function(){
+  const KEY_Y = "fv_shop_scroll_y";
+
+  // Save scroll BEFORE navigating to product detail.
+  // Use capture phase so it runs before existing card click handlers.
+  document.addEventListener("click", function(e){
+    const card = e.target.closest && e.target.closest(".product-card");
+    if(!card) return;
+    try{
+      sessionStorage.setItem(KEY_Y, String(window.scrollY || 0));
+    }catch(_){}
+  }, true);
+
+  // Restore scroll when coming back to shop.
+  function restoreScroll(){
+    let y = null;
+    try{ y = sessionStorage.getItem(KEY_Y); }catch(_){}
+    if(y === null) return;
+    const target = Math.max(0, parseInt(y,10) || 0);
+
+    // Try multiple frames because products/images may render progressively.
+    let tries = 0;
+    (function tick(){
+      tries++;
+      const maxScroll = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+      const canReach = maxScroll >= target;
+
+      // When not yet reachable, wait for layout to grow.
+      if(!canReach && tries < 90){
+        requestAnimationFrame(tick);
+        return;
+      }
+
+      // "Smooth settle": small pre-offset then smooth to target (subtle).
+      const pre = Math.max(0, target - 40);
+      window.scrollTo(0, pre);
+      requestAnimationFrame(function(){
+        try{
+          window.scrollTo({ top: target, behavior: "smooth" });
+        }catch(_){
+          window.scrollTo(0, target);
+        }
+      });
+
+      try{ sessionStorage.removeItem(KEY_Y); }catch(_){}
+    })();
+  }
+
+  // pageshow covers normal back/forward cache restores; load covers non-bfcache cases.
+  window.addEventListener("pageshow", restoreScroll);
+  window.addEventListener("load", restoreScroll);
+})();
+</script>
+
+</body>
+</html>
