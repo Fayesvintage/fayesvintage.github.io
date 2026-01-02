@@ -18,11 +18,24 @@
     *{box-sizing:border-box}
     html,body{height:100%}
     body{
-      margin:0;
-      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
-      background:var(--bg);
-      color:var(--text);
-    }
+  margin:0;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial;
+  color:var(--text);
+
+  /* 👇 背景图 */
+  background-image:
+    linear-gradient(
+      rgba(255,249,240,0.65),
+      rgba(255,249,240,0.85)
+    ),
+    url("Background.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
     a{color:inherit}
     button{font-family:inherit}
     [hidden]{display:none !important;}
@@ -63,12 +76,16 @@
     }
 
     .card{
-      background:rgba(255,255,255,.92);
-      border:1px solid var(--border);
-      border-radius:var(--radius);
-      box-shadow:var(--shadow);
-      padding:22px;
+      background: rgba(255,255,255,0.72);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+
+      border: 1px solid rgba(255,255,255,0.45);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 22px;
     }
+
     .brand{
       margin:0 0 8px;
       font-family:Georgia,serif;
@@ -108,18 +125,30 @@
     /* ===== bullets (click to dialog) ===== */
     .bullets{display:grid; gap:10px;}
     .bullets .row{
-      width:100%;
-      text-align:left;
-      cursor:pointer;
-      border:1px solid var(--border);
-      border-radius:16px;
-      background:#fff;
-      padding:14px;
-      display:block;
-      transition:transform .15s ease, background .2s ease;
-      appearance:none; -webkit-appearance:none;
-    }
-    .bullets .row:hover{transform:translateY(-1px); background:var(--accent-soft);}
+  width:100%;
+  text-align:left;
+  cursor:pointer;
+  border-radius:16px;
+  padding:14px;
+  display:block;
+  appearance:none;
+  -webkit-appearance:none;
+
+  /* 👇 半透明玻璃效果 */
+  background: rgba(255,255,255,0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+
+  border: 1px solid rgba(255,255,255,0.45);
+  box-shadow: 0 10px 28px rgba(0,0,0,.12);
+
+  transition:
+    transform .15s ease,
+    background .2s ease,
+    box-shadow .2s ease;
+}
+
+    .bullets .row:hover{transform: translateY(-2px);background: rgba(255,255,255,0.85);box-shadow: 0 16px 36px rgba(0,0,0,.18);}
     .bullets .row b{display:block; margin-bottom:6px; color:var(--text);}
     .bullets .row div{font-size:13px; color:var(--muted); line-height:1.6;}
 
@@ -207,19 +236,33 @@
 
     /* ===== dialog ===== */
     dialog.dlg{
-      border:none;
-      border-radius:16px;
-      padding:0;
-      width:min(560px, 92vw);
-      box-shadow:0 24px 80px rgba(0,0,0,.25);
-    }
+  border:none;
+  border-radius:18px;
+  padding:0;
+  width:min(560px, 92vw);
+
+  background: rgba(255,255,255,0.28);   /* ⬅ 很低了 */
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+
+  border: 1px solid rgba(255,255,255,0.35);
+  box-shadow: 0 24px 80px rgba(0,0,0,.25);
+}
+
     dialog.dlg::backdrop{background:rgba(48,35,15,.35); backdrop-filter: blur(2px);}
     .dlg-head{
-      display:flex; align-items:center; justify-content:space-between; gap:12px;
-      padding:14px 16px 10px;
-      border-bottom:1px solid rgba(0,0,0,.08);
-      background:#fffdf7;
-    }
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:14px 16px 10px;
+
+  background: rgba(255,255,255,0.25);
+  backdrop-filter: blur(4px);
+
+  border-bottom: 1px solid rgba(255,255,255,0.35);
+}
+
     .dlg-title{font-family:Georgia,serif; font-size:18px;}
     .dlg-x{
       width:34px;height:34px;border-radius:10px;border:1px solid var(--border);
@@ -227,18 +270,28 @@
     }
     .dlg-body{
   padding:14px 16px 6px;
-  background:#fffdf7;
-  color:var(--muted);
+
+  background: rgba(255,255,255,0.22);
+  backdrop-filter: blur(4px);
+
+  color: var(--text);   /* ⚠️ 透明后文字要深一点 */
   line-height:1.7;
   font-size:14px;
-  white-space: pre-line; /* ✅ 让 \n 变成换行 */
+  white-space: pre-line;
 }
+
     .dlg-actions{
-      padding:10px 16px 16px;
-      display:flex; justify-content:flex-end; gap:10px;
-      border-top:1px solid rgba(0,0,0,.06);
-      background:#fffdf7;
-    }
+  padding:10px 16px 16px;
+  display:flex;
+  justify-content:flex-end;
+  gap:10px;
+
+  background: rgba(255,255,255,0.28);
+  backdrop-filter: blur(4px);
+
+  border-top: 1px solid rgba(255,255,255,0.35);
+}
+
     .dlg-close{
       padding:10px 14px;border-radius:12px;border:1px solid var(--border);
       background:#fff; cursor:pointer; color:var(--text);
@@ -279,10 +332,11 @@
   
     header{
       padding:26px 16px 18px;
-      background:rgba(255,255,255,0.9);
+      background:rgba(255,255,255,0.75);
+      backdrop-filter: blur(6px);
       border-bottom:1px solid var(--border);
-      backdrop-filter: blur(4px);
     }
+
     .header-inner{
       max-width:1100px;
       margin:auto;
