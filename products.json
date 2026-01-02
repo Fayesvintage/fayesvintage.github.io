@@ -1158,8 +1158,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(3).JPG"
     ],
     "description": {
-      "en": "Condition: Good\n90-95%\nNo Accessories",
-      "hu": "Állapot: Jó\nKiegészítők: Nincs"
+      "en": "Condition: Very Good\n90-95%\nNo Accessories",
+      "hu": "Állapot: Nagyon jó\nKiegészítők: Nincs"
     },
     "family": "bags"
   },
@@ -1193,6 +1193,399 @@
     "description": {
       "en": "Condition: Exellent\n95-98%\nAccessories: None",
       "hu": "Állapot: Kiváló 95-98%"
+    }
+  },
+  {
+    "id": "523k0",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Jet Sneaker",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "42",
+    "color": {
+      "en": "Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "0q3ug",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nNo Accessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "gtp5n",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clutch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2015-2016",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "bqtod",
+    "brand": {
+      "en": "Bvlgari",
+      "hu": ""
+    },
+    "name": {
+      "en": "Serpenti",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n85-90%\nNo Accessories: Dustbag,Box",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "o5eo5",
+    "brand": {
+      "en": "Gucci",
+      "hu": ""
+    },
+    "name": {
+      "en": "Padlock",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2015-2016",
+    "size": "",
+    "color": {
+      "en": "Light sakura",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "p7898",
+    "brand": {
+      "en": "Fendi",
+      "hu": ""
+    },
+    "name": {
+      "en": "Micro hypnoteyes",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Multicolor",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "e3g2u",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boomerang",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2023",
+    "size": "",
+    "color": {
+      "en": "White-Grey",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "idpl8",
+    "brand": {
+      "en": "Valentino",
+      "hu": ""
+    },
+    "name": {
+      "en": "High-heel",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Multicolor",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "a4369",
+    "brand": {
+      "en": "Prada",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "38",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95-98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "0g8ze",
+    "brand": {
+      "en": "Burberry",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": "Szövetkabát"
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "38",
+    "color": {
+      "en": "Red-orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "3rfen",
+    "brand": {
+      "en": "Dolce Gabbana",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black-White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "1eul8",
+    "brand": {
+      "en": "Yves Saint Laurant",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kate medium",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
     }
   }
 ]
