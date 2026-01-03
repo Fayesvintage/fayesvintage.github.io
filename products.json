@@ -35,7 +35,10 @@
   {
     "id": "9nhpw",
     "gender": "women",
-    "brand": "HERMÈS",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
     "name": {
       "en": "Picotin Lock 18 Taurillon Clemence",
       "hu": ""
@@ -910,7 +913,7 @@
   {
     "id": "ib5zn",
     "brand": {
-      "en": "Celine",
+      "en": "Céline",
       "hu": ""
     },
     "name": {
