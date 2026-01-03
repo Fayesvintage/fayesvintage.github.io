@@ -30,7 +30,7 @@
     },
     "price_eur": "",
     "price_huf": "",
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "9nhpw",
@@ -63,7 +63,7 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg"
     ],
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "badyw",
@@ -96,7 +96,7 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).JPG"
     ],
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "b7wpl",
@@ -129,7 +129,7 @@
       "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
       "hu": "Állapot: 95%, kiváló;\nKiegészítők:Porzsák"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "ey8rq",
@@ -295,7 +295,7 @@
       "en": "Condition: Never used;\nAccessories: Dustbag,Box",
       "hu": "Állapot: Nem volt használva;\nKiegészítők: Porzsák,Doboz"
     },
-    "family": "accessories"
+    "family": "Accessories"
   },
   {
     "id": "iyux8",
@@ -458,7 +458,7 @@
       "en": "Condition: Never used; with tag\n",
       "hu": "Állapot: Nem volt használva\n"
     },
-    "family": "accessories"
+    "family": "Accessories"
   },
   {
     "id": "qq8r5",
@@ -491,7 +491,7 @@
       "en": "Condition: 98%, excellent;\nAccessories:Dust bag",
       "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "grdyo",
@@ -753,7 +753,7 @@
       "en": "",
       "hu": ""
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "kt5rk",
@@ -784,7 +784,7 @@
       "en": "",
       "hu": ""
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "ex4se",
@@ -1032,7 +1032,7 @@
       "en": "",
       "hu": ""
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "a5egv",
@@ -1065,7 +1065,7 @@
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "mfelj",
@@ -1098,7 +1098,7 @@
       "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
       "hu": "Állapot: Jó \nKiegészítők: Porzsák"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "ma7pl",
@@ -1131,7 +1131,7 @@
       "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
       "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "ojs27",
@@ -1164,7 +1164,7 @@
       "en": "Condition: Very Good\n90-95%\nNo Accessories",
       "hu": "Állapot: Nagyon jó\nKiegészítők: Nincs"
     },
-    "family": "bags"
+    "family": "Bags"
   },
   {
     "id": "w0ywt",
@@ -1177,7 +1177,7 @@
       "hu": ""
     },
     "gender": "women",
-    "family": "accessories",
+    "family": "Accessories",
     "price": "",
     "price_eur": "",
     "price_huf": "",
