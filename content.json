@@ -2,11 +2,11 @@
   "contactDialog": {
     "en": {
       "title": "Contact us",
-      "body": "WhatsApp: +36 30 338 6975\nAddress: 1065 Budapest, Lázár utca 6\nOpening hours: Tuesday - Sunday 11:00 – 18:00\nWe are only 3 minutes’ walk from the Opera and Andrássy út – feel free to drop by in person without appointment."
+      "body": "WhatsApp: +36 30 338 6975\nAddress: 1065 Budapest, Lázár utca 6\nOpening hours: Tuesday,Wednesday,Sunday 12:00 – 16:00\nThursday,Friday,Saturday 12:00 – 18:00\nWe are only 3 minutes’ walk from the Opera and Andrássy út – feel free to drop by in person without appointment."
     },
     "hu": {
       "title": "Kapcsolat",
-      "body": "WhatsApp: +36 30 338 6975\nBoutique címe: 1065 Budapest, Lázár utca 6\nNyitvatartás: Kedd - Vasárnap 11:00 – 18:00\nAz Operától és az Andrássy úttól 3 percnyi séta, szeretettel várunk mindenkit időpont egyeztetés nélkül is."
+      "body": "WhatsApp: +36 30 338 6975\nBoutique címe: 1065 Budapest, Lázár utca 6\nNyitvatartás: Kedd,Szerda,Vasárnap 12:00 – 16:00\nCsütörtök,Péntek,Szombat 12:00 – 18:00\nAz Operától és az Andrássy úttól 3 percnyi séta, szeretettel várunk mindenkit időpont egyeztetés nélkül is."
     }
   },
   "bullets": {
