@@ -298,35 +298,6 @@
     "family": "Accessories"
   },
   {
-    "id": "iyux8",
-    "brand": {
-      "en": "Louis Vuitton",
-      "hu": ""
-    },
-    "name": {
-      "en": "Sarah Wallet",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "420",
-    "price_eur": "420",
-    "price_huf": "160.000",
-    "tag": "Available",
-    "year": "2014",
-    "size": "19 × 10 × 2.5 cm",
-    "color": {
-      "en": "Pink / Monogram",
-      "hu": ""
-    },
-    "image": "",
-    "images": [],
-    "description": {
-      "en": "Condition: Never used;\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva;\nKiegészítők: Full szett"
-    },
-    "family": "Accessories"
-  },
-  {
     "id": "sb1y2",
     "brand": {
       "en": "Louis Vuitton",
@@ -973,37 +944,6 @@
     "family": "Bags"
   },
   {
-    "id": "1plsy",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Minilindy II TC Black Gold",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1plsy%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1plsy%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "flyd5",
     "brand": {
       "en": "Louis Vuitton",
@@ -1512,7 +1452,7 @@
     "year": "",
     "size": "38",
     "color": {
-      "en": "Red-orange",
+      "en": "Red/orange",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
@@ -1544,7 +1484,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "Black-White",
+      "en": "Black/White",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
@@ -1589,6 +1529,367 @@
     "description": {
       "en": "Condition: Very Good\n90-95%\nAccessories: None",
       "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "kpm1j",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clic H Bracelet",
+      "hu": "Clic H Karkötő"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Gold/Cream",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "talrj",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kelly Bracelet",
+      "hu": "Kelly Karkötő"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Gold/Navy blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/talrj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/talrj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/talrj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/talrj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "wzl92",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clic H Bracelet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Rose Gold/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "0i96v",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sarah Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2014",
+    "size": "",
+    "color": {
+      "en": "Pink/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "9g3kr",
+    "brand": {
+      "en": "Dior",
+      "hu": ""
+    },
+    "name": {
+      "en": "Montagne Mini Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "",
+    "color": {
+      "en": "Blue/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Certificate card, Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák, Certifikát kártya"
+    }
+  },
+  {
+    "id": "glfgc",
+    "brand": {
+      "en": "Dolce Gabbana",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag",
+      "hu": "Szőrme táska"
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95-98%\nAccessories: None",
+      "hu": "Állapot: Kiváló\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "wrgni",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trousse Bag",
+      "hu": "Neszeszer "
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: With Tag",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Címkével"
+    }
+  },
+  {
+    "id": "d13it",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Cape cod watch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2024",
+    "size": "",
+    "color": {
+      "en": "White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "j5wg7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pop H Mini necklace",
+      "hu": "Pop H Mini nyaklánc"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "79rl1",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pop H Mini necklace",
+      "hu": "Pop H Mini nyaklánc"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák,Doboz"
+    }
+  },
+  {
+    "id": "7s030",
+    "brand": {
+      "en": "Louis Vuitton",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Boite",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2022",
+    "size": "Super Mini",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Box, NFC, Dustbag",
+      "hu": ""
     }
   }
 ]
