@@ -535,7 +535,9 @@ function hasConsent() {
               }]
             });
           }
-          window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
+          const catParam = (lockedCat && lockedCat !== 'all') ? `&cat=${encodeURIComponent(lockedCat)}` : '';
+window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
+
         });
       }
       grid.appendChild(card);

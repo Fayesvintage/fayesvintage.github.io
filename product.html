@@ -303,6 +303,10 @@ if (hasConsent()) loadGA();
 
   const params = new URLSearchParams(window.location.search);
   const productId = params.get('id');
+  // ✅ Back to previous category (shop.html?cat=xxx)
+const backCat = params.get('cat');
+const backLink = document.getElementById('back-link');
+backLink.href = backCat ? `shop.html?cat=${encodeURIComponent(backCat)}` : 'shop.html';
   const container = document.getElementById('detail-container');
 
   if(!productId){
