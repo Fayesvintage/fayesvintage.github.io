@@ -1888,7 +1888,139 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(3).JPG"
     ],
     "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: Box, NFC, Dustbag",
+      "en": "Condition:  Good,\nAccessories: Box, NFC, Dustbag",
+      "hu": "Állapot: Jó,85-90%\nKiegészítők: NFC, Doboz,Porzsák"
+    }
+  },
+  {
+    "id": "m6a96",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Scalloped Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "495",
+    "price_eur": "495",
+    "price_huf": "190.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n85-90%\nAccessories: Box",
+      "hu": "Állapot: Jó, 85-90%\nKiegészítők: Doboz"
+    }
+  },
+  {
+    "id": "62vuo",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dior wallet on chain",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "yk9uc",
+    "brand": {
+      "en": "FERRAGAMO",
+      "hu": ""
+    },
+    "name": {
+      "en": "Red clutch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "dtyrz",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Super Mini Red",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
       "hu": ""
     }
   }
