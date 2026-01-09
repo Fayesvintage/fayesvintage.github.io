@@ -2023,5 +2023,133 @@
       "en": "",
       "hu": ""
     }
+  },
+  {
+    "id": "vcwf9",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Super Mini Monogram",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "6ewoj",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Mini",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "gvkqo",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Papillon ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "46mip",
+    "brand": {
+      "en": "",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "",
+    "images": [],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
