@@ -820,37 +820,6 @@
     "family": "Bags"
   },
   {
-    "id": "mnb9g",
-    "brand": {
-      "en": "CÉLINE",
-      "hu": ""
-    },
-    "name": {
-      "en": "Trapez",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mnb9g%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mnb9g%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "ib5zn",
     "brand": {
       "en": "CÉLINE",
@@ -2024,6 +1993,237 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "g55rq",
+    "brand": {
+      "en": "BOTTEGA VENETA",
+      "hu": ""
+    },
+    "name": {
+      "en": "CHAIN CASSETTE RED",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2024",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "bsx9j",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "LEBOY MAXI LIMITED ADDITION",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "f3e3z",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "LEBOY MEDIUM CAVIAR",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "j27xc",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "POCHETTE FELICIE",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2023",
+    "size": "",
+    "color": {
+      "en": "MONOGRAM",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(4).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(5).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ngb5i",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "MAXI LADY DIOR",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ltr5u",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "VINTAGE FLAP",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(3).JPG"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "tco2c",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "ALMA BB TURQUOISE",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(3).jpg"
     ],
     "description": {
       "en": "",
