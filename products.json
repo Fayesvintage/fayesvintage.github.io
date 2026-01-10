@@ -1813,14 +1813,14 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "730",
+    "price_eur": "730",
+    "price_huf": "280.000",
     "tag": "Available",
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Black",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(1).JPG",
@@ -1830,8 +1830,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó, 85%"
     }
   },
   {
@@ -1846,14 +1846,14 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "495",
+    "price_eur": "495",
+    "price_huf": "190.000",
     "tag": "Available",
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Red",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(1).JPG",
@@ -1863,8 +1863,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Excellent\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló, 95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -1879,14 +1879,14 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "555",
+    "price_eur": "555",
+    "price_huf": "210.000",
     "tag": "Available",
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Red",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(1).JPG",
@@ -1896,8 +1896,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -1912,14 +1912,14 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "790",
+    "price_eur": "790",
+    "price_huf": "280.000",
     "tag": "Available",
-    "year": "",
+    "year": "2017",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Monogram/Beige",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(1).JPG",
@@ -1929,8 +1929,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -1952,7 +1952,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Monogram/Black",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
@@ -1962,8 +1962,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -1985,7 +1985,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Monogram/Yellow",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
@@ -1995,8 +1995,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2018,7 +2018,7 @@
     "year": "2024",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Red",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
@@ -2028,8 +2028,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag, Invoice",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Számla"
     }
   },
   {
@@ -2061,8 +2061,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2094,8 +2094,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2127,8 +2127,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(5).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2150,7 +2150,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Pink",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
@@ -2160,8 +2160,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2193,8 +2193,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(3).JPG"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2216,7 +2216,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Turquoise",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
@@ -2226,8 +2226,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2249,7 +2249,7 @@
     "year": "2017",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Black",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(1).jpg",
@@ -2259,8 +2259,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: jó, 85%"
     }
   },
   {
@@ -2292,8 +2292,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2325,8 +2325,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2348,7 +2348,7 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "",
+      "en": "Snakeskin ",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
@@ -2358,8 +2358,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   }
 ]
