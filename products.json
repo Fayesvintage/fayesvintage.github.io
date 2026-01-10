@@ -2138,7 +2138,7 @@
       "hu": ""
     },
     "name": {
-      "en": "MAXI LADY DIOR",
+      "en": "MAXI LADY DIOR PINK",
       "hu": ""
     },
     "gender": "women",
@@ -2224,6 +2224,171 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "16n04",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "J'ADIOR BAG",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "8y9fo",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "SOFT TOTE BAG",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLUE",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "otps9",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "MAXI LADY DIOR BLACK",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "0i3c4",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "MARGARET HANDBAG SNEAKE LETHER",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "85mgb",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "LEBOY LIMITED ADDITION",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "MULTICOLOR",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/85mgb%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/85mgb%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/85mgb%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/85mgb%20(3).JPG"
     ],
     "description": {
       "en": "",
