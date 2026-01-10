@@ -3,7 +3,7 @@
     "id": "0zxca",
     "gender": "women",
     "brand": {
-      "en": "Chanel",
+      "en": "CHANEL",
       "hu": ""
     },
     "name": {
@@ -101,7 +101,7 @@
   {
     "id": "b7wpl",
     "brand": {
-      "en": "Chanel",
+      "en": "CHANEL",
       "hu": ""
     },
     "name": {
@@ -266,7 +266,7 @@
   {
     "id": "8xffv",
     "brand": {
-      "en": "Miu Miu",
+      "en": "MIU MIU",
       "hu": ""
     },
     "name": {
@@ -300,7 +300,7 @@
   {
     "id": "sb1y2",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -333,7 +333,7 @@
   {
     "id": "l2xej",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -367,7 +367,7 @@
   {
     "id": "wpirm",
     "brand": {
-      "en": "Prada ",
+      "en": "PRADA",
       "hu": ""
     },
     "name": {
@@ -401,7 +401,7 @@
   {
     "id": "n9ej2",
     "brand": {
-      "en": "Burberry",
+      "en": "BURBERRY",
       "hu": ""
     },
     "name": {
@@ -434,7 +434,7 @@
   {
     "id": "qq8r5",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -467,7 +467,7 @@
   {
     "id": "grdyo",
     "brand": {
-      "en": "Fendi",
+      "en": "FENDI",
       "hu": ""
     },
     "name": {
@@ -500,7 +500,7 @@
   {
     "id": "gq5hd",
     "brand": {
-      "en": "Bottega Veneta",
+      "en": "BOTTEGA VENETA",
       "hu": ""
     },
     "name": {
@@ -533,7 +533,7 @@
   {
     "id": "0ed8h",
     "brand": {
-      "en": "Chloé",
+      "en": "CHLOÉ",
       "hu": ""
     },
     "name": {
@@ -566,7 +566,7 @@
   {
     "id": "uhp8g",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -599,7 +599,7 @@
   {
     "id": "2g20q",
     "brand": {
-      "en": "Dior ",
+      "en": "DIOR",
       "hu": ""
     },
     "name": {
@@ -632,7 +632,7 @@
   {
     "id": "mwo4l",
     "brand": {
-      "en": "Céline",
+      "en": "CÉLINE",
       "hu": ""
     },
     "name": {
@@ -665,7 +665,7 @@
   {
     "id": "t5xg7",
     "brand": {
-      "en": "Céline",
+      "en": "CÉLINE",
       "hu": ""
     },
     "name": {
@@ -698,7 +698,7 @@
   {
     "id": "uv6sg",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -729,7 +729,7 @@
   {
     "id": "kt5rk",
     "brand": {
-      "en": "Valentino",
+      "en": "VALENTINO",
       "hu": ""
     },
     "name": {
@@ -760,7 +760,7 @@
   {
     "id": "ex4se",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -791,7 +791,7 @@
   {
     "id": "yc3xb",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -822,7 +822,7 @@
   {
     "id": "mnb9g",
     "brand": {
-      "en": "Céline",
+      "en": "CÉLINE",
       "hu": ""
     },
     "name": {
@@ -851,40 +851,9 @@
     "family": "Bags"
   },
   {
-    "id": "6vzju",
-    "brand": {
-      "en": "Gucci",
-      "hu": ""
-    },
-    "name": {
-      "en": "Blue Crossbody Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzju%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzju%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "ib5zn",
     "brand": {
-      "en": "Céline",
+      "en": "CÉLINE",
       "hu": ""
     },
     "name": {
@@ -913,71 +882,9 @@
     "family": "Bags"
   },
   {
-    "id": "3wtoe",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Minilindy II TC Black Gold",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3wtoe%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3wtoe%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
-    "id": "flyd5",
-    "brand": {
-      "en": "Louis Vuitton",
-      "hu": ""
-    },
-    "name": {
-      "en": "Vintage Monogram Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/flyd5%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/flyd5%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "a5egv",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -1010,7 +917,7 @@
   {
     "id": "mfelj",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -1076,7 +983,7 @@
   {
     "id": "ojs27",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -1109,7 +1016,7 @@
   {
     "id": "w0ywt",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -1173,7 +1080,7 @@
   {
     "id": "0q3ug",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -1206,7 +1113,7 @@
   {
     "id": "gtp5n",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -1239,7 +1146,7 @@
   {
     "id": "bqtod",
     "brand": {
-      "en": "Bvlgari",
+      "en": "BVGARI",
       "hu": ""
     },
     "name": {
@@ -1272,7 +1179,7 @@
   {
     "id": "o5eo5",
     "brand": {
-      "en": "Gucci",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -1305,7 +1212,7 @@
   {
     "id": "p7898",
     "brand": {
-      "en": "Fendi",
+      "en": "FENDI",
       "hu": ""
     },
     "name": {
@@ -1371,7 +1278,7 @@
   {
     "id": "idpl8",
     "brand": {
-      "en": "Valentino",
+      "en": "VALENTINO",
       "hu": ""
     },
     "name": {
@@ -1403,7 +1310,7 @@
   {
     "id": "a4369",
     "brand": {
-      "en": "Prada",
+      "en": "PRADA",
       "hu": ""
     },
     "name": {
@@ -1436,7 +1343,7 @@
   {
     "id": "0g8ze",
     "brand": {
-      "en": "Burberry",
+      "en": "BURBERRY",
       "hu": ""
     },
     "name": {
@@ -1468,7 +1375,7 @@
   {
     "id": "3rfen",
     "brand": {
-      "en": "Dolce Gabbana",
+      "en": "DOLCE GABBANA",
       "hu": ""
     },
     "name": {
@@ -1501,7 +1408,7 @@
   {
     "id": "1eul8",
     "brand": {
-      "en": "Yves Saint Laurant",
+      "en": "YVES SAINT LAURANT",
       "hu": ""
     },
     "name": {
@@ -1633,7 +1540,7 @@
   {
     "id": "0i96v",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -1666,7 +1573,7 @@
   {
     "id": "9g3kr",
     "brand": {
-      "en": "Dior",
+      "en": "DIOR",
       "hu": ""
     },
     "name": {
@@ -1699,7 +1606,7 @@
   {
     "id": "glfgc",
     "brand": {
-      "en": "Dolce Gabbana",
+      "en": "DOLCE GABBANA",
       "hu": ""
     },
     "name": {
@@ -1862,7 +1769,7 @@
   {
     "id": "7s030",
     "brand": {
-      "en": "Louis Vuitton",
+      "en": "LOUIS VUITTON",
       "hu": ""
     },
     "name": {
@@ -2118,691 +2025,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
     ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "46mip",
-    "brand": {
-      "en": "DOLCE & GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Miss Sicily",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/46mip%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/46mip%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/46mip%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/46mip%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "8an8t",
-    "brand": {
-      "en": "YSL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Cassandra",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8an8t%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8an8t%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8an8t%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8an8t%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "lhz7e",
-    "brand": {
-      "en": "DOLCE & GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": " Sicily",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lhz7e%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lhz7e%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lhz7e%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lhz7e%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "ls6ym",
-    "brand": {
-      "en": "DOLCE & GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lily Twisted Satchel",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ls6ym%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ls6ym%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ls6ym%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ls6ym%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "ffcx1",
-    "brand": {
-      "en": "YSL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Sac De Jour",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcx1%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcx1%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcx1%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcx1%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "9cdrk",
-    "brand": {
-      "en": "DOLCE & GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Glam Shoulder Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9cdrk%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9cdrk%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9cdrk%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9cdrk%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "pgnea",
-    "brand": {
-      "en": "CELINE",
-      "hu": ""
-    },
-    "name": {
-      "en": "Trapeze Handbag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pgnea%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pgnea%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pgnea%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pgnea%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "mstss",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Soho Tote",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mstss%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mstss%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mstss%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mstss%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "mmi9v",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Tote bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mmi9v%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mmi9v%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mmi9v%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mmi9v%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "km4mh",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Twist MM",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/km4mh%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/km4mh%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/km4mh%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/km4mh%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "ochpu",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "New Wave",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ochpu%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ochpu%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ochpu%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ochpu%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "xtmt9",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Sunrise Stb Ombre",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xtmt9%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xtmt9%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xtmt9%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xtmt9%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "5e99b",
-    "brand": {
-      "en": "LOUIS VUITTON ",
-      "hu": ""
-    },
-    "name": {
-      "en": "Manhattan",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5e99b%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5e99b%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5e99b%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5e99b%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "xj7lp",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Cluth Monogram",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xj7lp%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xj7lp%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xj7lp%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xj7lp%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "bmms2",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Monogram Tote",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bmms2%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bmms2%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bmms2%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bmms2%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "o54dn",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Monogram Wallet",
-      "hu": ""
-    },
-    "gender": "men",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o54dn%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o54dn%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o54dn%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o54dn%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "g9de4",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Bangle",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9de4%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9de4%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9de4%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9de4%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "h2fqi",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Necklace",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/h2fqi%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/h2fqi%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/h2fqi%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/h2fqi%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "9n7yc",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Jacket",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9n7yc%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9n7yc%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9n7yc%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9n7yc%20(3).JPG"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "wbofy",
-    "brand": {
-      "en": "",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "",
-    "images": [],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "x0cst",
-    "brand": {
-      "en": "",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "",
-    "images": [],
     "description": {
       "en": "",
       "hu": ""
