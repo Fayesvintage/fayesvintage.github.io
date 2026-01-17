@@ -2361,5 +2361,434 @@
       "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
       "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
+  },
+  {
+    "id": "4d7x5",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "MISS DIOR FLAP BAG",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Tweed",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "t1bhs",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "MINI FLAP BAG",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Baby Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag,Box",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "a6eso",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "LEBOY",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Flamingo/Tweed",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "u7ylo",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "LEBOY",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "fw5ho",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "CAVIAR O CASE",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon jó, 95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "o0j0r",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "DIORAMA",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Grey",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "rkg1b",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "LADY DIOR",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "588af",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "LOAFER PUMP",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó, \n90%"
+    }
+  },
+  {
+    "id": "4hr0r",
+    "brand": {
+      "en": "GIUSEPPE ZANOTTI",
+      "hu": ""
+    },
+    "name": {
+      "en": "ANKLE BOOTS",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "1irnr",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "HIGH TOP SNEAKERS",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Metallic Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "3cbyu",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "LOAFERS",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "bghfp",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "SNEAKERS",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "pu89z",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "HEELS",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red/White ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
   }
 ]
