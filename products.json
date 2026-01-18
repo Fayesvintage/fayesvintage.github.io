@@ -2955,5 +2955,38 @@
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
       "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
     }
+  },
+  {
+    "id": "yibs9",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kelly 28 Sellier Gold 2025 ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025 ",
+    "size": "28 ",
+    "color": {
+      "en": "Gold ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
   }
 ]
