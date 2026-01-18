@@ -2988,5 +2988,38 @@
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
       "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
     }
+  },
+  {
+    "id": "axeqz",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Birkin 25 Togo Noir-Gold ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025 ",
+    "size": "25",
+    "color": {
+      "en": "Black ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
   }
 ]
