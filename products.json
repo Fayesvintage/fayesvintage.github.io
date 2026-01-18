@@ -2889,5 +2889,38 @@
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
       "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
     }
+  },
+  {
+    "id": "td3ay",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Constance 24 Black-Gold 2018",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2018",
+    "size": "24",
+    "color": {
+      "en": "Black and Gold ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Full Set",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full szett"
+    }
   }
 ]
