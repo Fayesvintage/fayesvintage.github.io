@@ -2990,39 +2990,6 @@
     }
   },
   {
-    "id": "axeqz",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Birkin 25 Togo Noir-Gold ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2025 ",
-    "size": "25",
-    "color": {
-      "en": "Black ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/axeqz%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
-      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
-    }
-  },
-  {
     "id": "3oym7",
     "brand": {
       "en": "HERMÈS",
@@ -3053,6 +3020,170 @@
     "description": {
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
       "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "9s7gn",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Padlock",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "20 cm",
+    "color": {
+      "en": "Monogram and Black and Brown ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "tq8x6",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Neo Vintage",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "22 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "636rd",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boulogne bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Full set",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "fngrw",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "New Wave bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "20 cm",
+    "color": {
+      "en": "Monogram/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "62d0y",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Manhattan Handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2005",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(4).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(5).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Porzsák"
     }
   }
 ]
