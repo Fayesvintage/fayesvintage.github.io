@@ -3154,5 +3154,299 @@
       "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
       "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Porzsák"
     }
+  },
+  {
+    "id": "tnfgz",
+    "brand": {
+      "en": "ALEXANDRE MCQUEEN",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "235",
+    "price_eur": "235",
+    "price_huf": "88.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "White/Rose gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "8wywg",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "265",
+    "price_eur": "265",
+    "price_huf": "99.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Blue/Red/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "dpimz",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Pink/Green/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló\n95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "tq377",
+    "brand": {
+      "en": "YSL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "370",
+    "price_eur": "370",
+    "price_huf": "138.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%",
+      "hu": "Állapot: Kiváló\n95%"
+    }
+  },
+  {
+    "id": "udxqr",
+    "brand": {
+      "en": "DOLCE GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Skirt",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "185",
+    "price_eur": "185",
+    "price_huf": "69.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S",
+    "color": {
+      "en": "Pink/Yellow Print",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%",
+      "hu": "Állapot: Kiváló\n95%"
+    }
+  },
+  {
+    "id": "wygg4",
+    "brand": {
+      "en": "MOCLER",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "mwcaj",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "D-Bubble Bucket Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Full set",
+      "hu": "Állapot:\nKiváló, 95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "cwqva",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bobby 25",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "25 cm",
+    "color": {
+      "en": "Blue/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Full set",
+      "hu": "Állapot:\nKiváló, 95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "ly6rr",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Limited Edition World Tour Monogram Canvas Toiletry Pouch 26",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "26 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\nAccesories: Dust bag, Box",
+      "hu": "Állapot: Nagyon Jó,\n95%\nKiegészítők: Porzsák? Doboz"
+    }
   }
 ]
