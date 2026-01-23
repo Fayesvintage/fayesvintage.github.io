@@ -696,37 +696,6 @@
     "family": "Bags"
   },
   {
-    "id": "uv6sg",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Carry all pm",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Monogram",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uv6sg%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uv6sg%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "kt5rk",
     "brand": {
       "en": "VALENTINO",
@@ -2905,7 +2874,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2018",
     "size": "24",
     "color": {
