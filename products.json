@@ -1608,39 +1608,6 @@
     }
   },
   {
-    "id": "d13it",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Cape cod watch",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2024",
-    "size": "",
-    "color": {
-      "en": "White",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d13it%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never used.\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva\nKiegészítők: Full set"
-    }
-  },
-  {
     "id": "j5wg7",
     "brand": {
       "en": "HERMÈS",
@@ -3674,6 +3641,68 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(3).jpg"
     ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "rqddb",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "zntpa",
+    "brand": {
+      "en": "",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "",
+    "images": [],
     "description": {
       "en": "",
       "hu": ""
