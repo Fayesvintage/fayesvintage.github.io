@@ -3448,5 +3448,38 @@
       "en": "Condition: Very Good\n95%\nAccesories: Dust bag, Box",
       "hu": "Állapot: Nagyon Jó,\n95%\nKiegészítők: Porzsák? Doboz"
     }
+  },
+  {
+    "id": "ygj4p",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Sac Plat",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
