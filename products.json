@@ -4797,5 +4797,38 @@
       "en": "",
       "hu": ""
     }
+  },
+  {
+    "id": "vx9rl",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vx9rl%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vx9rl%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vx9rl%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vx9rl%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
