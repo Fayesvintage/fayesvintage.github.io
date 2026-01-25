@@ -5126,7 +5126,7 @@
   {
     "id": "v7m1q",
     "brand": {
-      "en": "",
+      "en": "BURBERRY",
       "hu": ""
     },
     "name": {
@@ -5134,7 +5134,7 @@
       "hu": ""
     },
     "gender": "",
-    "family": "",
+    "family": "Clothes",
     "price": "",
     "price_eur": "",
     "price_huf": "",
@@ -5145,8 +5145,12 @@
       "en": "",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(3).jpg"
+    ],
     "description": {
       "en": "",
       "hu": ""
