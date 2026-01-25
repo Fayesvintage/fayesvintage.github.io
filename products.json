@@ -4347,7 +4347,7 @@
       "hu": ""
     },
     "gender": "",
-    "family": "",
+    "family": "Accessories",
     "price": "",
     "price_eur": "",
     "price_huf": "",
@@ -4364,6 +4364,35 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(3).jpg"
     ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "rs0ac",
+    "brand": {
+      "en": "",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "",
+    "images": [],
     "description": {
       "en": "",
       "hu": ""
