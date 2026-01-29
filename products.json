@@ -5352,7 +5352,7 @@
   {
     "id": "mlcrw",
     "brand": {
-      "en": "",
+      "en": "BALENCIAGA",
       "hu": ""
     },
     "name": {
@@ -5360,7 +5360,7 @@
       "hu": ""
     },
     "gender": "",
-    "family": "",
+    "family": "Bags",
     "price": "",
     "price_eur": "",
     "price_huf": "",
@@ -5371,8 +5371,12 @@
       "en": "",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(3).jpg"
+    ],
     "description": {
       "en": "",
       "hu": ""
