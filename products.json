@@ -165,39 +165,6 @@
     "family": "Bags"
   },
   {
-    "id": "ufbtj",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "2002 Pink Evercolor",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2019",
-    "size": "20 × 6 × 19 cm",
-    "color": {
-      "en": "Pink / Palladium hardware",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ufbtj%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
-      "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "c4ho9",
     "brand": {
       "en": "HERMÈS",
@@ -1735,39 +1702,6 @@
     "description": {
       "en": "Condition: Good\n85%",
       "hu": "Állapot: Jó, 85%"
-    }
-  },
-  {
-    "id": "yk9uc",
-    "brand": {
-      "en": "FERRAGAMO",
-      "hu": ""
-    },
-    "name": {
-      "en": "Red clutch",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "495",
-    "price_eur": "495",
-    "price_huf": "190.000",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Red",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yk9uc%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excellent\nAccessories: Dustbag",
-      "hu": "Állapot: Kiváló, 95%\nKiegészítők: Porzsák"
     }
   },
   {
