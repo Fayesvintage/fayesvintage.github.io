@@ -5797,5 +5797,37 @@
       "en": "",
       "hu": ""
     }
+  },
+  {
+    "id": "s4c4u",
+    "brand": {
+      "en": "MaxMara",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wrap Style Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
