@@ -2002,39 +2002,6 @@
     }
   },
   {
-    "id": "ltr5u",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Vintage Flap",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "BLACK",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ltr5u%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "tco2c",
     "brand": {
       "en": "LOUIS VUITTON",
