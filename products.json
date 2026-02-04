@@ -6185,15 +6185,15 @@
   {
     "id": "w612r",
     "brand": {
-      "en": "",
+      "en": "VERSACE",
       "hu": ""
     },
     "name": {
-      "en": "",
+      "en": "Jeans Bomber Jacket ",
       "hu": ""
     },
-    "gender": "",
-    "family": "",
+    "gender": "unisex",
+    "family": "Clothes",
     "price": "",
     "price_eur": "",
     "price_huf": "",
@@ -6204,8 +6204,11 @@
       "en": "",
       "hu": ""
     },
-    "image": "",
-    "images": [],
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(2).jpg"
+    ],
     "description": {
       "en": "",
       "hu": ""
