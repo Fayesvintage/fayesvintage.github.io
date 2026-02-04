@@ -6121,7 +6121,7 @@
   {
     "id": "im2mc",
     "brand": {
-      "en": "Gucci ",
+      "en": "GUCCI",
       "hu": ""
     },
     "name": {
@@ -6177,6 +6177,35 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(2).jpg"
     ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "w612r",
+    "brand": {
+      "en": "",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "",
+    "images": [],
     "description": {
       "en": "",
       "hu": ""
