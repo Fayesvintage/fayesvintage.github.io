@@ -663,37 +663,6 @@
     "family": "Bags"
   },
   {
-    "id": "kt5rk",
-    "brand": {
-      "en": "VALENTINO",
-      "hu": ""
-    },
-    "name": {
-      "en": "Red",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "505",
-    "price_eur": "505",
-    "price_huf": "210.000",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kt5rk%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kt5rk%20(1).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    },
-    "family": "Bags"
-  },
-  {
     "id": "ex4se",
     "brand": {
       "en": "LOUIS VUITTON",
@@ -1162,7 +1131,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2023",
     "size": "",
     "color": {
@@ -1917,7 +1886,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -2082,7 +2051,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -2775,7 +2744,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2025 ",
     "size": "28 ",
     "color": {
@@ -3155,7 +3124,7 @@
   {
     "id": "wygg4",
     "brand": {
-      "en": "MOCLER",
+      "en": "MONCLER",
       "hu": ""
     },
     "name": {
