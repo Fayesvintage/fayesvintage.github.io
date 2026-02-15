@@ -222,7 +222,7 @@ if (hasConsent()) loadGA();
 <header>
   <div class="header-inner">
     <h1>Faye’s Vintage</h1>
-    <a href="shop.html" class="back-link" id="back-link">← Back</a>
+    <a href="javascript:void(0)" class="back-link" id="back-link">← Back</a>
   </div>
 </header>
 
@@ -303,10 +303,6 @@ if (hasConsent()) loadGA();
 
   const params = new URLSearchParams(window.location.search);
   const productId = params.get('id');
-  // ✅ Back to previous category (shop.html?cat=xxx)
-const backCat = params.get('cat');
-const backLink = document.getElementById('back-link');
-backLink.href = backCat ? `shop.html?cat=${encodeURIComponent(backCat)}` : 'shop.html';
   const container = document.getElementById('detail-container');
 
   if(!productId){
@@ -428,6 +424,30 @@ if (hasConsent() && typeof gtag === 'function') {
         container.innerHTML = `<p style="font-size:13px;color:#9ca3af;">${i18nDetail[currentLang].errors.load_fail}</p>`;
       });
   }
+</script>
+
+
+<script>
+(function(){
+  function goBackToShop(){
+    try{
+      var url = sessionStorage.getItem('fv_return_url');
+      if(url){
+        sessionStorage.setItem('fv_restore_scroll_once','1');
+        location.href = url;
+        return;
+      }
+    }catch(e){}
+    history.back();
+  }
+  var back = document.getElementById('back-link');
+  if(back){
+    back.addEventListener('click', function(e){
+      e.preventDefault();
+      goBackToShop();
+    });
+  }
+})();
 </script>
 
 </body>

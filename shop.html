@@ -249,6 +249,44 @@
       z-index:99;
     }
     #backToTop:hover{background:rgba(200,164,109,1);}
+  
+    /* ===== Pagination (minimal) ===== */
+    .pagination{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      align-items:center;
+      justify-content:center;
+      margin:18px 0 8px;
+    }
+    .pagination .page-btn{
+      font-size:12px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      cursor:pointer;
+      user-select:none;
+    }
+    .pagination .page-btn[disabled]{opacity:.5;cursor:not-allowed;}
+    .pagination .page-info{font-size:12px;color:var(--muted);}
+    .pagination .page-jump{
+      display:flex;
+      align-items:center;
+      gap:6px;
+      font-size:12px;
+      color:var(--muted);
+    }
+    .pagination input{
+      width:64px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid var(--border);
+      background:#fff;
+      font-size:12px;
+      outline:none;
+    }
+
   </style>
 
 <script>
@@ -319,8 +357,8 @@ function hasConsent() {
       <button data-lang="hu"><img class="lang-flag" src="https://flagcdn.com/w20/hu.png" alt="HU">HU</button>
     </div>
   </div>
-
   <div class="product-grid" id="product-grid"></div>
+  <div id="pagination" class="pagination"></div>
 </div>
 
 <footer>© <span id="y"></span> Faye’s Vintage</footer>
@@ -349,6 +387,7 @@ function hasConsent() {
         base:"Pre-loved Luxury · Budapest",
         categoryPrefix:"Category:"
       },
+      pagination:{ jump:"Page", go:"Go" },
       cats: { bags:"Bags", clothing:"Clothing", accessories:"Accessories", shoes:"Shoes" }
     },
     hu: {
@@ -469,6 +508,46 @@ function hasConsent() {
   let currentBrand = 'all';
   let lockedCat = 'all'; // URL param decides this
 
+  const ITEMS_PER_PAGE = 12;
+  let currentPage = 1;
+
+  function getPageFromURL(){
+    const sp = new URLSearchParams(window.location.search);
+    const n = parseInt(sp.get('page') || '1', 10);
+    return (isNaN(n) || n < 1) ? 1 : n;
+  }
+
+  function setPageInURL(n, push){
+    const url = new URL(window.location.href);
+    if(!n || n === 1) url.searchParams.delete('page');
+    else url.searchParams.set('page', String(n));
+    if(push) history.pushState(null, '', url.toString());
+    else history.replaceState(null, '', url.toString());
+  }
+
+  function setPage(n, totalPages, push){
+    let page = parseInt(n,10);
+    if(isNaN(page)) page = 1;
+    if(page < 1) page = 1;
+    if(totalPages && page > totalPages) page = totalPages;
+    currentPage = page;
+    setPageInURL(currentPage, !!push);
+  }
+
+  function restoreScrollIfNeeded(){
+    try{
+      if(sessionStorage.getItem('fv_restore_scroll_once') === '1'){
+        sessionStorage.removeItem('fv_restore_scroll_once');
+        const y = parseInt(sessionStorage.getItem('fv_scroll_y') || '0', 10);
+        if(!isNaN(y) && y > 0){
+          // allow layout to finish
+          setTimeout(()=>window.scrollTo(0, y), 0);
+        }
+      }
+    }catch(e){}
+  }
+
+
   function renderBrandOptions(list){
     const sel = document.getElementById('brand-filter');
     const brands = [...new Set(list.map(p => getML(p.brand))).values()].filter(Boolean).sort();
@@ -489,7 +568,9 @@ function hasConsent() {
 
   function renderProducts(){
     const grid = document.getElementById('product-grid');
+    const pag = document.getElementById('pagination');
     grid.innerHTML = '';
+    if(pag) pag.innerHTML = '';
 
     const filtered = allProducts
       .filter(p => currentGender === 'all' || p.gender === currentGender)
@@ -503,7 +584,19 @@ function hasConsent() {
       return;
     }
 
-    filtered.forEach(p=>{
+    const totalPages = Math.max(1, Math.ceil(filtered.length / ITEMS_PER_PAGE));
+    // sync page from URL first time / back-forward
+    if(!currentPage) currentPage = 1;
+    if(currentPage > totalPages) currentPage = totalPages;
+    if(currentPage < 1) currentPage = 1;
+
+    // keep URL clean
+    setPageInURL(currentPage, false);
+
+    const start = (currentPage - 1) * ITEMS_PER_PAGE;
+    const pageItems = filtered.slice(start, start + ITEMS_PER_PAGE);
+
+    pageItems.forEach(p=>{
       const card = document.createElement('div');
       const isSold = p.tag === 'Sold';
       card.className = 'product-card' + (isSold ? ' sold' : '');
@@ -523,6 +616,12 @@ function hasConsent() {
 
       if(!isSold){
         card.addEventListener('click', ()=>{
+          // save return state (URL + scroll)
+          try{
+            sessionStorage.setItem('fv_return_url', window.location.href);
+            sessionStorage.setItem('fv_scroll_y', String(window.scrollY || 0));
+          }catch(e){}
+
           if (window.gtag && hasConsent()) {
             gtag('event', 'select_item', {
               item_list_name: 'Products',
@@ -535,14 +634,54 @@ function hasConsent() {
               }]
             });
           }
-          const catParam = (lockedCat && lockedCat !== 'all') ? `&cat=${encodeURIComponent(lockedCat)}` : '';
-window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
-
+          window.location.href = 'product.html?id=' + encodeURIComponent(p.id);
         });
       }
       grid.appendChild(card);
     });
+
+    // Pagination UI
+    if(pag && totalPages > 1){
+      const prevBtn = document.createElement('button');
+      prevBtn.className = 'page-btn';
+      prevBtn.textContent = '‹';
+      prevBtn.disabled = currentPage <= 1;
+      prevBtn.onclick = ()=>{ setPage(currentPage - 1, totalPages, true); renderProducts(); window.scrollTo(0,0); };
+
+      const nextBtn = document.createElement('button');
+      nextBtn.className = 'page-btn';
+      nextBtn.textContent = '›';
+      nextBtn.disabled = currentPage >= totalPages;
+      nextBtn.onclick = ()=>{ setPage(currentPage + 1, totalPages, true); renderProducts(); window.scrollTo(0,0); };
+
+      const info = document.createElement('span');
+      info.className = 'page-info';
+      info.textContent = `${currentPage} / ${totalPages}`;
+
+      const jump = document.createElement('span');
+      jump.className = 'page-jump';
+      jump.innerHTML = `${(t('pagination.jump') || 'Page')} <input id="page-jump-input" type="number" min="1" max="${totalPages}" value="${currentPage}" /> <button class="page-btn" id="page-jump-go">${t('pagination.go') || 'Go'}</button>`;
+
+      pag.appendChild(prevBtn);
+      pag.appendChild(info);
+      pag.appendChild(nextBtn);
+      pag.appendChild(jump);
+
+      const inp = document.getElementById('page-jump-input');
+      const go = document.getElementById('page-jump-go');
+      function doJump(){
+        const v = parseInt(inp.value || String(currentPage), 10);
+        setPage(v, totalPages, true);
+        renderProducts();
+        window.scrollTo(0,0);
+      }
+      if(go) go.onclick = doJump;
+      if(inp) inp.addEventListener('keydown',(e)=>{ if(e.key === 'Enter') doJump(); });
+    }
+
+    restoreScrollIfNeeded();
   }
+
 
   // gender buttons
   document.querySelectorAll('.filter-btn-gender').forEach(btn=>{
@@ -550,6 +689,7 @@ window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
       document.querySelectorAll('.filter-btn-gender').forEach(b=>b.classList.remove('active'));
       btn.classList.add('active');
       currentGender = btn.dataset.gender || 'all';
+      currentPage = 1; setPageInURL(1, false);
       renderProducts();
     });
   });
@@ -557,6 +697,7 @@ window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
   // brand dropdown
   document.getElementById('brand-filter').addEventListener('change', (e)=>{
     currentBrand = e.target.value;
+    currentPage = 1; setPageInURL(1, false);
     renderProducts();
   });
 
@@ -579,6 +720,7 @@ window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
       document.getElementById('brand-filter').value = 'all';
 
       updateSubtitle();
+      currentPage = 1; setPageInURL(1, false);
       renderProducts();
     });
   });
@@ -623,6 +765,9 @@ window.location.href = 'product.html?id=' + encodeURIComponent(p.id) + catParam;
   syncLangButtons();
   parseLockedCat();
   updateSubtitle();
+  currentPage = getPageFromURL();
+
+  window.addEventListener('popstate', ()=>{ currentPage = getPageFromURL(); renderProducts(); });
 
   fetch('products.json')
     .then(r=>r.json())
