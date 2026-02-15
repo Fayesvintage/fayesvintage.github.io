@@ -189,6 +189,16 @@
       color:var(--muted);
     }
     .contact-box b{color:var(--text);}
+
+    .logo-link{
+      text-decoration:none;
+       color:inherit;
+      cursor:pointer;
+}
+    .logo-link:hover{
+      opacity:.85;
+}
+
   </style>
 <script>
 window.GA_MEASUREMENT_ID = 'G-F8VH58SNN6';
@@ -221,7 +231,14 @@ if (hasConsent()) loadGA();
 <body>
 <header>
   <div class="header-inner">
-    <h1>Faye’s Vintage</h1>
+    <h1>
+  <a href="index.html#categories"
+     onclick="sessionStorage.setItem('skipWelcomeOnce','1')"
+     class="logo-link">
+     Faye’s Vintage
+  </a>
+</h1>
+
     <a href="javascript:void(0)" class="back-link" id="back-link">← Back</a>
   </div>
 </header>

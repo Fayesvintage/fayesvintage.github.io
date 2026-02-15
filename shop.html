@@ -287,6 +287,15 @@
       outline:none;
     }
 
+    .logo-link{
+      text-decoration:none;
+      color:inherit;
+      cursor:pointer;
+    }
+    .logo-link:hover{
+      opacity:.85;
+}
+
   </style>
 
 <script>
@@ -322,7 +331,13 @@ function hasConsent() {
 
 <header>
   <div class="header-inner">
-    <h1>Faye’s Vintage</h1>
+    <h1>
+      <a href="index.html#categories"
+         onclick="sessionStorage.setItem('skipWelcomeOnce','1')"
+         class="logo-link">
+         Faye’s Vintage
+      </a>
+    </h1>
     <div class="subtitle" id="subtitle">Pre-loved Luxury · Budapest</div>
   </div>
 </header>
