@@ -3258,38 +3258,6 @@
     }
   },
   {
-    "id": "pz3pp",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "",
-    "images": [
-      "1422cfc9f4ed22.r2.dev/Products/pz3pp%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pz3pp%20(2).jpghttps://pub-f052c4f7e0ac470c80"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "9zyp0",
     "brand": {
       "en": "HERMÈS",
