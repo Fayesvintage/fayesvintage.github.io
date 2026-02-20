@@ -1,0 +1,6846 @@
+[
+  {
+    "id": "0zxca",
+    "gender": "women",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sac Rabat Lambskin",
+      "hu": "Sac Rabat Kecske bőr"
+    },
+    "price": "",
+    "tag": "Available",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(3).JPG"
+    ],
+    "size": "17 × 13.5 × 8 cm",
+    "year": "2022",
+    "color": {
+      "en": "Black / Gold hardware",
+      "hu": "Fekete/Arany hardware"
+    },
+    "description": {
+      "en": "Condition: 98%, exellent;\nAccessories: Full set",
+      "hu": "Állapot: 98%,kiváló;\nKiegészítők:\nFull-szett"
+    },
+    "price_eur": "",
+    "price_huf": "",
+    "family": "Bags"
+  },
+  {
+    "id": "9nhpw",
+    "gender": "women",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Picotin Lock 18 Taurillon Clemence",
+      "hu": ""
+    },
+    "price": "",
+    "tag": "Available",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
+    "size": "18 × 13 × 18 cm",
+    "year": "2025",
+    "color": {
+      "en": "Black/ Gold hardware",
+      "hu": "Fekete/ Arany hardware"
+    },
+    "description": {
+      "en": "Condition: Never used;\nStamp K;\nAccessories:Full set",
+      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők:\nFull-szett"
+    },
+    "price_eur": "",
+    "price_huf": "",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg"
+    ],
+    "family": "Bags"
+  },
+  {
+    "id": "badyw",
+    "gender": "women",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Birkin 25 Togo Lether",
+      "hu": ""
+    },
+    "price": "",
+    "tag": "Available",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
+    "size": "25 × 20 × 13 cm",
+    "year": "2022",
+    "color": {
+      "en": "Étoupe / Palladium hardware",
+      "hu": ""
+    },
+    "description": {
+      "en": "Condition: 98%, excellent;\nStamp U;\nAccessories:Dust bag,box",
+      "hu": "Állapot: 98%, kiváló;\n\"U\" jelőlésű;\nKiegészítők:Porzsák,doboz"
+    },
+    "price_eur": "",
+    "price_huf": "",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/badyw%20(3).JPG"
+    ],
+    "family": "Bags"
+  },
+  {
+    "id": "b7wpl",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Flap Jumbo",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2011",
+    "size": "19.5 × 30 × 10 cm",
+    "color": {
+      "en": "Orange / Palladium hardware",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b7wpl%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: 95%, excellent;\nAccessories:Dust bag",
+      "hu": "Állapot: 95%, kiváló;\nKiegészítők:Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "ey8rq",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lindy 26 Limited Edition Swift Lether",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "26 × 18 × 14 cm",
+    "color": {
+      "en": "Orange / Palladium hardware",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
+      "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "c4ho9",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lindy Mini II Black Taurillon Clemence",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "2025",
+    "size": "19 × 13 × 9.5 cm",
+    "color": {
+      "en": "Black / Palladim hardware",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used;\nStamp K;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők: Full szett"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "ahhj1",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Herbag 31 Pink",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "19 × 13 × 9.5 cm",
+    "color": {
+      "en": "Black / Pink / Palladium hardware",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: 98%, excellent;\nStamp D;\nAccessories:Dust bag",
+      "hu": "Állapot: 98%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "8xffv",
+    "brand": {
+      "en": "MIU MIU",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lemon vintage wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "260",
+    "price_eur": "260",
+    "price_huf": "99.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8xffv%20(4).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Dustbag,Box",
+      "hu": "Állapot: Nem volt használva;\nKiegészítők: Porzsák,Doboz"
+    },
+    "family": "Accessories"
+  },
+  {
+    "id": "sb1y2",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trunk Clutch crossbody bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2021-2022",
+    "size": "22.5 × 4 × 7 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/sb1y2%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "l2xej",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Alma bnb",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Red / Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l2xej%20(4).jpg"
+    ],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag,Box",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák,Doboz"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "wpirm",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Esplanade",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "590",
+    "price_eur": "590",
+    "price_huf": "230.000",
+    "tag": "Sold",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "Black / Red / Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(4).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never used;\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: fFull szett"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "n9ej2",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pencil case",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "80",
+    "price_eur": "80",
+    "price_huf": "29.900",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n9ej2%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never used; with tag\n",
+      "hu": "Állapot: Nem volt használva\n"
+    },
+    "family": "Accessories"
+  },
+  {
+    "id": "qq8r5",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Black Monogram handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qq8r5%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: 98%, excellent;\nAccessories:Dust bag",
+      "hu": "Állapot: 98%, kiváló;\nKiegészítők:Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "grdyo",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Peakaboo",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "710",
+    "price_eur": "710",
+    "price_huf": "250.000",
+    "tag": "Available",
+    "year": "2012",
+    "size": "",
+    "color": {
+      "en": "Blue / Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excelent, great condition.\nAccessories: Dust bag",
+      "hu": "Állapot: Kíváló, jó \nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "gq5hd",
+    "brand": {
+      "en": "BOTTEGA VENETA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Roma bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "1160",
+    "price_eur": "1160",
+    "price_huf": "420.000",
+    "tag": "Available",
+    "year": "2014-2017",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gq5hd%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gq5hd%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gq5hd%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gq5hd%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Great\nAccessories:Dust bag",
+      "hu": "Állapot: Nagyon jó állapot\nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "0ed8h",
+    "brand": {
+      "en": "CHLOÉ",
+      "hu": ""
+    },
+    "name": {
+      "en": "Handbag / Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "580",
+    "price_eur": "580",
+    "price_huf": "199.000",
+    "tag": "Available",
+    "year": "2015",
+    "size": "",
+    "color": {
+      "en": "Nude / Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "uhp8g",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Marmont Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "615",
+    "price_eur": "615",
+    "price_huf": "220.000",
+    "tag": "Available",
+    "year": "2016",
+    "size": "",
+    "color": {
+      "en": "White / Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/uhp8g%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Fair condition\nAccessories: Full set",
+      "hu": "Állapot: Kielégítő\nKiegészítők: Full szett"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "2g20q",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Shoulder bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "730",
+    "price_eur": "730",
+    "price_huf": "280.000",
+    "tag": "Sold",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Fair\n",
+      "hu": "Állapot: Kielégítő"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "mwo4l",
+    "brand": {
+      "en": "CÉLINE",
+      "hu": ""
+    },
+    "name": {
+      "en": "Handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "800",
+    "price_eur": "800",
+    "price_huf": "280.000",
+    "tag": "Available",
+    "year": "2014",
+    "size": "",
+    "color": {
+      "en": "Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%",
+      "hu": "Állapot: Jó "
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "t5xg7",
+    "brand": {
+      "en": "CÉLINE",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Box Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "869",
+    "price_eur": "869",
+    "price_huf": "330.000",
+    "tag": "Available",
+    "year": "2010",
+    "size": "",
+    "color": {
+      "en": "Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t5xg7%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "ex4se",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "New Wave",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ex4se%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ex4se%20(1).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "a5egv",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Men's Backpack",
+      "hu": ""
+    },
+    "gender": "men",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2018",
+    "size": "30×38×14.5cm",
+    "color": {
+      "en": "Damier Ebene",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a5egv%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "mfelj",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Messenger Crossbody Bag",
+      "hu": ""
+    },
+    "gender": "men",
+    "price": "390",
+    "price_eur": "390",
+    "price_huf": "150.000",
+    "tag": "Available",
+    "year": "2012",
+    "size": "32 × 26 × 10cm",
+    "color": {
+      "en": "Damier Ebene",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mfelj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "ma7pl",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lindy26 Taurillon Clemence",
+      "hu": ""
+    },
+    "gender": "women",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "26 × 18 × 14cm",
+    "color": {
+      "en": "Lindy26 Black Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
+      "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "ojs27",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Shoulder Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gucci monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nNo Accessories",
+      "hu": "Állapot: Nagyon jó\nKiegészítők: Nincs"
+    },
+    "family": "Bags"
+  },
+  {
+    "id": "w0ywt",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Portefeuille Émilie",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "19 x 10 x 2 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w0ywt%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Exellent\n95-98%\nAccessories: None",
+      "hu": "Állapot: Kiváló 95-98%"
+    }
+  },
+  {
+    "id": "523k0",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Jet Sneaker",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "42",
+    "color": {
+      "en": "Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "0q3ug",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0q3ug%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nNo Accessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "gtp5n",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clutch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2015-2016",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gtp5n%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "bqtod",
+    "brand": {
+      "en": "BVGARI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Serpenti",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bqtod%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n85-90%\nNo Accessories: Dustbag,Box",
+      "hu": "Állapot: Jó \nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "o5eo5",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Padlock",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2015-2016",
+    "size": "",
+    "color": {
+      "en": "Light sakura",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "p7898",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Micro hypnoteyes",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Multicolor",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/p7898%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "e3g2u",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boomerang",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "2023",
+    "size": "",
+    "color": {
+      "en": "White-Grey",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "idpl8",
+    "brand": {
+      "en": "VALENTINO",
+      "hu": ""
+    },
+    "name": {
+      "en": "High-heel",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Multicolor",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "a4369",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "38",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a4369%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95-98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "0g8ze",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": "Szövetkabát"
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "38",
+    "color": {
+      "en": "Red/orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "3rfen",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "1eul8",
+    "brand": {
+      "en": "SAINT LAURANT",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kate medium",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1eul8%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: None",
+      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "kpm1j",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clic H Bracelet",
+      "hu": "Clic H Karkötő"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Gold/Cream",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpm1j%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "wzl92",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clic H Bracelet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Rose Gold/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wzl92%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "0i96v",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sarah Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2014",
+    "size": "",
+    "color": {
+      "en": "Pink/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i96v%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "9g3kr",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Montagne Mini Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2019",
+    "size": "",
+    "color": {
+      "en": "Blue/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9g3kr%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Certificate card, Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák, Certifikát kártya"
+    }
+  },
+  {
+    "id": "glfgc",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag",
+      "hu": "Szőrme táska"
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95-98%\nAccessories: None",
+      "hu": "Állapot: Kiváló\nKiegészítők: Nincs"
+    }
+  },
+  {
+    "id": "wrgni",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trousse Bag",
+      "hu": "Neszeszer "
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wrgni%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: With Tag",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Címkével"
+    }
+  },
+  {
+    "id": "j5wg7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pop H Mini necklace",
+      "hu": "Pop H Mini nyaklánc"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Full set",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "79rl1",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pop H Mini necklace",
+      "hu": "Pop H Mini nyaklánc"
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/79rl1%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never used.\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák,Doboz"
+    }
+  },
+  {
+    "id": "7s030",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Boite",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2022",
+    "size": "Super Mini",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good,\nAccessories: Box, NFC, Dustbag",
+      "hu": "Állapot: Jó,85-90%\nKiegészítők: NFC, Doboz,Porzsák"
+    }
+  },
+  {
+    "id": "m6a96",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Scalloped Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "495",
+    "price_eur": "495",
+    "price_huf": "190.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m6a96%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n85-90%\nAccessories: Box",
+      "hu": "Állapot: Jó, 85-90%\nKiegészítők: Doboz"
+    }
+  },
+  {
+    "id": "62vuo",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dior wallet on chain",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "730",
+    "price_eur": "730",
+    "price_huf": "280.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62vuo%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó, 85%"
+    }
+  },
+  {
+    "id": "dtyrz",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Super Mini Red",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "555",
+    "price_eur": "555",
+    "price_huf": "210.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dtyrz%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "vcwf9",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Super Mini Monogram",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "790",
+    "price_eur": "790",
+    "price_huf": "280.000",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Monogram/Beige",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vcwf9%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "6ewoj",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dionyusos Mini",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "gvkqo",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Papillon ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Yellow",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "g55rq",
+    "brand": {
+      "en": "BOTTEGA VENETA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Chain Cassette Red",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2024",
+    "size": "",
+    "color": {
+      "en": "Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag, Invoice",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Számla"
+    }
+  },
+  {
+    "id": "bsx9j",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Leboy Maxi Limited Edition",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "f3e3z",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Leboy Medium Caviar",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f3e3z%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "j27xc",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pochette Felicie",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2023",
+    "size": "",
+    "color": {
+      "en": "MONOGRAM",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(4).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j27xc%20(5).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "ngb5i",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Maxi Lady Dior Pink ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "tco2c",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Alma Bb Turquoise",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Turquoise",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "16n04",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "J'adior Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2017",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/16n04%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: jó, 85%"
+    }
+  },
+  {
+    "id": "8y9fo",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Soft Tote Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLUE",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "otps9",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Maxi Lady Dior Black",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "BLACK",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/otps9%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "0i3c4",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Margaret Handbag Sneake Lether ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Snakeskin ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "4d7x5",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Miss Dior Flap Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Tweed",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4d7x5%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "t1bhs",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Flap Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Baby Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t1bhs%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent,98%\nAccessories: Dustbag,Box",
+      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "a6eso",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Leboy",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Flamingo/Tweed",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "u7ylo",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Leboy",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u7ylo%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "fw5ho",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Caviar O Case",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fw5ho%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very good, 95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon jó, 95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "o0j0r",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Diorama",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Grey",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o0j0r%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "rkg1b",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lady Dior",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rkg1b%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "588af",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Loafer Pumps",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó, \n90%"
+    }
+  },
+  {
+    "id": "4hr0r",
+    "brand": {
+      "en": "GIUSEPPE ZANOTTI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Ankle Boots ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "1irnr",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "High Top Sneakers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Metallic Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "3cbyu",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Loafers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3cbyu%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Good\n90%",
+      "hu": "Állapot: Jó,\n90%"
+    }
+  },
+  {
+    "id": "bghfp",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sneakers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bghfp%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "pu89z",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Heels",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red/White ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "7trgc",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Evelyne 16",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "2qnob",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Evelyne 16",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "16cm",
+    "color": {
+      "en": "Etoupe",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "a9bq6",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kelly 28 Limited Edition ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "28cm",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a9bq6%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a9bq6%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a9bq6%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a9bq6%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "td3ay",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Constance 24 Black-Gold 2018",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "2018",
+    "size": "24",
+    "color": {
+      "en": "Black and Gold ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Full Set",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "v8ex0",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Constance Mini 19 Limited  Edition 2021",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2021 ",
+    "size": "19",
+    "color": {
+      "en": "Black ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "yibs9",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kelly 28 Sellier Gold 2025 ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "2025 ",
+    "size": "28 ",
+    "color": {
+      "en": "Gold ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "3oym7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Birkin 25 Togo Beton-Gold ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2025",
+    "size": "25",
+    "color": {
+      "en": "White ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3oym7%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3oym7%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3oym7%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3oym7%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "9s7gn",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Padlock",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "20 cm",
+    "color": {
+      "en": "Monogram and Black and Brown ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9s7gn%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "tq8x6",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Neo Vintage",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "22 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq8x6%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%",
+      "hu": "Állapot: Nagyon Jó,\n90-95%"
+    }
+  },
+  {
+    "id": "636rd",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boulogne bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Full set",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "fngrw",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "New Wave bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "20 cm",
+    "color": {
+      "en": "Monogram/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fngrw%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag, Box",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "62d0y",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Manhattan Handbag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2005",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/62d0y%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
+      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "tnfgz",
+    "brand": {
+      "en": "ALEXANDER MCQUEEN",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "235",
+    "price_eur": "235",
+    "price_huf": "88.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "White/Rose gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tnfgz%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "8wywg",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "265",
+    "price_eur": "265",
+    "price_huf": "99.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Blue/Red/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wywg%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "dpimz",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Pink/Green/Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Dustbag",
+      "hu": "Állapot: Kiváló\n95%\nKiegészítők: Porzsák"
+    }
+  },
+  {
+    "id": "tq377",
+    "brand": {
+      "en": "SAINT LAURANT",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dress",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "370",
+    "price_eur": "370",
+    "price_huf": "138.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tq377%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%",
+      "hu": "Állapot: Kiváló\n95%"
+    }
+  },
+  {
+    "id": "udxqr",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Skirt",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "185",
+    "price_eur": "185",
+    "price_huf": "69.000",
+    "tag": "Available",
+    "year": "",
+    "size": "S",
+    "color": {
+      "en": "Pink/Yellow Print",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/udxqr%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%",
+      "hu": "Állapot: Kiváló\n95%"
+    }
+  },
+  {
+    "id": "wygg4",
+    "brand": {
+      "en": "MONCLER",
+      "hu": ""
+    },
+    "name": {
+      "en": "Coat",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "S/M",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wygg4%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "mwcaj",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "D-Bubble Bucket Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Full set",
+      "hu": "Állapot:\nKiváló, 95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "cwqva",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bobby 25",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "25 cm",
+    "color": {
+      "en": "Blue/White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cwqva%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent\n95%\nAccessories: Full set",
+      "hu": "Állapot:\nKiváló, 95%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "ly6rr",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Limited Edition World Tour Monogram Canvas Toiletry Pouch 26",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "26 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ly6rr%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\nAccesories: Dust bag, Box",
+      "hu": "Állapot: Nagyon Jó,\n95%\nKiegészítők: Porzsák? Doboz"
+    }
+  },
+  {
+    "id": "ygj4p",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Sac Plat",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "630",
+    "price_eur": "630",
+    "price_huf": "238.000",
+    "tag": "Available",
+    "year": "",
+    "size": "10 cm",
+    "color": {
+      "en": "Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ygj4p%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%\nAccesories: Full set",
+      "hu": "Állapot: Nagyon Jó,\n98%\nKiegészítők: Full set"
+    }
+  },
+  {
+    "id": "v67wh",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bastia Change Purse",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "190",
+    "price_eur": "190",
+    "price_huf": "69.900",
+    "tag": "Available",
+    "year": "",
+    "size": "8 cm",
+    "color": {
+      "en": "Lavender",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v67wh%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v67wh%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v67wh%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v67wh%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Dust bag, Box",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Porzsák, Doboz"
+    }
+  },
+  {
+    "id": "9zyp0",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Constance Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "2021",
+    "size": "13 cm",
+    "color": {
+      "en": "Étoupe",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9zyp0%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9zyp0%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9zyp0%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9zyp0%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%\n",
+      "hu": "Állapot: Nagyon Jó,\n95%\n"
+    }
+  },
+  {
+    "id": "a8sm3",
+    "brand": {
+      "en": "SAINT LAURANT",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag Charm",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "145",
+    "price_eur": "145",
+    "price_huf": "56.000",
+    "tag": "Available",
+    "year": "",
+    "size": "7 cm",
+    "color": {
+      "en": "Ivory",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a8sm3%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a8sm3%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a8sm3%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a8sm3%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%"
+    }
+  },
+  {
+    "id": "5i4jf",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pencil Case",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "330",
+    "price_eur": "330",
+    "price_huf": "122.500",
+    "tag": "Available",
+    "year": "",
+    "size": "20,5 cm",
+    "color": {
+      "en": "Monogram/ Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full set",
+      "hu": "Állapot: Nem Használt 100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "t3oje",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Belt",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "205",
+    "price_eur": "205",
+    "price_huf": "76.500",
+    "tag": "Available",
+    "year": "",
+    "size": "90 cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t3oje%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "rqddb",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bag Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "110",
+    "price_eur": "110",
+    "price_huf": "40.000",
+    "tag": "Available",
+    "year": "",
+    "size": "11,5 cm",
+    "color": {
+      "en": "Check print",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rqddb%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%",
+      "hu": "Állapot: Nem Használt 100%"
+    }
+  },
+  {
+    "id": "zntpa",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": " Budy Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zntpa%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zntpa%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zntpa%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zntpa%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full set",
+      "hu": "Állapot: Nem Használt 100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "ye8b5",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Rodeo Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "znwa0",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Rodeo Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Purple/Gold/Beige",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/znwa0%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/znwa0%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/znwa0%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "1yz3l",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Oran Nano Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "500",
+    "price_eur": "500",
+    "price_huf": "188.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(4).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1yz3l%20(5).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "kn7o7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Silk Scarf",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "45 cm",
+    "color": {
+      "en": "Yellow/Purple/Green",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "l4jme",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Agenda Cover MM",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "135",
+    "price_eur": "135",
+    "price_huf": "50.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "White",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "zimka",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet On Chain",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "210",
+    "price_eur": "210",
+    "price_huf": "80.000",
+    "tag": "Available",
+    "year": "",
+    "size": "10 cm",
+    "color": {
+      "en": "Maroon ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "5wsjm",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Nootbook Cover ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "240",
+    "price_eur": "240",
+    "price_huf": "90.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gold Togo",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wsjm%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wsjm%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wsjm%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wsjm%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full set",
+      "hu": "Állapot: Nem Használt 100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "327wr",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Accessories",
+    "price": "130",
+    "price_eur": "130",
+    "price_huf": "49.500",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó\n85%"
+    }
+  },
+  {
+    "id": "c5cgz",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Playing Cards",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "95",
+    "price_eur": "95",
+    "price_huf": "35.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c5cgz%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c5cgz%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c5cgz%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
+    }
+  },
+  {
+    "id": "0x8lv",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "175",
+    "price_eur": "175",
+    "price_huf": "65.000",
+    "tag": "Available",
+    "year": "",
+    "size": "19 cm",
+    "color": {
+      "en": "Black/Floral",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(3).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(4).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "xkym1",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lady Dior Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "120.000",
+    "price_eur": "120.000",
+    "price_huf": "320",
+    "tag": "Available",
+    "year": "",
+    "size": "11,5 cm",
+    "color": {
+      "en": "Beige",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%\nAccesories: Full set",
+      "hu": "Állapot:\nNagyon jó\n98%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "9obl7",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "80",
+    "price_eur": "80",
+    "price_huf": "29.000",
+    "tag": "Available",
+    "year": "",
+    "size": "11,5 cm",
+    "color": {
+      "en": "White/Grey ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9obl7%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9obl7%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9obl7%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9obl7%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "cggvp",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "80",
+    "price_eur": "80",
+    "price_huf": "29.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "White/Floral",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cggvp%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cggvp%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cggvp%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cggvp%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "90jiz",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "235",
+    "price_eur": "235",
+    "price_huf": "88.000",
+    "tag": "Available",
+    "year": "",
+    "size": "19,5 cm",
+    "color": {
+      "en": "White/Multi Color",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/90jiz%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/90jiz%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/90jiz%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/90jiz%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition:  Very Good\n95%",
+      "hu": "Állapot: \nNagyon Jó\n95%"
+    }
+  },
+  {
+    "id": "z68oa",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "240",
+    "price_eur": "240",
+    "price_huf": "90.000",
+    "tag": "Available",
+    "year": "",
+    "size": "11 cm",
+    "color": {
+      "en": "White/Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%\nAccesories: Full set",
+      "hu": "Állapot:\nNagyon jó\n98%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "ud1zb",
+    "brand": {
+      "en": "VERSACE",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "50",
+    "price_eur": "50",
+    "price_huf": "19.000",
+    "tag": "Available",
+    "year": "",
+    "size": "11,5 cm",
+    "color": {
+      "en": "Silver",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "kpxof",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "45.000",
+    "tag": "Available",
+    "year": "",
+    "size": "19 cm",
+    "color": {
+      "en": "Burnt Orange",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpxof%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpxof%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpxof%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kpxof%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "rtka1",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "70",
+    "price_eur": "70",
+    "price_huf": "26.000",
+    "tag": "Available",
+    "year": "",
+    "size": "12 cm",
+    "color": {
+      "en": "Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rtka1%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rtka1%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rtka1%20(2).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "eugan",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "105",
+    "price_eur": "105",
+    "price_huf": "39.000",
+    "tag": "Available",
+    "year": "",
+    "size": "18,5 cm",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eugan%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eugan%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eugan%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eugan%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "g4vzr",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "120",
+    "price_eur": "120",
+    "price_huf": "45.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g4vzr%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Good\n85%",
+      "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "rs0ac",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rs0ac%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rs0ac%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rs0ac%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rs0ac%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "5kkxw",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5kkxw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5kkxw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5kkxw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5kkxw%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "q2g42",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q2g42%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q2g42%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q2g42%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q2g42%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "228jn",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "4zjad",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "8wx39",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wx39%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wx39%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wx39%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8wx39%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "nprjs",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nprjs%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nprjs%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nprjs%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nprjs%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "5trew",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5trew%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5trew%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5trew%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5trew%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "oax1q",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oax1q%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oax1q%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oax1q%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oax1q%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "95x0f",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/95x0f%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/95x0f%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/95x0f%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/95x0f%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "e1r1m",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "19v0f",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "lcg2t",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "1il2x",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1il2x%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1il2x%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1il2x%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1il2x%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "8qzt2",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8qzt2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8qzt2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8qzt2%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8qzt2%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "lca5t",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lca5t%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lca5t%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lca5t%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ham3e",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ham3e%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ham3e%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ham3e%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ham3e%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "e4ugt",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e4ugt%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e4ugt%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e4ugt%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "s76md",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s76md%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s76md%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s76md%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "15hjc",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/15hjc%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/15hjc%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/15hjc%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "9ccmz",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ccmz%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ccmz%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ccmz%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ccmz%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "u11oq",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u11oq%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u11oq%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u11oq%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "v7m1q",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "n5ged",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "k2g79",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "yktla",
+    "brand": {
+      "en": "BALENCIAGA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "qg0m3",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "gnysi",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gnysi%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gnysi%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gnysi%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "vo5x6",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vo5x6%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vo5x6%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vo5x6%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "5mf48",
+    "brand": {
+      "en": "ALEXANDER MCQUEEN",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5mf48%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5mf48%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5mf48%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "pi90y",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pi90y%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pi90y%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pi90y%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "mlcrw",
+    "brand": {
+      "en": "BALENCIAGA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Le city bag",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Sold",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "60f7m",
+    "brand": {
+      "en": "MIU MIU",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/60f7m%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/60f7m%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/60f7m%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "qitji",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qitji%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qitji%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qitji%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qitji%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "g9jx0",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9jx0%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9jx0%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9jx0%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g9jx0%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "6aszj",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6aszj%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6aszj%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6aszj%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6aszj%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "bfclr",
+    "brand": {
+      "en": "PRADA",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bfclr%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bfclr%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bfclr%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "08x5k",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "pykaq",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pykaq%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pykaq%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pykaq%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "9htej",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9htej%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9htej%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9htej%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "yc8jl",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yc8jl%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yc8jl%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yc8jl%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "do8lw",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/do8lw%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/do8lw%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/do8lw%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "dvm4z",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trench Style Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "htf3o",
+    "brand": {
+      "en": "MAXMARA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Teddy Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/htf3o%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/htf3o%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/htf3o%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "k3pqs",
+    "brand": {
+      "en": "MAXMARA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Short Wool Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "oy0b4",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trench Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "u2loy",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Knit Cardigan ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u2loy%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u2loy%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u2loy%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "e8naf",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Brit Women's Wool Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "s4c4u",
+    "brand": {
+      "en": "MAXMARA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wrap Style Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "m1uxy",
+    "brand": {
+      "en": "MAXMARA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "cgv8m",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Suede ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cgv8m%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cgv8m%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cgv8m%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "utx5k",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Track Jacket ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "q30vf",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lightweight Hooded Rain Jacket ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "ulkbq",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trench Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ulkbq%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ulkbq%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ulkbq%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "vd68z",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Trench Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vd68z%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vd68z%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vd68z%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "8m9zu",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trench Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8m9zu%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8m9zu%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8m9zu%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "jyzaz",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Brit Lightweight Trench Coat ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jyzaz%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jyzaz%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jyzaz%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "v907q",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Cape ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "im2mc",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Silk Bomber Jacket ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "6ua88",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Printed Trench Coat ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "w612r",
+    "brand": {
+      "en": "VERSACE",
+      "hu": ""
+    },
+    "name": {
+      "en": "Jeans Bomber Jacket ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "f5xm2",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Cropped Trousers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Clothes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "37ab7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Scarf ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "td3ri",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wool Scarf ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "0xjsd",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Check Canvas Sneakers",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "q8x1a",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Shearling Fashion Sneakers",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "et3xv",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Ring Set ",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "2iytt",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Dior-ID Sneakers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "9eyca",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boston Bag ",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9eyca%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9eyca%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9eyca%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9eyca%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "pke4d",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "GG Canvas Hobo Bag",
+      "hu": ""
+    },
+    "gender": "",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pke4d%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pke4d%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pke4d%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pke4d%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "2hcae",
+    "brand": {
+      "en": "BURBERRY",
+      "hu": ""
+    },
+    "name": {
+      "en": "Kingdom Tote",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2hcae%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2hcae%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2hcae%20(2).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "vza8j",
+    "brand": {
+      "en": "BOTTEGA VENETA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Intrecciato",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "nwnjo",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "GG Supreme Web Backpack",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "be2g4",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Crossbody Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "brifu",
+    "brand": {
+      "en": "VAN CLEEF&ARPELS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Vintage Alhambra",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/brifu%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/brifu%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/brifu%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/brifu%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "zyxbq",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic Flap Wallet On Chain",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zyxbq%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zyxbq%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zyxbq%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zyxbq%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "bd3j8",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "19 Flap Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bd3j8%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bd3j8%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bd3j8%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bd3j8%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "fbtvt",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boy Chanel Wallet On Chain",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fbtvt%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fbtvt%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fbtvt%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fbtvt%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "zdzmu",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Evelyne",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zdzmu%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zdzmu%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zdzmu%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zdzmu%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "5yzkl",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Vintage Horsebit Handbag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5yzkl%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5yzkl%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5yzkl%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5yzkl%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "xkbkx",
+    "brand": {
+      "en": "TIFFANY&CO.",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Tote",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkbkx%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkbkx%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkbkx%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkbkx%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "vhc49",
+    "brand": {
+      "en": "BALENCIAGA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Classic City Bag",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vhc49%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vhc49%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vhc49%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vhc49%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "umume",
+    "brand": {
+      "en": "CÉLINE",
+      "hu": ""
+    },
+    "name": {
+      "en": "Luggage Nano Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/umume%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/umume%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/umume%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/umume%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "qztsa",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Damier Infini Port Document Voyage",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  }
+]
