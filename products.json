@@ -3725,14 +3725,14 @@
       "hu": ""
     },
     "name": {
-      "en": "",
+      "en": "Playing Cards",
       "hu": ""
     },
-    "gender": "",
+    "gender": "unisex",
     "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "95",
+    "price_eur": "95",
+    "price_huf": "35.000",
     "tag": "Available",
     "year": "",
     "size": "",
@@ -3746,8 +3746,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c5cgz%20(2).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Never Used\n100%\n",
+      "hu": "Állapot: Nem Használt 100%\n"
     }
   },
   {
@@ -3757,19 +3757,19 @@
       "hu": ""
     },
     "name": {
-      "en": "",
+      "en": "Wallet",
       "hu": ""
     },
-    "gender": "",
+    "gender": "women",
     "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "175",
+    "price_eur": "175",
+    "price_huf": "65.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "19 cm",
     "color": {
-      "en": "",
+      "en": "Black/Floral",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(1).jpg",
@@ -3780,8 +3780,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0x8lv%20(4).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: \nNagyon Jó\n90%"
     }
   },
   {
@@ -3791,19 +3791,19 @@
       "hu": ""
     },
     "name": {
-      "en": "",
+      "en": "Lady Dior Wallet",
       "hu": ""
     },
-    "gender": "",
+    "gender": "women",
     "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "320",
+    "price_eur": "320",
+    "price_huf": "120.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "11,5 cm",
     "color": {
-      "en": "",
+      "en": "Beige",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(1).jpg",
@@ -3813,8 +3813,8 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(3).jpg"
     ],
     "description": {
-      "en": "",
-      "hu": ""
+      "en": "Condition: Very Good\n98%\nAccessories: Full set",
+      "hu": "Állapot: Nagyon Jó,\n98%\nKiegészítők: Full set"
     }
   },
   {
