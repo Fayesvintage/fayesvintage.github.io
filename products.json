@@ -7040,5 +7040,38 @@
       "en": "",
       "hu": ""
     }
+  },
+  {
+    "id": "14k0z",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Monogram Multicolore Sarah Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/14k0z%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/14k0z%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/14k0z%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/14k0z%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
