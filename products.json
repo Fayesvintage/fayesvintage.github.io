@@ -564,39 +564,6 @@
     "family": "Bags"
   },
   {
-    "id": "2g20q",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "Shoulder bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "730",
-    "price_eur": "730",
-    "price_huf": "280.000",
-    "tag": "Available",
-    "year": "2017",
-    "size": "",
-    "color": {
-      "en": "Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2g20q%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Fair\n",
-      "hu": "Állapot: Kielégítő"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "mwo4l",
     "brand": {
       "en": "CÉLINE",
@@ -3686,39 +3653,6 @@
     }
   },
   {
-    "id": "327wr",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wallet",
-      "hu": ""
-    },
-    "gender": "men",
-    "family": "Accessories",
-    "price": "130",
-    "price_eur": "130",
-    "price_huf": "49.500",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/327wr%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Good\n85%",
-      "hu": "Állapot: Jó\n85%"
-    }
-  },
-  {
     "id": "c5cgz",
     "brand": {
       "en": "HERMÈS",
@@ -4867,38 +4801,6 @@
     }
   },
   {
-    "id": "n5ged",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/n5ged%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "k2g79",
     "brand": {
       "en": "BURBERRY",
@@ -5578,38 +5480,6 @@
     }
   },
   {
-    "id": "oy0b4",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Trench Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/oy0b4%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "u2loy",
     "brand": {
       "en": "BURBERRY",
@@ -5699,38 +5569,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "m1uxy",
-    "brand": {
-      "en": "MAXMARA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wool Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/m1uxy%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -6090,38 +5928,6 @@
     }
   },
   {
-    "id": "f5xm2",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Cropped Trousers",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f5xm2%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "37ab7",
     "brand": {
       "en": "HERMÈS",
@@ -6147,38 +5953,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "td3ri",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wool Scarf ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ri%20(2).jpg"
     ],
     "description": {
       "en": "",
