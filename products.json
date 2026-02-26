@@ -7111,5 +7111,38 @@
       "en": "",
       "hu": ""
     }
+  },
+  {
+    "id": "9nrgd",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Gabrielle Drawstring Bucket Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nrgd%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nrgd%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nrgd%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nrgd%20(3).jpg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
   }
 ]
