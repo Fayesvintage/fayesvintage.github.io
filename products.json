@@ -1480,39 +1480,6 @@
     }
   },
   {
-    "id": "7s030",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Mini Boite",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2022",
-    "size": "Super Mini",
-    "color": {
-      "en": "Monogram",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7s030%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition:  Good,\nAccessories: Box, NFC, Dustbag",
-      "hu": "Állapot: Jó,85-90%\nKiegészítők: NFC, Doboz,Porzsák"
-    }
-  },
-  {
     "id": "m6a96",
     "brand": {
       "en": "FENDI",
@@ -2302,39 +2269,6 @@
     "description": {
       "en": "Condition: Good\n90%",
       "hu": "Állapot: Jó, \n90%"
-    }
-  },
-  {
-    "id": "4hr0r",
-    "brand": {
-      "en": "GIUSEPPE ZANOTTI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Ankle Boots ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4hr0r%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Good\n90%",
-      "hu": "Állapot: Jó,\n90%"
     }
   },
   {
@@ -3291,39 +3225,6 @@
     }
   },
   {
-    "id": "5i4jf",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Pencil Case",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "330",
-    "price_eur": "330",
-    "price_huf": "122.500",
-    "tag": "Available",
-    "year": "",
-    "size": "20,5 cm",
-    "color": {
-      "en": "Monogram/ Orange",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5i4jf%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\nAccessories: Full set",
-      "hu": "Állapot: Nem Használt 100%\nKiegészítők: Full szett"
-    }
-  },
-  {
     "id": "t3oje",
     "brand": {
       "en": "LOUIS VUITTON",
@@ -3420,38 +3321,6 @@
     "description": {
       "en": "Condition: Never Used\n100%\nAccessories: Full set",
       "hu": "Állapot: Nem Használt 100%\nKiegészítők: Full szett"
-    }
-  },
-  {
-    "id": "ye8b5",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Rodeo Charm",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Gold",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ye8b5%20(2).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\n",
-      "hu": "Állapot: Nem Használt 100%\n"
     }
   },
   {
@@ -3716,39 +3585,6 @@
     "description": {
       "en": "Condition: Very Good\n95%",
       "hu": "Állapot: \nNagyon Jó\n90%"
-    }
-  },
-  {
-    "id": "xkym1",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lady Dior Wallet",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "320",
-    "price_eur": "320",
-    "price_huf": "120.000",
-    "tag": "Available",
-    "year": "",
-    "size": "11,5 cm",
-    "color": {
-      "en": "Beige",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/xkym1%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n98%\nAccessories: Full set",
-      "hu": "Állapot: Nagyon Jó,\n98%\nKiegészítők: Full set"
     }
   },
   {
@@ -4403,72 +4239,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e1r1m%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "19v0f",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/19v0f%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "lcg2t",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lcg2t%20(3).jpg"
     ],
     "description": {
       "en": "",
@@ -5441,38 +5211,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/htf3o%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/htf3o%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "k3pqs",
-    "brand": {
-      "en": "MAXMARA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Short Wool Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k3pqs%20(2).jpg"
     ],
     "description": {
       "en": "",
