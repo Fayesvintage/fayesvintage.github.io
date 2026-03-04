@@ -6915,5 +6915,38 @@
       "en": "Condition: Good\n85%",
       "hu": "Állapot: Jó \n85%"
     }
+  },
+  {
+    "id": "x3px0",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Trainer Sneakers",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "739",
+    "price_eur": "739",
+    "price_huf": "279.000",
+    "tag": "Available",
+    "year": "2025",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n90-95%\n",
+      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
+    }
   }
 ]
