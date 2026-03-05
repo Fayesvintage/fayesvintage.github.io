@@ -6948,5 +6948,38 @@
       "en": "Condition: Very Good\n90-95%\n",
       "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
+  },
+  {
+    "id": "j2715",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Chypre Sandals ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Shoes",
+    "price": "750",
+    "price_eur": "750",
+    "price_huf": "290.000",
+    "tag": "Available",
+    "year": "",
+    "size": "37.5cm",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(1).jpg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(1).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(2).jpg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(3).jpg"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%",
+      "hu": "Állapot: Nem Használt 100%"
+    }
   }
 ]
