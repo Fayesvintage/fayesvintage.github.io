@@ -841,7 +841,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "42",
+    "size": "42cm",
     "color": {
       "en": "Green",
       "hu": ""
@@ -1022,39 +1022,6 @@
     }
   },
   {
-    "id": "e3g2u",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Boomerang",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "2023",
-    "size": "",
-    "color": {
-      "en": "White-Grey",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e3g2u%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: None",
-      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
-    }
-  },
-  {
     "id": "idpl8",
     "brand": {
       "en": "VALENTINO",
@@ -1068,10 +1035,10 @@
     "family": "Shoes",
     "price": "",
     "price_eur": "",
-    "price_huf": "",
+    "price_huf": "89.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "37cm",
     "color": {
       "en": "Multicolor",
       "hu": ""
@@ -2252,10 +2219,10 @@
     "family": "Shoes",
     "price": "",
     "price_eur": "",
-    "price_huf": "",
+    "price_huf": "98.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "36cm",
     "color": {
       "en": "Black",
       "hu": ""
@@ -2288,7 +2255,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "36.5cm",
     "color": {
       "en": "Metallic Pink",
       "hu": ""
@@ -2321,7 +2288,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "37cm",
     "color": {
       "en": "Black",
       "hu": ""
@@ -2354,7 +2321,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "36cm",
     "color": {
       "en": "Black/Monogram",
       "hu": ""
@@ -2384,10 +2351,10 @@
     "family": "Shoes",
     "price": "",
     "price_eur": "",
-    "price_huf": "",
+    "price_huf": "85.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "37cm",
     "color": {
       "en": "Red/White ",
       "hu": ""
@@ -5681,7 +5648,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "41cm",
     "color": {
       "en": "",
       "hu": ""
@@ -5709,12 +5676,12 @@
     },
     "gender": "men",
     "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "530",
+    "price_eur": "530",
+    "price_huf": "199.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "41.5cm",
     "color": {
       "en": "",
       "hu": ""
@@ -5772,14 +5739,14 @@
       "en": "Dior-ID Sneakers",
       "hu": ""
     },
-    "gender": "women",
+    "gender": "unisex",
     "family": "Shoes",
     "price": "",
     "price_eur": "",
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "41.5cm",
     "color": {
       "en": "",
       "hu": ""
@@ -6631,12 +6598,12 @@
     },
     "gender": "women",
     "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
+    "price": "400",
+    "price_eur": "400",
+    "price_huf": "150.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "38cm",
     "color": {
       "en": "",
       "hu": ""
@@ -6900,7 +6867,7 @@
     "price_huf": "92.000",
     "tag": "Available",
     "year": "",
-    "size": "",
+    "size": "39cm",
     "color": {
       "en": "",
       "hu": ""
@@ -6933,7 +6900,7 @@
     "price_huf": "279.000",
     "tag": "Available",
     "year": "2025",
-    "size": "",
+    "size": "37cm",
     "color": {
       "en": "",
       "hu": ""
