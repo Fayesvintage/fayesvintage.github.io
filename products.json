@@ -132,39 +132,6 @@
     "family": "Bags"
   },
   {
-    "id": "ey8rq",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lindy 26 Limited Edition Swift Lether",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2019",
-    "size": "26 × 18 × 14 cm",
-    "color": {
-      "en": "Orange / Palladium hardware",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ey8rq%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: 95%, excellent;\nStamp D;\nAccessories:Dust bag,Receipt",
-      "hu": "Állapot: 95%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák,Bizonylat"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "c4ho9",
     "brand": {
       "en": "HERMÈS",
@@ -1974,72 +1941,6 @@
     "description": {
       "en": "Condition: Very good, 90-95%\nAccessories: Dustbag, Box",
       "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák, Doboz"
-    }
-  },
-  {
-    "id": "588af",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Loafer Pumps",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "98.000",
-    "tag": "Available",
-    "year": "",
-    "size": "36cm",
-    "color": {
-      "en": "Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/588af%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Good\n90%",
-      "hu": "Állapot: Jó, \n90%"
-    }
-  },
-  {
-    "id": "1irnr",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "High Top Sneakers",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "36.5cm",
-    "color": {
-      "en": "Metallic Pink",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1irnr%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Good\n90%",
-      "hu": "Állapot: Jó,\n90%"
     }
   },
   {
@@ -5452,7 +5353,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5464,39 +5365,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "be2g4",
-    "brand": {
-      "en": "DOLCE&GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Crossbody Bag",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/be2g4%20(3).jpg"
     ],
     "description": {
       "en": "",
