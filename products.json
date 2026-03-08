@@ -198,39 +198,6 @@
     "family": "Bags"
   },
   {
-    "id": "ahhj1",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Herbag 31 Pink",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2019",
-    "size": "19 × 13 × 9.5 cm",
-    "color": {
-      "en": "Black / Pink / Palladium hardware",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ahhj1%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: 98%, excellent;\nStamp D;\nAccessories:Dust bag",
-      "hu": "Állapot: 98%, kiváló;\n\"D\" jelőlésű;\nKiegészítők:Porzsák"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "8xffv",
     "brand": {
       "en": "MIU MIU",
@@ -560,39 +527,6 @@
     "description": {
       "en": "Condition: Fair condition\nAccessories: Full set",
       "hu": "Állapot: Kielégítő\nKiegészítők: Full szett"
-    },
-    "family": "Bags"
-  },
-  {
-    "id": "mwo4l",
-    "brand": {
-      "en": "CÉLINE",
-      "hu": ""
-    },
-    "name": {
-      "en": "Handbag",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "800",
-    "price_eur": "800",
-    "price_huf": "280.000",
-    "tag": "Available",
-    "year": "2014",
-    "size": "",
-    "color": {
-      "en": "Orange",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwo4l%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Good\n90-95%",
-      "hu": "Állapot: Jó "
     },
     "family": "Bags"
   },
@@ -956,39 +890,6 @@
     }
   },
   {
-    "id": "o5eo5",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Padlock",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2015-2016",
-    "size": "",
-    "color": {
-      "en": "Light sakura",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/o5eo5%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%",
-      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "p7898",
     "brand": {
       "en": "FENDI",
@@ -1022,38 +923,6 @@
     }
   },
   {
-    "id": "idpl8",
-    "brand": {
-      "en": "VALENTINO",
-      "hu": ""
-    },
-    "name": {
-      "en": "High-heel",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "89.000",
-    "tag": "Available",
-    "year": "",
-    "size": "37cm",
-    "color": {
-      "en": "Multicolor",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/idpl8%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: None",
-      "hu": "Állapot: Nagyon Jó\nKiegészítők: Nincs"
-    }
-  },
-  {
     "id": "a4369",
     "brand": {
       "en": "PRADA",
@@ -1084,38 +953,6 @@
     "description": {
       "en": "Condition: Excellent\n95-98%\nAccessories: Dustbag",
       "hu": "Állapot: Kiváló\nKiegészítők: Porzsák"
-    }
-  },
-  {
-    "id": "0g8ze",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Coat",
-      "hu": "Szövetkabát"
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "38",
-    "color": {
-      "en": "Red/orange",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0g8ze%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
     }
   },
   {
@@ -1612,39 +1449,6 @@
     }
   },
   {
-    "id": "gvkqo",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Papillon ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Monogram/Yellow",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/gvkqo%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "g55rq",
     "brand": {
       "en": "BOTTEGA VENETA",
@@ -1803,39 +1607,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ngb5i%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
-    "id": "tco2c",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Alma Bb Turquoise",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Turquoise",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/tco2c%20(3).jpg"
     ],
     "description": {
       "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
@@ -2338,39 +2109,6 @@
     }
   },
   {
-    "id": "pu89z",
-    "brand": {
-      "en": "PRADA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Heels",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "85.000",
-    "tag": "Available",
-    "year": "",
-    "size": "37cm",
-    "color": {
-      "en": "Red/White ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pu89z%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%",
-      "hu": "Állapot: Nagyon Jó,\n90-95%"
-    }
-  },
-  {
     "id": "7trgc",
     "brand": {
       "en": "HERMÈS",
@@ -2829,38 +2567,6 @@
     "description": {
       "en": "Condition: Very Good\n95%\n",
       "hu": "Állapot: Nagyon Jó,\n95%\n"
-    }
-  },
-  {
-    "id": "dpimz",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wool Coat",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "S/M",
-    "color": {
-      "en": "Pink/Green/Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dpimz%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excellent\n95%\nAccessories: Dustbag",
-      "hu": "Állapot: Kiváló\n95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -3337,7 +3043,7 @@
     "price": "500",
     "price_eur": "500",
     "price_huf": "188.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3503,7 +3209,7 @@
     "price": "95",
     "price_eur": "95",
     "price_huf": "35.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3668,7 +3374,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3680,38 +3386,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/z68oa%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "ud1zb",
-    "brand": {
-      "en": "VERSACE",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ud1zb%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -4128,7 +3802,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5216,38 +4890,6 @@
     }
   },
   {
-    "id": "s4c4u",
-    "brand": {
-      "en": "MAXMARA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wrap Style Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/s4c4u%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "cgv8m",
     "brand": {
       "en": "LOUIS VUITTON",
@@ -5593,38 +5235,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/w612r%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "37ab7",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wool Scarf ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/37ab7%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -6865,7 +6475,7 @@
     "price": "250",
     "price_eur": "250",
     "price_huf": "92.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "39cm",
     "color": {
