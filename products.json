@@ -132,39 +132,6 @@
     "family": "Bags"
   },
   {
-    "id": "c4ho9",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lindy Mini II Black Taurillon Clemence",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "2025",
-    "size": "19 × 13 × 9.5 cm",
-    "color": {
-      "en": "Black / Palladim hardware",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c4ho9%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never used;\nStamp K;\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők: Full szett"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "8xffv",
     "brand": {
       "en": "MIU MIU",
@@ -657,39 +624,6 @@
     "description": {
       "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
       "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
-    },
-    "family": "Bags"
-  },
-  {
-    "id": "ojs27",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Shoulder Bag",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Gucci monogram",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ojs27%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nNo Accessories",
-      "hu": "Állapot: Nagyon jó\nKiegészítők: Nincs"
     },
     "family": "Bags"
   },
@@ -1614,39 +1548,6 @@
     }
   },
   {
-    "id": "8y9fo",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "Soft Tote Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "BLUE",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/8y9fo%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "otps9",
     "brand": {
       "en": "DIOR",
@@ -1776,39 +1677,6 @@
     "description": {
       "en": "Condition: Excellent,98%\nAccessories: Dustbag,Box",
       "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Doboz"
-    }
-  },
-  {
-    "id": "a6eso",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Leboy",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Flamingo/Tweed",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/a6eso%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
     }
   },
   {
@@ -2109,39 +1977,6 @@
     }
   },
   {
-    "id": "td3ay",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Constance 24 Black-Gold 2018",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "2018",
-    "size": "24",
-    "color": {
-      "en": "Black and Gold ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/td3ay%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: Full Set",
-      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full szett"
-    }
-  },
-  {
     "id": "v8ex0",
     "brand": {
       "en": "HERMÈS",
@@ -2168,39 +2003,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v8ex0%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
-      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
-    }
-  },
-  {
-    "id": "yibs9",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Kelly 28 Sellier Gold 2025 ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "2025 ",
-    "size": "28 ",
-    "color": {
-      "en": "Gold ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yibs9%20(3).JPG"
     ],
     "description": {
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
@@ -2303,39 +2105,6 @@
     "description": {
       "en": "Condition: Very Good\n90-95%",
       "hu": "Állapot: Nagyon Jó,\n90-95%"
-    }
-  },
-  {
-    "id": "636rd",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Boulogne bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Monogram/Black",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/636rd%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: Full set",
-      "hu": "Állapot: Nagyon Jó,\n90-95%\nKiegészítők: Full set"
     }
   },
   {
@@ -4307,39 +4076,6 @@
     }
   },
   {
-    "id": "mlcrw",
-    "brand": {
-      "en": "BALENCIAGA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Le city bag",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mlcrw%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "60f7m",
     "brand": {
       "en": "MIU MIU",
@@ -5306,39 +5042,6 @@
     }
   },
   {
-    "id": "vza8j",
-    "brand": {
-      "en": "BOTTEGA VENETA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Intrecciato",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vza8j%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "nwnjo",
     "brand": {
       "en": "GUCCI",
@@ -5914,7 +5617,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5947,7 +5650,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Reserved",
     "year": "",
     "size": "",
     "color": {
