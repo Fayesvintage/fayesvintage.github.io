@@ -333,39 +333,6 @@
     "family": "Bags"
   },
   {
-    "id": "grdyo",
-    "brand": {
-      "en": "FENDI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Peakaboo",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "710",
-    "price_eur": "710",
-    "price_huf": "250.000",
-    "tag": "Available",
-    "year": "2012",
-    "size": "",
-    "color": {
-      "en": "Blue / Orange",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/grdyo%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excelent, great condition.\nAccessories: Dust bag",
-      "hu": "Állapot: Kíváló, jó \nKiegészítők: Porzsák"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "gq5hd",
     "brand": {
       "en": "BOTTEGA VENETA",
