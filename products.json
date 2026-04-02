@@ -44,7 +44,7 @@
       "hu": ""
     },
     "price": "",
-    "tag": "Available",
+    "tag": "Sold",
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
     "size": "18 × 13 × 18 cm",
     "year": "2025",
@@ -1397,7 +1397,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -2879,7 +2879,7 @@
     "price": "95",
     "price_eur": "95",
     "price_huf": "35.000",
-    "tag": "Sold",
+    "tag": "Available",
     "year": "",
     "size": "",
     "color": {
@@ -3142,7 +3142,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3347,7 +3347,7 @@
       "en": "",
       "hu": ""
     },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(1).jpg",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(2).jpg",
@@ -3373,7 +3373,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3636,7 +3636,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -4765,7 +4765,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4829,7 +4829,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5287,7 +5287,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
