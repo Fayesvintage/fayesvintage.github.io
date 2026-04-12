@@ -33,39 +33,6 @@
     "family": "Bags"
   },
   {
-    "id": "9nhpw",
-    "gender": "women",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Picotin Lock 18 Taurillon Clemence",
-      "hu": ""
-    },
-    "price": "",
-    "tag": "Sold",
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
-    "size": "18 × 13 × 18 cm",
-    "year": "2025",
-    "color": {
-      "en": "Black/ Gold hardware",
-      "hu": "Fekete/ Arany hardware"
-    },
-    "description": {
-      "en": "Condition: Never used;\nStamp K;\nAccessories:Full set",
-      "hu": "Állapot: Nem volt használva;\n\"K\" jelőlésű;\nKiegészítők:\nFull-szett"
-    },
-    "price_eur": "",
-    "price_huf": "",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9nhpw%20(3).jpg"
-    ],
-    "family": "Bags"
-  },
-  {
     "id": "badyw",
     "gender": "women",
     "brand": {
@@ -233,40 +200,6 @@
     "family": "Bags"
   },
   {
-    "id": "wpirm",
-    "brand": {
-      "en": "PRADA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Esplanade",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "590",
-    "price_eur": "590",
-    "price_huf": "230.000",
-    "tag": "Sold",
-    "year": "2016",
-    "size": "",
-    "color": {
-      "en": "Black / Red / Green",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(3).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wpirm%20(4).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never used;\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva\nKiegészítők: fFull szett"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "n9ej2",
     "brand": {
       "en": "BURBERRY",
@@ -362,39 +295,6 @@
     "description": {
       "en": "Condition: Great\nAccessories:Dust bag",
       "hu": "Állapot: Nagyon jó állapot\nKiegészítők: Porzsák"
-    },
-    "family": "Bags"
-  },
-  {
-    "id": "0ed8h",
-    "brand": {
-      "en": "CHLOÉ",
-      "hu": ""
-    },
-    "name": {
-      "en": "Handbag / Shoulder bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "580",
-    "price_eur": "580",
-    "price_huf": "199.000",
-    "tag": "Available",
-    "year": "2015",
-    "size": "",
-    "color": {
-      "en": "Nude / Gold",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0ed8h%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Good\n90-95%\nAccessories: Dust bag",
-      "hu": "Állapot: Jó \nKiegészítők: Porzsák"
     },
     "family": "Bags"
   },
@@ -643,7 +543,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "42cm",
+    "size": "42",
     "color": {
       "en": "Green",
       "hu": ""
@@ -824,39 +724,6 @@
     }
   },
   {
-    "id": "3rfen",
-    "brand": {
-      "en": "DOLCE&GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Black/White",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3rfen%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon Jó\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "1eul8",
     "brand": {
       "en": "SAINT LAURANT",
@@ -1022,39 +889,6 @@
     }
   },
   {
-    "id": "glfgc",
-    "brand": {
-      "en": "DOLCE&GABBANA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Bag",
-      "hu": "Szőrme táska"
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Brown",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/glfgc%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excellent\n95-98%\nAccessories: None",
-      "hu": "Állapot: Kiváló\nKiegészítők: Nincs"
-    }
-  },
-  {
     "id": "wrgni",
     "brand": {
       "en": "HERMÈS",
@@ -1085,38 +919,6 @@
     "description": {
       "en": "Condition: Never used.\nAccessories: With Tag",
       "hu": "Állapot: Nem volt használva\nKiegészítők: Címkével"
-    }
-  },
-  {
-    "id": "j5wg7",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Pop H Mini necklace",
-      "hu": "Pop H Mini nyaklánc"
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2025",
-    "size": "",
-    "color": {
-      "en": "Nude",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j5wg7%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never used.\nAccessories: Full set",
-      "hu": "Állapot: Nem volt használva\nKiegészítők: Full set"
     }
   },
   {
@@ -1166,7 +968,7 @@
     "price": "495",
     "price_eur": "495",
     "price_huf": "190.000",
-    "tag": "Available",
+    "tag": "Reserved",
     "year": "",
     "size": "",
     "color": {
@@ -1199,7 +1001,7 @@
     "price": "730",
     "price_eur": "730",
     "price_huf": "280.000",
-    "tag": "Available",
+    "tag": "Reserved",
     "year": "",
     "size": "",
     "color": {
@@ -1229,9 +1031,9 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "555",
-    "price_eur": "555",
-    "price_huf": "210.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Available",
     "year": "",
     "size": "",
@@ -1262,9 +1064,9 @@
     },
     "gender": "women",
     "family": "Bags",
-    "price": "790",
-    "price_eur": "790",
-    "price_huf": "280.000",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
     "tag": "Available",
     "year": "2017",
     "size": "",
@@ -1310,72 +1112,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(2).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ewoj%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
-    "id": "g55rq",
-    "brand": {
-      "en": "BOTTEGA VENETA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Chain Cassette Red",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2024",
-    "size": "",
-    "color": {
-      "en": "Red",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/g55rq%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excellent,98%\nAccessories: Dustbag, Invoice",
-      "hu": "Állapot: Kiváló, 98%\nKiegészítők: Porzsák, Számla"
-    }
-  },
-  {
-    "id": "bsx9j",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Leboy Maxi Limited Edition",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "BLACK",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/bsx9j%20(3).JPG"
     ],
     "description": {
       "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
@@ -5287,7 +5023,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Reserved",
     "year": "",
     "size": "",
     "color": {
@@ -5695,39 +5431,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "2mom7",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Monogram Vernis handbag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2mom7%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2mom7%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2mom7%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2mom7%20(3).jpg"
     ],
     "description": {
       "en": "",
