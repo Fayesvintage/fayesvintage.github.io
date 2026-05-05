@@ -11,7 +11,7 @@
       "hu": "Sac Rabat Kecske bőr"
     },
     "price": "",
-    "tag": "Available",
+    "tag": "Sold",
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
@@ -179,7 +179,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2016",
     "size": "",
     "color": {
@@ -213,7 +213,7 @@
     "price": "80",
     "price_eur": "80",
     "price_huf": "29.900",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -442,7 +442,7 @@
     "price": "390",
     "price_eur": "390",
     "price_huf": "150.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2012",
     "size": "32 × 26 × 10cm",
     "color": {
@@ -606,7 +606,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2015-2016",
     "size": "",
     "color": {
@@ -968,7 +968,7 @@
     "price": "495",
     "price_eur": "495",
     "price_huf": "190.000",
-    "tag": "Reserved",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -1924,7 +1924,7 @@
     "price": "265",
     "price_eur": "265",
     "price_huf": "99.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "S/M",
     "color": {
@@ -2021,7 +2021,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "S/M",
     "color": {
@@ -2120,7 +2120,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "26 cm",
     "color": {
@@ -2613,8 +2613,8 @@
     "family": "Accessories",
     "price": "175",
     "price_eur": "175",
-    "price_huf": "65.000",
-    "tag": "Available",
+    "price_huf": "",
+    "tag": "Sold",
     "year": "",
     "size": "19 cm",
     "color": {
@@ -2714,7 +2714,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3010,7 +3010,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3208,7 +3208,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3339,7 +3339,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Archived",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3436,7 +3436,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3533,7 +3533,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3924,7 +3924,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4116,7 +4116,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4148,7 +4148,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4212,7 +4212,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4308,7 +4308,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4564,7 +4564,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5023,7 +5023,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Reserved",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5254,7 +5254,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5732,72 +5732,6 @@
     "description": {
       "en": "Condition: Good\n85%",
       "hu": "Állapot: Jó \n85%"
-    }
-  },
-  {
-    "id": "x3px0",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Trainer Sneakers",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "739",
-    "price_eur": "739",
-    "price_huf": "279.000",
-    "tag": "Available",
-    "year": "2025",
-    "size": "37cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/x3px0%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n90-95%\n",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
-    "id": "j2715",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Chypre Sandals ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "750",
-    "price_eur": "750",
-    "price_huf": "290.000",
-    "tag": "Available",
-    "year": "",
-    "size": "37.5cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/j2715%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%",
-      "hu": "Állapot: Nem Használt 100%"
     }
   }
 ]
