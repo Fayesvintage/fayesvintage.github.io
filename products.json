@@ -1891,7 +1891,7 @@
     "price": "235",
     "price_eur": "235",
     "price_huf": "88.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "S/M",
     "color": {
@@ -3050,7 +3050,7 @@
       "en": "",
       "hu": ""
     },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(1).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(2).jpg",
@@ -3825,7 +3825,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4436,7 +4436,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5320,7 +5320,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Reserved",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5732,6 +5732,134 @@
     "description": {
       "en": "Condition: Good\n85%",
       "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "7ba9m",
+    "brand": {
+      "en": "VALENTINO",
+      "hu": ""
+    },
+    "name": {
+      "en": "Rockstack ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "23cm ",
+    "color": {
+      "en": "Black ",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7ba9m%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7ba9m%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7ba9m%20(2).jpeg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "hqjig",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "La Trente Hobo Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "42cm",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hqjig%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hqjig%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hqjig%20(2).jpeg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "0bxeh",
+    "brand": {
+      "en": "SAINT LAURENT",
+      "hu": ""
+    },
+    "name": {
+      "en": "Niki Medium Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "28cm",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0bxeh%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0bxeh%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0bxeh%20(2).jpeg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
+    }
+  },
+  {
+    "id": "u35o0",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Belt Bag",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "23cm",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u35o0%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u35o0%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/u35o0%20(2).jpeg"
+    ],
+    "description": {
+      "en": "",
+      "hu": ""
     }
   }
 ]
