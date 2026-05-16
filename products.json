@@ -3017,7 +3017,7 @@
       "en": "",
       "hu": ""
     },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/228jn%20(1).jpg",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4zjad%20(2).jpg",
@@ -5699,6 +5699,454 @@
     "description": {
       "en": "Condition: Good\n85%",
       "hu": "Állapot: Jó \n85%"
+    }
+  },
+  {
+    "id": "mq1m2",
+    "brand": {
+      "en": "SAINT LAURENT",
+      "hu": ""
+    },
+    "name": {
+      "en": "Medium Niki Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mq1m2%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mq1m2%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mq1m2%20(2).jpeg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "wi5ho",
+    "brand": {
+      "en": "VALENTINO",
+      "hu": ""
+    },
+    "name": {
+      "en": "Rockstud Spike Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(2).jpeg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%",
+      "hu": "Állapot: Nagyon Jó \n98%"
+    }
+  },
+  {
+    "id": "00o0b",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Le Trente Cannage Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/00o0b%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/00o0b%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/00o0b%20(2).jpeg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "vm2tu",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Epi Pont Neuf Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vm2tu%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vm2tu%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/vm2tu%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%",
+      "hu": "Állapot: Nagyon Jó \n98%"
+    }
+  },
+  {
+    "id": "3zt19",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clutch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3zt19%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3zt19%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3zt19%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "fvzr4",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Fascination Lockit BB Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fvzr4%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fvzr4%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fvzr4%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "1qvsu",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Pochette Métis ",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Beige",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1qvsu%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1qvsu%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1qvsu%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Excellent \n100%",
+      "hu": "Állapot: Kiváló\n100%"
+    }
+  },
+  {
+    "id": "5wy7g",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Belt Bag",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Grey",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wy7g%20(1).jpeg",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wy7g%20(1).jpeg",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/5wy7g%20(3).jpeg"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "fk0zf",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Boston Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fk0zf%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fk0zf%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fk0zf%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good\n90%",
+      "hu": "Állapot:  Jó \n90%"
+    }
+  },
+  {
+    "id": "eu72c",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Marmont Bag",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eu72c%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eu72c%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eu72c%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "opmvs",
+    "brand": {
+      "en": "HERMES",
+      "hu": ""
+    },
+    "name": {
+      "en": "Picotin 22",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gold",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/opmvs%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/opmvs%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/opmvs%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "lrx7w",
+    "brand": {
+      "en": "HERMES",
+      "hu": ""
+    },
+    "name": {
+      "en": "Picotin",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lrx7w%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lrx7w%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/lrx7w%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n98%",
+      "hu": "Állapot: Nagyon Jó \n98%"
+    }
+  },
+  {
+    "id": "d7ocw",
+    "brand": {
+      "en": "MIU MIU",
+      "hu": ""
+    },
+    "name": {
+      "en": "Clutch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "hkdrn",
+    "brand": {
+      "en": "HERMES",
+      "hu": ""
+    },
+    "name": {
+      "en": "2002",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Bags",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Flamingo",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hkdrn%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hkdrn%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hkdrn%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
     }
   }
 ]
