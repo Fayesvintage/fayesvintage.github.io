@@ -1581,72 +1581,6 @@
     }
   },
   {
-    "id": "7trgc",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Mini Evelyne 16",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2025",
-    "size": "16cm",
-    "color": {
-      "en": "Gold",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7trgc%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
-      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
-    }
-  },
-  {
-    "id": "2qnob",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Mini Evelyne 16",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2025",
-    "size": "16cm",
-    "color": {
-      "en": "Etoupe",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2qnob%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
-      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
-    }
-  },
-  {
     "id": "a9bq6",
     "brand": {
       "en": "HERMÈS",
@@ -1661,7 +1595,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2025",
     "size": "28cm",
     "color": {
@@ -1694,7 +1628,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2021 ",
     "size": "19",
     "color": {
