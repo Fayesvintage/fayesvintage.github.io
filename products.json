@@ -5986,13 +5986,720 @@
     }
   },
   {
-    "id": "9ckyu",
+    "id": "zphxc",
+    "brand": {
+      "en": "LOUIS VUITTON ",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "85.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown Damier",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zphxc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zphxc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zphxc%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good\n90%",
+      "hu": "Állapot:  Jó \n90%"
+    }
+  },
+  {
+    "id": "55s7a",
+    "brand": {
+      "en": "LOUIS VUITTON ",
+      "hu": ""
+    },
+    "name": {
+      "en": "Mini Pouch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "139.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/55s7a%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/55s7a%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/55s7a%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%f"
+    }
+  },
+  {
+    "id": "127tf",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/127tf%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/127tf%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/127tf%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "1fs3d",
+    "brand": {
+      "en": "MIU MIU",
+      "hu": ""
+    },
+    "name": {
+      "en": "Card Holder",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "42.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Blue",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(3).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(4).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good\n90%",
+      "hu": "Állapot:  Jó \n90%"
+    }
+  },
+  {
+    "id": "mjj50",
+    "brand": {
+      "en": "LOUIS VUITTON ",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "85.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Azur Damier",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mjj50%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mjj50%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mjj50%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "b51tz",
+    "brand": {
+      "en": "BOTEGA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "58.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b51tz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b51tz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/b51tz%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "balfc",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "54.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/balfc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/balfc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/balfc%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good\n90%",
+      "hu": "Állapot:  Jó \n90%"
+    }
+  },
+  {
+    "id": "64lpc",
     "brand": {
       "en": "FENDI",
       "hu": ""
     },
     "name": {
-      "en": "Bowling Bag",
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "40.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/64lpc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/64lpc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/64lpc%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "ffcdb",
+    "brand": {
+      "en": "BVLGARI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "89.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcdb%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcdb%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ffcdb%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "f625z",
+    "brand": {
+      "en": "GUCCI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "25.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f625z%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f625z%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/f625z%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition:  Good\n90%",
+      "hu": "Állapot:  Jó \n90%"
+    }
+  },
+  {
+    "id": "c18xk",
+    "brand": {
+      "en": "MIU MIU",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "39.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c18xk%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c18xk%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/c18xk%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "18riv",
+    "brand": {
+      "en": "DIOR",
+      "hu": ""
+    },
+    "name": {
+      "en": "Lady Dior Wallet On Chain",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "159.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Nude",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/18riv%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/18riv%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/18riv%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "rn335",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Scruchie",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "65.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Pink/White/Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rn335%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rn335%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/rn335%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "t9qpa",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sunglasses",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t9qpa%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t9qpa%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t9qpa%20(2).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/t9qpa%20(3).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "4q46d",
+    "brand": {
+      "en": "CARTIER",
+      "hu": ""
+    },
+    "name": {
+      "en": "Sunglasses",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "128.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4q46d%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4q46d%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/4q46d%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "7lwhx",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Rodeo Bag Charm",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "198.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Brown/Pink",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7lwhx%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7lwhx%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/7lwhx%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "9qou3",
+    "brand": {
+      "en": "FENDI",
+      "hu": ""
+    },
+    "name": {
+      "en": "Wallet",
+      "hu": ""
+    },
+    "gender": "men",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9qou3%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9qou3%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9qou3%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "jnnt7",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Watch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jnnt7%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jnnt7%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/jnnt7%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "edcyz",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Watch",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gray",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/edcyz%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/edcyz%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/edcyz%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Never Used\n100%\nAccessories: Full Set",
+      "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
+    }
+  },
+  {
+    "id": "hw6kc",
+    "brand": {
+      "en": "LOUIS VUITTON",
+      "hu": ""
+    },
+    "name": {
+      "en": "Bracelet",
+      "hu": ""
+    },
+    "gender": "women",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "48.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Monogram/Red",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "eifwf",
+    "brand": {
+      "en": "HERMÈS",
+      "hu": ""
+    },
+    "name": {
+      "en": "Scarf Ring",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "79.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Gold/Silver",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eifwf%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eifwf%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/eifwf%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "3i7p3",
+    "brand": {
+      "en": "CHANEL",
+      "hu": ""
+    },
+    "name": {
+      "en": "Brooch",
+      "hu": ""
+    },
+    "gender": "unisex",
+    "family": "Accessories",
+    "price": "",
+    "price_eur": "",
+    "price_huf": "165.000",
+    "tag": "Available",
+    "year": "",
+    "size": "",
+    "color": {
+      "en": "Black/Champagne",
+      "hu": ""
+    },
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3i7p3%20(1).JPG",
+    "images": [
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3i7p3%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/3i7p3%20(2).JPG"
+    ],
+    "description": {
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
+    }
+  },
+  {
+    "id": "6vzh2",
+    "brand": {
+      "en": "DOLCE&GABBANA",
+      "hu": ""
+    },
+    "name": {
+      "en": "Aligator Bag",
       "hu": ""
     },
     "gender": "women",
@@ -6004,18 +6711,17 @@
     "year": "",
     "size": "",
     "color": {
-      "en": "Colorful/Balck",
+      "en": "Black",
       "hu": ""
     },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ckyu%20(1).JPG",
+    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzh2%20(1).JPG",
     "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ckyu%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ckyu%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/9ckyu%20(3).JPG"
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzh2%20(1).JPG",
+      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6vzh2%20(3).JPG"
     ],
     "description": {
-      "en": "Condition:  Good\n90%",
-      "hu": "Állapot:  Jó \n90%"
+      "en": "Condition: Very Good\n95%",
+      "hu": "Állapot: Nagyon Jó \n95%"
     }
   }
 ]
