@@ -1,38 +1,5 @@
 [
   {
-    "id": "0zxca",
-    "gender": "women",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Sac Rabat Lambskin",
-      "hu": "Sac Rabat Kecske bőr"
-    },
-    "price": "",
-    "tag": "Sold",
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0zxca%20(3).JPG"
-    ],
-    "size": "17 × 13.5 × 8 cm",
-    "year": "2022",
-    "color": {
-      "en": "Black / Gold hardware",
-      "hu": "Fekete/Arany hardware"
-    },
-    "description": {
-      "en": "Condition: 98%, exellent;\nAccessories: Full set",
-      "hu": "Állapot: 98%,kiváló;\nKiegészítők:\nFull-szett"
-    },
-    "price_eur": "",
-    "price_huf": "",
-    "family": "Bags"
-  },
-  {
     "id": "badyw",
     "gender": "women",
     "brand": {
@@ -509,7 +476,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "19 x 10 x 2 cm",
     "color": {
@@ -524,38 +491,6 @@
     "description": {
       "en": "Condition: Exellent\n95-98%\nAccessories: None",
       "hu": "Állapot: Kiváló 95-98%"
-    }
-  },
-  {
-    "id": "523k0",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Jet Sneaker",
-      "hu": ""
-    },
-    "gender": "men",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "42",
-    "color": {
-      "en": "Green",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/523k0%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Never used.\nAccessories: Dust bag, Box",
-      "hu": "Állapot: Nem volt használva\nKiegészítők: Porzsák, Doboz"
     }
   },
   {
@@ -1759,7 +1694,7 @@
     "price": "235",
     "price_eur": "235",
     "price_huf": "88.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "S/M",
     "color": {
@@ -1989,7 +1924,7 @@
     "price": "205",
     "price_eur": "205",
     "price_huf": "76.500",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "90 cm",
     "color": {
@@ -2199,39 +2134,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(2).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\n",
-      "hu": "Állapot: Nem Használt 100%\n"
-    }
-  },
-  {
-    "id": "zimka",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wallet On Chain",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "210",
-    "price_eur": "210",
-    "price_huf": "80.000",
-    "tag": "Available",
-    "year": "",
-    "size": "10 cm",
-    "color": {
-      "en": "Maroon ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/zimka%20(3).jpg"
     ],
     "description": {
       "en": "Condition: Never Used\n100%\n",
@@ -2648,7 +2550,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3223,72 +3125,6 @@
     }
   },
   {
-    "id": "v7m1q",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v7m1q%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "k2g79",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/k2g79%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "yktla",
     "brand": {
       "en": "BALENCIAGA",
@@ -3315,39 +3151,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/yktla%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "qg0m3",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qg0m3%20(3).jpg"
     ],
     "description": {
       "en": "",
@@ -3774,38 +3577,6 @@
     }
   },
   {
-    "id": "dvm4z",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Trench Style Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/dvm4z%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "htf3o",
     "brand": {
       "en": "MAXMARA",
@@ -3870,38 +3641,6 @@
     }
   },
   {
-    "id": "e8naf",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Brit Women's Wool Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/e8naf%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "cgv8m",
     "brand": {
       "en": "LOUIS VUITTON",
@@ -3927,70 +3666,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cgv8m%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/cgv8m%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "utx5k",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Track Jacket ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/utx5k%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "q30vf",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lightweight Hooded Rain Jacket ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q30vf%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -4126,38 +3801,6 @@
     }
   },
   {
-    "id": "v907q",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Wool Cape ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v907q%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "im2mc",
     "brand": {
       "en": "GUCCI",
@@ -4183,38 +3826,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "6ua88",
-    "brand": {
-      "en": "BURBERRY",
-      "hu": ""
-    },
-    "name": {
-      "en": "Printed Trench Coat ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6ua88%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -4417,39 +4028,6 @@
     }
   },
   {
-    "id": "nwnjo",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "GG Supreme Web Backpack",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/nwnjo%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "brifu",
     "brand": {
       "en": "VAN CLEEF&ARPELS",
@@ -4596,7 +4174,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5143,71 +4721,6 @@
     }
   },
   {
-    "id": "i5xgy",
-    "brand": {
-      "en": "BOTTEGA VENETA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Mary Jane Pumps",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "250",
-    "price_eur": "250",
-    "price_huf": "92.000",
-    "tag": "Sold",
-    "year": "",
-    "size": "39cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/i5xgy%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/i5xgy%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/i5xgy%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/i5xgy%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Good\n85%",
-      "hu": "Állapot: Jó \n85%"
-    }
-  },
-  {
-    "id": "wi5ho",
-    "brand": {
-      "en": "VALENTINO",
-      "hu": ""
-    },
-    "name": {
-      "en": "Rockstud Spike Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Black/Gold",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(1).jpeg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(1).jpeg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/wi5ho%20(2).jpeg"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n98%",
-      "hu": "Állapot: Nagyon Jó \n98%"
-    }
-  },
-  {
     "id": "00o0b",
     "brand": {
       "en": "DIOR",
@@ -5478,7 +4991,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -6082,40 +5595,6 @@
     }
   },
   {
-    "id": "1fs3d",
-    "brand": {
-      "en": "MIU MIU",
-      "hu": ""
-    },
-    "name": {
-      "en": "Card Holder",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "42.000",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Blue",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(3).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/1fs3d%20(4).JPG"
-    ],
-    "description": {
-      "en": "Condition:  Good\n90%",
-      "hu": "Állapot:  Jó \n90%"
-    }
-  },
-  {
     "id": "mjj50",
     "brand": {
       "en": "LOUIS VUITTON ",
@@ -6150,7 +5629,7 @@
   {
     "id": "b51tz",
     "brand": {
-      "en": "BOTEGA",
+      "en": "BOTTEGA",
       "hu": ""
     },
     "name": {
