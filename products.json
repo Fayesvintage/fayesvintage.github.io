@@ -79,7 +79,7 @@
     "price": "260",
     "price_eur": "260",
     "price_huf": "99.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2016",
     "size": "",
     "color": {
@@ -1825,7 +1825,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -2123,7 +2123,7 @@
     "price": "135",
     "price_eur": "135",
     "price_huf": "50.000",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -3139,7 +3139,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3623,7 +3623,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -3815,7 +3815,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -3912,7 +3912,7 @@
     "price": "530",
     "price_eur": "530",
     "price_huf": "199.000",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "41.5cm",
     "color": {
@@ -3945,7 +3945,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -3977,7 +3977,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "41.5cm",
     "color": {
@@ -4273,7 +4273,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Archived",
     "year": "",
     "size": "",
     "color": {
@@ -4895,7 +4895,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4947,7 +4947,7 @@
   {
     "id": "opmvs",
     "brand": {
-      "en": "HERMES",
+      "en": "HERMÈS",
       "hu": ""
     },
     "name": {
@@ -4979,7 +4979,7 @@
   {
     "id": "lrx7w",
     "brand": {
-      "en": "HERMES",
+      "en": "HERMÈS",
       "hu": ""
     },
     "name": {
@@ -5043,7 +5043,7 @@
   {
     "id": "hkdrn",
     "brand": {
-      "en": "HERMES",
+      "en": "HERMÈS",
       "hu": ""
     },
     "name": {
