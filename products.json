@@ -429,39 +429,6 @@
     "family": "Bags"
   },
   {
-    "id": "ma7pl",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "Lindy26 Taurillon Clemence",
-      "hu": ""
-    },
-    "gender": "women",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "2019",
-    "size": "26 × 18 × 14cm",
-    "color": {
-      "en": "Lindy26 Black Gold",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ma7pl%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Exellent\n95-98%\nAccessories: Full set",
-      "hu": "Állapot: Kiváló\nKiegészítők: Full szett"
-    },
-    "family": "Bags"
-  },
-  {
     "id": "w0ywt",
     "brand": {
       "en": "LOUIS VUITTON",
@@ -1811,39 +1778,6 @@
     }
   },
   {
-    "id": "mwcaj",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "D-Bubble Bucket Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Archived",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Black/White",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/mwcaj%20(3).JPG"
-    ],
-    "description": {
-      "en": "Condition: Excellent\n95%\nAccessories: Full set",
-      "hu": "Állapot:\nKiváló, 95%\nKiegészítők: Full set"
-    }
-  },
-  {
     "id": "9zyp0",
     "brand": {
       "en": "HERMÈS",
@@ -2102,38 +2036,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/kn7o7%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Never Used\n100%\n",
-      "hu": "Állapot: Nem Használt 100%\n"
-    }
-  },
-  {
-    "id": "l4jme",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Agenda Cover MM",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "135",
-    "price_eur": "135",
-    "price_huf": "50.000",
-    "tag": "Archived",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "White",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/l4jme%20(2).jpg"
     ],
     "description": {
       "en": "Condition: Never Used\n100%\n",
@@ -3417,38 +3319,6 @@
     }
   },
   {
-    "id": "08x5k",
-    "brand": {
-      "en": "HERMÈS",
-      "hu": ""
-    },
-    "name": {
-      "en": "",
-      "hu": ""
-    },
-    "gender": "",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/08x5k%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "pykaq",
     "brand": {
       "en": "HERMÈS",
@@ -3801,38 +3671,6 @@
     }
   },
   {
-    "id": "im2mc",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Silk Bomber Jacket ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Clothes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Archived",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/im2mc%20(2).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "w612r",
     "brand": {
       "en": "VERSACE",
@@ -3924,38 +3762,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "et3xv",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Ring Set ",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Archived",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/et3xv%20(2).jpg"
     ],
     "description": {
       "en": "",
@@ -4252,39 +4058,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qztsa%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "pevuc",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Giant Monogram Pouch",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Archived",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pevuc%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pevuc%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pevuc%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/pevuc%20(3).jpg"
     ],
     "description": {
       "en": "",
@@ -5009,38 +4782,6 @@
     }
   },
   {
-    "id": "d7ocw",
-    "brand": {
-      "en": "MIU MIU",
-      "hu": ""
-    },
-    "name": {
-      "en": "Clutch",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Red",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/d7ocw%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n95%",
-      "hu": "Állapot: Nagyon Jó \n95%"
-    }
-  },
-  {
     "id": "hkdrn",
     "brand": {
       "en": "HERMÈS",
@@ -5131,39 +4872,6 @@
     "images": [
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ayvaf%20(1).JPG",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/ayvaf%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n95%",
-      "hu": "Állapot: Nagyon Jó \n95%"
-    }
-  },
-  {
-    "id": "v10e9",
-    "brand": {
-      "en": "BALENCIAGA",
-      "hu": ""
-    },
-    "name": {
-      "en": "Bucket Bag",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Red",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v10e9%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v10e9%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v10e9%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/v10e9%20(3).JPG"
     ],
     "description": {
       "en": "Condition: Very Good\n95%",
@@ -6073,38 +5781,6 @@
     "description": {
       "en": "Condition: Never Used\n100%\nAccessories: Full Set",
       "hu": "Állapot: Nem Használt\n100%\nKiegészítők: Full szett"
-    }
-  },
-  {
-    "id": "hw6kc",
-    "brand": {
-      "en": "LOUIS VUITTON",
-      "hu": ""
-    },
-    "name": {
-      "en": "Bracelet",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "48.000",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Monogram/Red",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/hw6kc%20(2).JPG"
-    ],
-    "description": {
-      "en": "Condition: Very Good\n95%",
-      "hu": "Állapot: Nagyon Jó \n95%"
     }
   },
   {
