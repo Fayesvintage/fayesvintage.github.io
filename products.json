@@ -1120,39 +1120,6 @@
     }
   },
   {
-    "id": "0i3c4",
-    "brand": {
-      "en": "GUCCI",
-      "hu": ""
-    },
-    "name": {
-      "en": "Margaret Handbag Sneake Lether ",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Bags",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Available",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "Snakeskin ",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(1).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(2).JPG",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0i3c4%20(3).jpg"
-    ],
-    "description": {
-      "en": "Condition: Very good, 90-95%\nAccessories: Dustbag",
-      "hu": "Állapot: Nagyon jó, 90-95%\nKiegészítők: Porzsák"
-    }
-  },
-  {
     "id": "4d7x5",
     "brand": {
       "en": "DIOR",
@@ -3729,72 +3696,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0xjsd%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "q8x1a",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "Shearling Fashion Sneakers",
-      "hu": ""
-    },
-    "gender": "men",
-    "family": "Shoes",
-    "price": "530",
-    "price_eur": "530",
-    "price_huf": "199.000",
-    "tag": "Archived",
-    "year": "",
-    "size": "41.5cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/q8x1a%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "2iytt",
-    "brand": {
-      "en": "DIOR",
-      "hu": ""
-    },
-    "name": {
-      "en": "Dior-ID Sneakers",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Shoes",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Archived",
-    "year": "",
-    "size": "41.5cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/2iytt%20(3).jpg"
     ],
     "description": {
       "en": "",
