@@ -837,7 +837,7 @@
     "price": "730",
     "price_eur": "730",
     "price_huf": "280.000",
-    "tag": "Reserved",
+    "tag": "Available",
     "year": "",
     "size": "",
     "color": {
@@ -870,7 +870,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -936,7 +936,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -1035,7 +1035,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -1299,7 +1299,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -1367,7 +1367,7 @@
     "price_huf": "",
     "tag": "Available",
     "year": "",
-    "size": "36cm",
+    "size": "36",
     "color": {
       "en": "Black/Monogram",
       "hu": ""
@@ -3105,7 +3105,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3460,7 +3460,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Archived",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3750,10 +3750,10 @@
     "price_eur": "",
     "price_huf": "",
     "tag": "Available",
-    "year": "",
+    "year": "2023",
     "size": "",
     "color": {
-      "en": "",
+      "en": "red",
       "hu": ""
     },
     "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/brifu%20(1).jpg",
@@ -3980,7 +3980,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4046,7 +4046,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4244,7 +4244,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4310,7 +4310,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -4794,7 +4794,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5238,7 +5238,7 @@
   {
     "id": "b51tz",
     "brand": {
-      "en": "BOTTEGA",
+      "en": "BOTTEGA VENETA",
       "hu": ""
     },
     "name": {
@@ -5506,7 +5506,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5539,7 +5539,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "128.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -5571,7 +5571,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "198.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
