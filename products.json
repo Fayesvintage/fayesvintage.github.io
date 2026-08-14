@@ -1825,7 +1825,7 @@
     "price": "110",
     "price_eur": "110",
     "price_huf": "40.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "11,5 cm",
     "color": {
@@ -2311,7 +2311,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "2023",
     "size": "",
     "color": {
@@ -2726,72 +2726,6 @@
     }
   },
   {
-    "id": "fy8ac",
-    "brand": {
-      "en": "CARTIER",
-      "hu": ""
-    },
-    "name": {
-      "en": "Love Ring",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fy8ac%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fy8ac%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fy8ac%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/fy8ac%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "6kk5z",
-    "brand": {
-      "en": "CARTIER",
-      "hu": ""
-    },
-    "name": {
-      "en": "Love Ring",
-      "hu": ""
-    },
-    "gender": "unisex",
-    "family": "Accessories",
-    "price": "",
-    "price_eur": "",
-    "price_huf": "",
-    "tag": "Sold",
-    "year": "",
-    "size": "",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6kk5z%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6kk5z%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6kk5z%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/6kk5z%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
     "id": "0wcvy",
     "brand": {
       "en": "HERMÈS",
@@ -2818,39 +2752,6 @@
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(1).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(2).jpg",
       "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/0wcvy%20(3).jpg"
-    ],
-    "description": {
-      "en": "",
-      "hu": ""
-    }
-  },
-  {
-    "id": "qsklz",
-    "brand": {
-      "en": "CHANEL",
-      "hu": ""
-    },
-    "name": {
-      "en": "Camellia Flat Slide Sandals",
-      "hu": ""
-    },
-    "gender": "women",
-    "family": "Shoes",
-    "price": "400",
-    "price_eur": "400",
-    "price_huf": "150.000",
-    "tag": "Available",
-    "year": "",
-    "size": "38cm",
-    "color": {
-      "en": "",
-      "hu": ""
-    },
-    "image": "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qsklz%20(1).jpg",
-    "images": [
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qsklz%20(1).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qsklz%20(2).jpg",
-      "https://pub-f052c4f7e0ac470c801422cfc9f4ed22.r2.dev/Products/qsklz%20(3).jpg"
     ],
     "description": {
       "en": "",
@@ -3876,7 +3777,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "40.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3940,7 +3841,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "25.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3972,7 +3873,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "39.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
