@@ -180,7 +180,7 @@
     "price": "80",
     "price_eur": "80",
     "price_huf": "29.900",
-    "tag": "Sold",
+    "tag": "Available",
     "year": "",
     "size": "",
     "color": {
@@ -3745,7 +3745,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "54.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
@@ -3937,7 +3937,7 @@
     "price": "",
     "price_eur": "",
     "price_huf": "65.000",
-    "tag": "Available",
+    "tag": "Sold",
     "year": "",
     "size": "",
     "color": {
